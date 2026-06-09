@@ -66,6 +66,44 @@ Zákon vyjímá tři kategorie koncepcí, přičemž každá má odlišný norma
 
 **Finanční a rozpočtové koncepce (písm. c)):** Výluka odpovídá čl. 3 odst. 8 směrnice SEA; státní rozpočty a jiné čistě finanční dokumenty neurčují podmínky povolování záměrů z přílohy č. 1, a proto nesplňují funkční kritérium rámce. Tato výluka se nevztahuje na operační programy čerpání fondů EU, které reálný programový rámec pro investiční záměry vytvářejí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad pořizuje aktualizaci krajské energetické koncepce, jejíž součástí je vymezení území vhodných pro umístění nových zdrojů energie nad 50 MWt (záměry kategorie I přílohy č. 1) a stanovení kapacitních cílů pro fotovoltaiku a větrnou energii v konkrétních oblastech kraje. Koncepce stanoví, kde a v jakém rozsahu mohou být takové zdroje budovány, a obsahuje podmínky pro jejich provoz (emisní stropy, požadavky na chlazení). Kraj má za to, že jde o „pouhou aktualizaci" stávající koncepce, a SEA neprovádí; spolek na ochranu přírody zpochybňuje zákonnost přijetí koncepce. Bylo by třeba obstarat: text původní i aktualizované koncepce, vyjádření orgánu ochrany přírody k možnému vlivu na evropsky významné lokality, mapy dotčených území a doklad o tom, zda a jak koncepce mění podmínky povolování záměrů.
+
+**2. Právní otázka.** Podléhá aktualizace krajské energetické koncepce, která mění podmínky umístění a kapacity zdrojů energie nad prahem přílohy č. 1, obligatornímu posuzování podle § 10a odst. 1 písm. a), nebo jde o změnu, u níž se povinnost SEA určuje teprve ve zjišťovacím řízení podle písm. c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10a odst. 1 (třístupňová klasifikace koncepcí), odst. 2 (vymezení pojmu „rámec"), odst. 1 písm. c) (změny koncepcí).
+- *Související ustanovení téhož zákona:* § 10d (zjišťovací řízení — určuje, zda změna SEA podléhá); příloha č. 1 (seznam záměrů, pro něž koncepce stanoví rámec); příloha č. 8 (kritéria zjišťovacího řízení).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 2 písm. a) (změny plánů a programů spadají do působnosti), čl. 3 odst. 2 a 3; zákon č. 114/1992 Sb., o ochraně přírody a krajiny (naturové hodnocení); zákon o hospodaření energií jako podkladový sektorový předpis.
+- *Judikatura:* SDEU C-295/10 Valčiukienė — pojem „stanoví rámec" se vykládá extenzivně, postačí ovlivnění podmínek povolování. SDEU C-567/10 Inter-Environnement Bruxelles — i úplné nebo částečné zrušení/změna plánu může vyžadovat SEA, pojem „plán a program" nelze vykládat restriktivně.
+
+**4. Subsumpce.** Energetická koncepce je dokumentem z odvětví energetiky (§ 10a odst. 1 písm. a) — splněno). Stanoví podmínky pro umístění, velikost a provozní podmínky zdrojů nad prahem přílohy č. 1 — naplňuje test „rámce" dle odst. 2 (zejména parametry umístění, velikost, provozní podmínky). Sporné je, zda jde o „změnu" ve smyslu písm. c) (pak by se povinnost SEA určovala ve zjišťovacím řízení), nebo o samostatnou koncepci dle písm. a) (pak SEA vždy). Klíčem je míra věcné novosti: mění-li aktualizace reálně podmínky povolování záměrů (nová území, nové kapacity), nejde o pouhou formální změnu vyňatou z posuzování — naopak naplňuje materiální znaky koncepce kategorie A.
+
+**5. Řešení.** Aktualizace měnící podmínky povolování záměrů přílohy č. 1 podléhá SEA. I kdyby byla kvalifikována jako „změna" dle písm. c), výjimka pro změny „formálního charakteru, které zcela zjevně nemohou mít významný vliv" se neuplatní — vymezení nových území a kapacit zjevně vliv mít může. Kraj proto měl podat oznámení (§ 10c) a provést alespoň zjišťovací řízení; provedení nemohlo být zcela vynecháno. Pravděpodobný výsledek soudního přezkumu (je-li koncepce vydána jako opatření obecné povahy nebo navázána na ÚPD): nezákonnost pro absenci SEA. Procesní kroky spolku: námitky v procesu, případně návrh na zrušení opatření obecné povahy (§ 101a s. ř. s.) nebo podnět k přezkumu.
+
+**6. Varianty.** (a) Kdyby aktualizace pouze opravovala písařské chyby a aktualizovala statistická data bez změny podmínek povolování, šlo by o změnu formálního charakteru vyňatou ze zjišťovacího řízení dle § 10a odst. 1 písm. c) in fine. (b) Kdyby orgán ochrany přírody vydal stanovisko, že nelze vyloučit významný vliv na evropsky významnou lokalitu, koncepce by podléhala SEA vždy bez ohledu na sektorové zařazení (naturový alternativní test dle písm. a)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jde jen o aktualizaci, nikoli novou koncepci".* Neutralizace: rozhodující není formální označení dokumentu, ale jeho materiální obsah; mění-li podmínky povolování záměrů, jde věcně o koncepci dle písm. a) nebo o nikoli-formální změnu dle písm. c). Pojem koncepce se dle SDEU (Inter-Environnement Bruxelles) vykládá funkčně.
+- *Protiargument „rámec není stanoven, koncepce je jen indikativní".* Neutralizace: test „rámce" dle odst. 2 a judikatury Valčiukienė je extenzivní — postačí ovlivnění podmínek, za nichž budou záměry povolovány; právní nezávaznost koncepce ji nevyjímá, je-li fakticky determinující.
+- *Slabé místo:* hranice mezi „formální" a „materiální" změnou není v zákoně ostrá a závisí na skutkovém posouzení konkrétního obsahu aktualizace; bez detailní analýzy textu koncepce nelze závěr učinit s jistotou. Chybí česká judikatura přímo k energetickým koncepcím; argumentace se opírá o eurokonformní výklad.
+
+#### H. Praktický závěr
+
+V praxi je § 10a vstupní branou SEA: nejprve je nutné určit, zda dokument vůbec spadá pod posuzování. Postupuje se dvojím testem — (i) sektorové zařazení dle odst. 1 písm. a) a (ii) test „rámce" dle odst. 2 — a paralelně se ověřuje naturový alternativní test (vliv na EVL/ptačí oblast). U změn se zkoumá, zda nejde o formální změnu bez možného vlivu.
+
+**Checklist (advokát / soud / správní orgán / předkladatel):**
+- [ ] Spadá dokument do některého z odvětví vyjmenovaných v § 10a odst. 1 písm. a)?
+- [ ] Stanoví dokument rámec pro povolování záměrů přílohy č. 1 (umístění, povaha, velikost, provozní podmínky, požadavky na zdroje — odst. 2)?
+- [ ] Existuje stanovisko orgánu ochrany přírody k vlivu na EVL/ptačí oblast (alternativní test pro obligatorní SEA)?
+- [ ] Jde o koncepci místního významu (písm. b)) nebo o změnu (písm. c)) — tedy podléhá-li SEA až dle zjišťovacího řízení?
+- [ ] Nejde o výluku dle odst. 4 (obrana státu výhradně, krizová koncepce, finanční/rozpočtová koncepce)?
+- [ ] Nezaměňuje se SEA s EIA — neopomíjí se SEA s odkazem na budoucí EIA záměrů (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** text koncepce a její změny; vymezení dotčeného území; stanovisko orgánu ochrany přírody; doklady o podmínkách povolování záměrů; příloha č. 1 (seznam záměrů); příloha č. 8 (kritéria) pro koncepce kategorie B a C.
+
 ---
 
 ### § 10b — Způsob posuzování vlivů koncepce na životní prostředí
@@ -106,6 +144,44 @@ Za prvé, posuzování musí zahrnovat návrh **zmírňujících opatření** (m
 
 Za druhé, je-li koncepce zpracovávána ve **variantách**, musí být posuzovány **všechny** varianty. Tato povinnost je kategorická — zákon neumožňuje vyhodnotit pouze preferovanou variantu a ostatní popsat jen rámcově. Srovnávací vyhodnocení variant je jedním z nejvýznamnějších přínosů SEA oproti EIA: zatímco EIA standardně posuzuje konkrétní projekt (případně v omezených variantách), SEA je nástrojem výběru mezi strategickými alternativami a může zásadně ovlivnit, která varianta je nakonec přijata.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Předkladatel zpracovává plán odpadového hospodářství kraje ve dvou variantách lišících se umístěním a kapacitou nového zařízení na energetické využití odpadu (ZEVO). Posuzovatel vyhodnotí pouze preferovanou variantu (s ZEVO), druhou variantu (bez ZEVO, s důrazem na recyklaci) popíše jen rámcově a nulovou variantu zcela vynechá s odůvodněním, že „nečinnost není reálná". Vyhodnocení rovněž nezohlední souběžně připravovaný krajský plán dopravy, jenž má vést novou komunikaci ke ZEVO. Spolek namítá neúplnost vyhodnocení. Bylo by třeba obstarat: text vyhodnocení (příloha č. 9), obě varianty koncepce, doklad o existenci souběžného dopravního plánu a metodiku posouzení kumulativních vlivů.
+
+**2. Právní otázka.** Splňuje vyhodnocení zákonný standard § 10b, jestliže (i) nehodnotí nulovou variantu, (ii) hodnotí jen jednu z reálných variant koncepce a (iii) nepřihlíží k souběžně plánované koncepci s prostorovou vazbou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10b odst. 1 (povinnost hodnotit provedení i neprovedení — nulová varianta), odst. 2 (kumulativní vlivy jiných koncepcí a záměrů), odst. 4 věta druhá (povinné posouzení všech variant).
+- *Související ustanovení téhož zákona:* § 10d odst. 3 písm. a) (požadavek na varianty stanovený ve zjišťovacím řízení); § 10e (odpovědnost posuzovatele za úplnost); příloha č. 9 (náležitosti vyhodnocení); § 10f odst. 2 (vrácení neúplného vyhodnocení).
+- *Související předpisy:* směrnice 2001/42/ES, příloha I písm. b) (nulová varianta), písm. f) (kumulativní vlivy), písm. h) (přiměřené alternativy); zákon č. 541/2020 Sb., o odpadech.
+- *Judikatura:* SDEU C-461/17 Holohan — environmentální hodnocení musí posoudit i přiměřené alternativy a nesmí opomenout kumulativní vlivy; přenositelné i na SEA. Závěry NSS k územním plánům: opomenutí variantního řešení a kumulativních vlivů zakládá nepřezkoumatelnost, resp. nezákonnost opatření obecné povahy.
+
+**4. Subsumpce.** Nulová varianta je dle odst. 1 obligatorní součástí posuzování („provedení i neprovedení koncepce") — její vynechání je porušením zákona bez ohledu na argument „nereálnosti", neboť plní srovnávací funkci. Je-li koncepce řešena ve variantách, odst. 4 věta druhá kategoricky vyžaduje posoudit všechny varianty — rámcový popis druhé varianty nesplňuje standard „posouzení". Souběžný dopravní plán s prostorovou vazbou je „jinou koncepcí, jejíž provedení je zamýšleno" dle odst. 2 — povinnost přihlédnout ke kumulativním vlivům je naplněna jen tehdy, jsou-li tyto vlivy skutečně vyhodnoceny.
+
+**5. Řešení.** Vyhodnocení je neúplné a nesplňuje § 10b. Příslušný úřad je povinen je vrátit k doplnění (§ 10f odst. 2). Doplnění musí zahrnovat: (i) nulovou variantu jako referenční scénář, (ii) plnohodnotné srovnávací posouzení obou variant koncepce a (iii) vyhodnocení kumulativních vlivů ve vztahu k dopravnímu plánu. Bez nápravy by SEA stanovisko (§ 10g) bylo vydáno na vadném podkladě a koncepce by mohla být zrušena. Procesní krok spolku: námitka neúplnosti ve fázi vyjádření k návrhu koncepce (§ 10f odst. 5).
+
+**6. Varianty.** (a) Kdyby koncepce byla zpracována jen v jediné variantě (zjišťovací řízení varianty nepožadovalo), povinnost posuzovat „všechny varianty" by se redukovala na tuto jedinou plus nulovou variantu — výtka k variantám by odpadla, nulová varianta by však zůstala povinná. (b) Kdyby souběžný dopravní plán neměl k ZEVO žádnou věcnou ani prostorovou vazbu, povinnost kumulativního posouzení by se na něj nevztahovala (chybí relevantní synergie dle odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nulová varianta je u povinné koncepce fiktivní, neboť kraj plán přijmout musí".* Neutralizace: nulová varianta neslouží jako reálná volba, nýbrž jako referenční srovnávací základna pro posouzení vlivů (příloha I písm. b) směrnice); její funkce je metodická, nikoli rozhodovací — proto je povinná i tam, kde přijetí koncepce je nevyhnutelné.
+- *Protiargument „hloubku kumulativního posouzení zákon neurčuje, postačilo tedy zmínit dopravní plán".* Neutralizace: ač zákon hloubku nestanoví (ponechává ji metodice a uvážení posuzovatele), pouhá zmínka bez vyhodnocení synergických vlivů neplní účel odst. 2; standard je věcný, nikoli formální.
+- *Slabé místo:* mezi „přiměřenými" a nepřiměřenými variantami, které je nutno hodnotit, je prostor pro uvážení; pokud druhá varianta nebyla v zadání (zjišťovacím řízení) vůbec požadována, je výtka slabší. Rozsah relevantních souběžných koncepcí může být sporný a obtížně dohledatelný.
+
+#### H. Praktický závěr
+
+§ 10b určuje obsahový standard vyhodnocení. Tři pilíře jsou: nulová varianta (provedení i neprovedení), kumulativní/synergické vlivy a povinné posouzení všech variant doplněné návrhem zmírňujících opatření s vyhodnocením jejich účinnosti. Formalistické nebo neúplné vyhodnocení je vratitelné a v krajním případě vede k nezákonnosti koncepce.
+
+**Checklist (advokát / soud / posuzovatel / příslušný úřad):**
+- [ ] Obsahuje vyhodnocení nulovou variantu (scénář neprovedení koncepce) jako srovnávací základnu?
+- [ ] Jsou posouzeny přímé i nepřímé vlivy pro celé období provádění koncepce?
+- [ ] Jsou vyhodnoceny kumulativní a synergické vlivy ve vztahu k jiným koncepcím a záměrům (i zamýšleným)?
+- [ ] Jsou posouzeny všechny varianty, je-li koncepce řešena variantně (nejen preferovaná)?
+- [ ] Jsou navržena zmírňující opatření (prevence, eliminace, redukce, kompenzace) včetně vyhodnocení jejich předpokládané účinnosti?
+- [ ] Odpovídají případně převzatá data z jiného posuzování požadavkům zákona (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** vyhodnocení dle přílohy č. 9; všechny varianty koncepce; metodika a vstupní data (baseline); přehled souběžných koncepcí a záměrů; doklad o navržených zmírňujících opatřeních a jejich účinnosti.
+
 ---
 
 ### § 10c — Oznámení koncepce
@@ -135,6 +211,44 @@ Lhůta 10 pracovních dnů od obdržení úplného oznámení je procesní lhůt
 #### Participace veřejnosti v počáteční fázi SEA (odst. 3)
 
 Lhůta 20 dnů od zveřejnění pro písemná vyjádření veřejnosti implementuje čl. 6 odst. 2 směrnice SEA, který vyžaduje, aby veřejnost měla „včasnou a účinnou příležitost" se k návrhu plánu nebo programu vyjádřit ještě před jeho přijetím. Vyjádření v oznámení fázi slouží primárně pro zjišťovací řízení — jsou jedním z podkladů, na nichž příslušný úřad buduje závěr o obsahu a rozsahu vyhodnocení. Právo vyjádřit se má „každý" — zákon nevyžaduje kvalifikovaný zájem ani procesní způsobilost. Tím je naplněn princip otevřenosti a transparentnosti vyplývající z čl. 7 Aarhuské úmluvy (Úmluva o přístupu k informacím, účasti veřejnosti na rozhodování a přístupu k právní ochraně v záležitostech životního prostředí), k níž Česká republika přistoupila. Preklúze vyjádření po uplynutí 20 dnů je přísná — příslušný úřad je povinen k opožděným vyjádřením nepřihlédnout.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Předkladatel (ministerstvo) podá příslušnému úřadu oznámení koncepce, které však neobsahuje všechny náležitosti přílohy č. 7 — chybí v něm popis předpokládaných vlivů na životní prostředí a vymezení dotčeného území. Příslušný úřad přesto oznámení rozešle dotčeným orgánům a zveřejní. Občan se chce ke koncepci vyjádřit, ale dozví se o ní až 25. den po zveřejnění a své vyjádření odešle 22 dní po zveřejnění. Příslušný úřad k vyjádření nepřihlédne. Bylo by třeba obstarat: text oznámení a doklad o jeho náležitostech dle přílohy č. 7, doklad o datu zveřejnění podle § 16, doklad o datu odeslání vyjádření občana.
+
+**2. Právní otázka.** (i) Zakládá neúplné oznámení (bez náležitostí přílohy č. 7) procesní povinnost příslušného úřadu je rozeslat a zveřejnit? (ii) Je preklúze vyjádření podaného po lhůtě 20 dnů dle § 10c odst. 3 absolutní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10c odst. 1 (náležitosti oznámení dle přílohy č. 7), odst. 2 (lhůta 10 pracovních dnů, distribuce a zveřejnění), odst. 3 (lhůta 20 dnů pro vyjádření a preklúze).
+- *Související ustanovení téhož zákona:* § 16 (způsob zveřejňování); § 10d (zjišťovací řízení navazující na oznámení); příloha č. 7 (náležitosti oznámení).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 6 odst. 2 (včasná a účinná příležitost veřejnosti vyjádřit se); Aarhuská úmluva, čl. 7 (účast veřejnosti na přípravě plánů a programů).
+- *Judikatura:* obecné závěry SDEU k čl. 6 směrnice SEA — příležitost veřejnosti musí být „včasná a účinná", lhůty nesmějí být nastaveny tak, aby tuto účinnost vyprázdnily. Judikatura NSS k preklúzi: zákonné koncentrační lhůty jsou ústavně konformní, pokud byla zachována reálná možnost se s podklady seznámit.
+
+**4. Subsumpce.** Oznámení bez náležitostí přílohy č. 7 (chybí popis vlivů a vymezení území) není úplným oznámením ve smyslu odst. 1 — nezakládá procesní povinnost úřadu je vypořádat a rozesílat (viz výklad: „nedostatečné oznámení nezakládá procesní povinnost příslušného úřadu"). Přesto-li je úřad rozeslal, jednal nad rámec povinnosti; běh lhůt pro veřejnost je tím však zatížen vadou, neboť veřejnost nedostala úplný podklad. Vyjádření občana podané 22. den překračuje lhůtu 20 dnů dle odst. 3 — jazykově preklúze nastala („k vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží").
+
+**5. Řešení.** Správný postup příslušného úřadu byl vyzvat předkladatele k doplnění oznámení o náležitosti přílohy č. 7 a teprve poté spustit distribuci, zveřejnění a běh lhůty pro vyjádření. Pokud úřad zveřejnil neúplné oznámení, je obrana proti preklúzi silnější: lhůta 20 dnů má běžet od zveřejnění úplného oznámení, neboť jen tehdy je naplněn požadavek „účinné příležitosti" dle čl. 6 směrnice SEA. Striktní uplatnění preklúze na vyjádření k vadně zveřejněnému oznámení by mohlo být eurokonformně korigováno. Procesní krok: namítat vadu zveřejnění a domáhat se zohlednění vyjádření; vada se může promítnout do zákonnosti závěru zjišťovacího řízení (§ 10d).
+
+**6. Varianty.** (a) Kdyby oznámení bylo úplné a řádně zveřejněné, preklúze vyjádření po 20 dnech by byla bez výhrad účinná — úřad by k němu nepřihlížel a postup by byl zákonný. (b) Kdyby šlo o koncepci s předpokládanými místními vlivy jen v jedné obci, příslušný úřad by tuto obec určil jako dotčenou (odst. 2) a doručoval by jí informaci o oznámení; opomenutí takové obce by bylo vadou distribuce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „preklúze je jednoznačná, vyjádření po 20 dnech nelze zohlednit".* Neutralizace: jazykově ano, avšak běh lhůty předpokládá řádné (úplné) zveřejnění; byla-li veřejnost zkrácena vadným oznámením, je třeba lhůtu posuzovat eurokonformně s ohledem na čl. 6 směrnice SEA (účinná příležitost).
+- *Protiargument „náležitosti přílohy č. 7 jsou jen pořádkové, vada nezpůsobuje neúčinnost oznámení".* Neutralizace: chybí-li popis vlivů a vymezení území, je veřejnost i dotčené orgány připravena o klíčový informační základ pro vyjádření i pro zjišťovací řízení — jde o podstatnou, nikoli pořádkovou vadu.
+- *Slabé místo:* fáze oznámení je předběžná a vyjádření zde slouží primárně jako podklad zjišťovacího řízení; samostatná soudní napadnutelnost pochybení v této fázi je omezená a projeví se zpravidla až při přezkumu výsledné koncepce. Posouzení „úplnosti" oznámení je do jisté míry uvážením úřadu.
+
+#### H. Praktický závěr
+
+§ 10c zahajuje proces SEA podáním oznámení (scoping dokument dle přílohy č. 7) a otevírá první kolo participace. Klíčové jsou tři lhůty: úplnost oznámení jako podmínka jeho účinnosti, 10 pracovních dnů pro distribuci a zveřejnění, 20 dnů pro vyjádření veřejnosti s preklúzí. Eurokonformní výklad vyžaduje, aby běh lhůty pro veřejnost navazoval na řádné (úplné) zveřejnění.
+
+**Checklist (advokát / soud / příslušný úřad / předkladatel):**
+- [ ] Obsahuje oznámení všechny náležitosti přílohy č. 7 (zejména popis vlivů a vymezení dotčeného území)?
+- [ ] Bylo oznámení do 10 pracovních dnů rozesláno dotčeným orgánům, krajům a určeným dotčeným obcím a zveřejněno podle § 16?
+- [ ] Byly jako „dotčené" určeny obce s ohledem na předpokládané místní vlivy (správní uvážení v mezích zákona)?
+- [ ] Běží lhůta 20 dnů pro vyjádření od zveřejnění úplného oznámení?
+- [ ] Bylo vyjádření podáno v zákonné lhůtě (jinak preklúze — úřad nepřihlíží)?
+- [ ] Byla zachována reálná možnost veřejnosti se s oznámením seznámit (čl. 6 směrnice SEA, čl. 7 Aarhuské úmluvy)?
+
+**Typicky rozhodné důkazy / podklady:** text oznámení a doklad o splnění náležitostí přílohy č. 7; doklad o datu a způsobu zveřejnění (§ 16); rozdělovník dotčených orgánů, krajů a obcí; doklad o datu odeslání jednotlivých vyjádření.
 
 ---
 
@@ -188,6 +302,44 @@ Rozhodne-li příslušný úřad, že SEA není třeba, musí uvést **důvody**
 
 Závěr zjišťovacího řízení je distribuován a zveřejněn stejnému okruhu subjektů jako oznámení (§ 10c odst. 2). Zveřejnění závěru je podmínkou pro to, aby veřejnost mohla sledovat průběh SEA a případně se podílet na dalších fázích — participace na návrhu koncepce (§ 10f) nebo podání vyjádření k SEA stanovisku (§ 10g).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec pořizuje koncepci rozvoje místního významu (kategorie B dle § 10a odst. 1 písm. b)), která vymezuje plochy pro drobnou výrobu a rekreaci na území jediné obce. V oznámení uvede, že vlivy budou zanedbatelné. Příslušný úřad vydá závěr zjišťovacího řízení, v němž jednou větou konstatuje „koncepce nebude posuzována", aniž by uvedl, proč nelze vyloučit/lze vyloučit významný vliv a jak zohlednil kritéria přílohy č. 8; sousední obec přitom upozornila, že v dotčeném území leží evropsky významná lokalita. Bylo by třeba obstarat: oznámení, závěr zjišťovacího řízení, vyjádření dotčených orgánů a sousední obce, stanovisko orgánu ochrany přírody a doklad o poloze EVL.
+
+**2. Právní otázka.** Je závěr zjišťovacího řízení, jímž se SEA nepožaduje, zákonný, jestliže neobsahuje odůvodnění opírající se o kritéria přílohy č. 8 a nevypořádá upozornění na možný vliv na evropsky významnou lokalitu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10d odst. 1 (scoping a screening), odst. 2 (kritéria přílohy č. 8, lhůta 35 dnů, odůvodněný písemný závěr), odst. 4 (povinnost uvést důvody nepožadování SEA).
+- *Související ustanovení téhož zákona:* § 10a odst. 1 písm. a) a b) (kategorie A/B, naturový test); § 10c (oznámení a vyjádření jako podklad); příloha č. 8 (kritéria); § 10i odst. 2 (obdobná screeningová funkce v územní SEA).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 3 odst. 3–5 (screening malých území), odst. 7 (zveřejnění důvodů nevyžádání SEA), příloha II (kritéria); zákon č. 114/1992 Sb. (naturové hodnocení).
+- *Judikatura:* usnesení rozšířeného senátu NSS č. j. 1 Ao 1/2006-74 — územní plán je opatřením obecné povahy přezkoumatelným soudem; nedostatečně odůvodněný závěr zjišťovacího řízení je důvodem zrušení. SDEU C-295/10 Valčiukienė — důvody nevyžádání SEA musí být přezkoumatelné.
+
+**4. Subsumpce.** U koncepce kategorie B plní zjišťovací řízení funkci screeningu — rozhoduje, zda SEA bude vůbec provedeno (odst. 1 věta druhá). Závěr musí být dle odst. 2 vždy „odůvodněný písemný" a dle odst. 4 musí uvádět „důvody, pro které není posuzování požadováno". Jednověté konstatování bez opory v kritériích přílohy č. 8 tento standard nesplňuje. Upozornění na EVL aktivuje naturový test dle § 10a odst. 1 písm. a) — pokud nelze vyloučit významný vliv na předmět ochrany EVL, koncepce by podléhala SEA vždy; ignorování tohoto upozornění je vadou odůvodnění i možným porušením habitatové ochrany.
+
+**5. Řešení.** Závěr zjišťovacího řízení je nezákonný pro nedostatek odůvodnění (porušení odst. 2 a 4) a pro nevypořádání naturové námitky. Příslušný úřad měl: (i) vyžádat/zohlednit stanovisko orgánu ochrany přírody k vlivu na EVL, (ii) posoudit kritéria přílohy č. 8 a (iii) své úvahy přezkoumatelně odůvodnit. Je-li koncepce následně vydána jako opatření obecné povahy nebo navázána na ÚPD, hrozí její zrušení správním soudem právě pro vadu závěru zjišťovacího řízení. Procesní krok dotčené obce/spolku: napadnout závěr (jako podklad) v rámci přezkumu výsledné koncepce; lze podat i podnět k přezkumu.
+
+**6. Varianty.** (a) Kdyby orgán ochrany přírody vyloučil významný vliv na EVL a úřad by řádně odůvodnil závěr s odkazem na kritéria přílohy č. 8 (malé území, marginální vlivy), negativní závěr (SEA se neprovádí) by byl zákonný. (b) Kdyby šlo o koncepci kategorie A (písm. a)), zjišťovací řízení by neplnilo screeningovou funkci vůbec — SEA by probíhala obligatorně a zjišťovací řízení by jen scopingově vymezilo obsah a rozsah vyhodnocení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „u malých místních koncepcí postačí stručné odůvodnění".* Neutralizace: i stručné odůvodnění musí být přezkoumatelné a opřené o kritéria přílohy č. 8; čl. 3 odst. 7 směrnice SEA výslovně vyžaduje, aby důvody nevyžádání SEA byly veřejně dostupné a srozumitelné — jednověté konstatování tomu nedostojí.
+- *Protiargument „lhůta 35 dnů byla dodržena, závěr je tedy platný".* Neutralizace: dodržení lhůty nesanuje obsahovou vadu (chybějící odůvodnění, nevypořádání naturové námitky); překročení lhůty je naopak vadou, ale nezpůsobuje nicotnost — rozhodující je věcná zákonnost závěru.
+- *Slabé místo:* závěr zjišťovacího řízení je podkladovým úkonem, nikoli samostatně napadnutelným rozhodnutím; jeho vada se projeví zpravidla až v přezkumu výsledné koncepce, což oslabuje včasnost obrany. Posouzení kritérií přílohy č. 8 obsahuje prvek odborného uvážení úřadu.
+
+#### H. Praktický závěr
+
+§ 10d je rozcestníkem SEA: u kategorie A scopuje (obsah a rozsah vyhodnocení, varianty), u kategorií B a C navíc screeninguje (zda SEA vůbec proběhne). Závěr musí být vždy písemný, odůvodněný a opřený o kritéria přílohy č. 8; negativní závěr (SEA se neprovádí) je obzvlášť citlivý na kvalitu odůvodnění a je přezkoumatelný v rámci přezkumu výsledné koncepce.
+
+**Checklist (advokát / soud / příslušný úřad / dotčený orgán):**
+- [ ] Jde o koncepci kategorie A (scoping), nebo B/C (screening + scoping)?
+- [ ] Je závěr zjišťovacího řízení písemný a odůvodněný, s oporou v kritériích přílohy č. 8?
+- [ ] U negativního závěru — jsou uvedeny konkrétní důvody, proč se SEA nepožaduje (odst. 4, čl. 3 odst. 7 směrnice)?
+- [ ] Byl vypořádán naturový test (vliv na EVL/ptačí oblast) a zohledněno stanovisko orgánu ochrany přírody?
+- [ ] U pozitivního závěru — vymezuje obsah a rozsah vyhodnocení včetně požadavku na varianty a počet vyhotovení (odst. 3)?
+- [ ] Byl závěr neprodleně rozeslán a zveřejněn podle § 16 (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení a obdržená vyjádření; závěr zjišťovacího řízení a jeho odůvodnění; stanovisko orgánu ochrany přírody (naturový test); doklad o aplikaci kritérií přílohy č. 8; doklad o zveřejnění a rozeslání závěru.
+
 ---
 
 ### § 10e — Průběh posuzování vlivů koncepce na životní prostředí
@@ -221,6 +373,44 @@ Zákon konstruuje systém vzájemné součinnosti:
 Předkladatel je povinen posuzovatel informovat o průběžných vyjádřeních (odst. 2) a spolupracovat na integraci navrhovaných zmírňujících opatření do návrhu koncepce (odst. 5). Tato povinnost iterativní integrace je jádrem SEA jako efektivního nástroje: posuzování nesmí probíhat paralelně s přípravou koncepce bez vzájemné interakce, nýbrž musí průběžně ovlivňovat její obsah.
 
 Posuzovatel má naproti tomu aktivní právo požadovat informace od celého okruhu subjektů — předkladatele, příslušného úřadu, dotčených orgánů a územních samosprávných celků — a ti jsou povinni informace poskytnout. Odmítnutí je možné pouze ze zákonných důvodů (typicky utajované informace, obchodní tajemství). Právo posuzovatele na informace zajišťuje, aby vyhodnocení bylo podloženo dostatečnými daty o stavu životního prostředí, aniž by posuzovatel byl závislý výhradně na informacích poskytnutých předkladatelem (který má zájem na realizaci koncepce).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Předkladatel pověří zpracováním vyhodnocení autorizovanou osobu (posuzovatele) podle § 19. Posuzovatel požádá dotčený vodohospodářský orgán a krajský úřad o data o stavu povrchových vod a o zatížení území; vodohospodářský orgán poskytnutí odmítne s tím, že „nemá kapacitu data zpracovat". Předkladatel zároveň posuzovateli nepředá vyjádření obce došlá v průběhu zpracování návrhu a doporučená zmírňující opatření do koncepce nezahrne, aniž by to jakkoli odůvodnil. Bylo by třeba obstarat: doklad o autorizaci posuzovatele, žádost o informace a odpověď vodohospodářského orgánu, došlá vyjádření obce a doklad o tom, zda byla posuzovateli předána, a srovnání doporučených opatření s finálním návrhem koncepce.
+
+**2. Právní otázka.** (i) Smí dotčený orgán odmítnout poskytnutí informací posuzovateli z důvodu nedostatku kapacity? (ii) Jaké jsou důsledky toho, že předkladatel nepředal posuzovateli došlá vyjádření a nezohlednil doporučená zmírňující opatření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10e odst. 1 a 3 (autorizace a odpovědnost posuzovatele za úplnost a objektivitu), odst. 2 (povinnost předkladatele předávat došlá vyjádření), odst. 4 (právo posuzovatele na informace a omezené důvody odmítnutí), odst. 5 (součinnost při zohlednění doporučených opatření).
+- *Související ustanovení téhož zákona:* § 19 (autorizace osob); příloha č. 9 (náležitosti vyhodnocení); § 10f odst. 2 (vrácení neúplného vyhodnocení); § 10b odst. 4 (zmírňující opatření).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 5 odst. 4 (kontrola kvality zprávy, konzultace orgánů); zvláštní předpisy zakládající důvody odmítnutí informací (utajované informace, obchodní tajemství); zákon č. 123/1998 Sb., o právu na informace o životním prostředí.
+- *Judikatura:* obecné zásady správního práva o povinnosti součinnosti orgánů a o tom, že interní organizační obtíže nejsou zákonným důvodem odmítnutí zákonné povinnosti; závěry NSS o nepřezkoumatelnosti při nezohlednění relevantních podkladů.
+
+**4. Subsumpce.** Posuzovatel je autorizovanou osobou dle § 19 (odst. 1) a odpovídá za úplnost a objektivitu vyhodnocení (odst. 3). Jeho právo na informace dle odst. 4 je korelováno povinností dotčených orgánů informace poskytnout; odmítnout lze „pouze za podmínek stanovených zvláštními právními předpisy" — nedostatek kapacity mezi tyto důvody nepatří, odmítnutí je proto protiprávní. Předkladatel porušil odst. 2 (nepředal došlá vyjádření) a odst. 5 (nezohlednil doporučená opatření bez odůvodnění) — tím narušil iterativní integraci, jež je jádrem SEA.
+
+**5. Řešení.** Vodohospodářský orgán je povinen data poskytnout; odmítnutí z kapacitních důvodů je nezákonné a posuzovatel se může domáhat součinnosti, případně upozornit příslušný úřad. Nepředání vyjádření a nezohlednění doporučených opatření ohrožuje úplnost vyhodnocení — pokud výsledné vyhodnocení nemá náležitosti přílohy č. 9, příslušný úřad je vrátí k doplnění (§ 10f odst. 2). Předkladatel se může od doporučených opatření odchýlit jen transparentně a s odůvodněním; mlčky je pominout nelze, neboť to oslabuje legitimitu i přezkoumatelnost SEA. Procesní krok: zajistit doplnění dat a předání vyjádření, doložit vypořádání doporučených opatření.
+
+**6. Varianty.** (a) Kdyby požadovaná data byla utajovanými informacemi nebo obchodním tajemstvím chráněným zvláštním předpisem, odmítnutí by bylo zákonné (odst. 4 in fine) a posuzovatel by musel vyhodnocení zpracovat z jinak dostupných podkladů. (b) Kdyby předkladatel doporučená opatření nezahrnul, ale řádně odůvodnil (např. technickou neproveditelností), postup by byl v souladu s odst. 5 — povinnost je zohlednit, nikoli bezvýhradně převzít.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „posuzovatele zajišťuje a platí předkladatel, je tedy fakticky závislý".* Neutralizace: zákon proto výslovně odděluje odpovědnost — za koncepci odpovídá předkladatel, za úplnost a objektivitu vyhodnocení posuzovatel (odst. 3); nezávislost je dále posílena právem posuzovatele na informace přímo od dotčených orgánů (odst. 4), nezávisle na předkladateli.
+- *Protiargument „doporučení posuzovatele nejsou pro předkladatele závazná".* Neutralizace: ano, nejsou absolutně závazná, avšak odst. 5 zakládá povinnost s cílem je zohlednit; odchylka musí být odůvodněna — mlčící pominutí je vadou postupu promítající se do přezkumu koncepce.
+- *Slabé místo:* zákon neurčuje sankci za porušení součinnosti přímo v § 10e; vada se projeví nepřímo (neúplnost vyhodnocení, nezákonnost koncepce). Hranice mezi „zohledněním" a „převzetím" doporučených opatření ponechává předkladateli prostor pro uvážení.
+
+#### H. Praktický závěr
+
+§ 10e řídí samotný průběh zpracování vyhodnocení. Stěžejní je oddělení rolí (předkladatel vs. autorizovaný posuzovatel), právo posuzovatele na informace od dotčených subjektů (odmítnutí jen ze zákonných důvodů) a iterativní integrace doporučených zmírňujících opatření do návrhu koncepce. Porušení součinnosti se projeví neúplností vyhodnocení a nepřímo ohrožuje zákonnost koncepce.
+
+**Checklist (advokát / soud / předkladatel / posuzovatel / dotčený orgán):**
+- [ ] Je posuzovatel osobou autorizovanou podle § 19 a byl ohlášen příslušnému úřadu nejpozději s předáním návrhu koncepce?
+- [ ] Předával předkladatel posuzovateli průběžně došlá vyjádření (odst. 2)?
+- [ ] Bylo právo posuzovatele na informace respektováno — bylo odmítnutí (pokud k němu došlo) opřeno o zvláštní předpis, nikoli o kapacitní důvody (odst. 4)?
+- [ ] Byla doporučená zmírňující opatření zohledněna v návrhu koncepce, nebo je odchylka odůvodněna (odst. 5)?
+- [ ] Zohledňuje vyhodnocení současný stav životního prostředí i aktuální metody a poznatky (odst. 3)?
+- [ ] Má vyhodnocení náležitosti přílohy č. 9 (jinak vrácení k doplnění dle § 10f odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o autorizaci posuzovatele (§ 19); žádosti o informace a odpovědi dotčených orgánů; evidence došlých vyjádření a dokladů o jejich předání posuzovateli; srovnání doporučených opatření s finálním návrhem koncepce a odůvodnění případných odchylek.
 
 ---
 
@@ -269,6 +459,44 @@ Zákon výslovně vylučuje aplikaci § 17 (zvláštní úprava veřejného proj
 Postslyšební fáze je klíčová pro legitimitu SEA: předkladatel a posuzovatel jsou povinni vypořádat **všechna** obdržená vyjádření a informovat o způsobu jejich zohlednění. Zákon nepředepisuje konkrétní způsob vypořádání, avšak minimální standard vyplývá z čl. 8 směrnice SEA: výsledky konzultací musí být vzaty v úvahu. Formální vypořádání bez věcného zohlednění by bylo v rozporu s tímto požadavkem a mohlo by vést ke zpochybnění legality přijaté koncepce.
 
 Veřejnost tímto procesem naplňuje právo na **účast na rozhodování** zaručené čl. 7 Aarhuské úmluvy, jenž v kontextu plánů a programů vyžaduje, aby výsledky participace byly přiměřeně zohledněny v rozhodnutí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Předkladatel předloží příslušnému úřadu návrh rozsáhlé koncepce s vyhodnocením (příloha č. 9). Příslušný úřad v 10pracovní lhůtě rozhodne, že od veřejného projednání upouští, a to s odůvodněním omezeným na větu, že „k oznámení nebyla podána žádná zásadní vyjádření". Veřejnost se tak může vyjádřit jen písemně do 20 dnů od zveřejnění návrhu (§ 10f odst. 6). Spolek, který naopak k oznámení podal obsáhlé připomínky, namítá, že upuštění bylo nezákonné, a domáhá se konání veřejného projednání. Bylo by třeba obstarat: návrh koncepce a vyhodnocení, vyjádření k oznámení (zejména spolku), odůvodnění rozhodnutí o upuštění, doklady o zveřejnění podle § 16.
+
+**2. Právní otázka.** Za jakých podmínek může příslušný úřad upustit od veřejného projednání návrhu koncepce podle § 10f odst. 2, a je upuštění zákonné, pokud se opírá jen o paušální tvrzení o absenci zásadních vyjádření, ačkoli relevantní připomínky byly podány?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10f odst. 1 (návrh koncepce jako integrovaný dokument s vyhodnocením), odst. 2 (kontrola úplnosti a možnost upuštění od veřejného projednání), odst. 3 a 4 (forma, lhůty a zápis z projednání), odst. 5–8 (vyjádření a vypořádání).
+- *Související ustanovení téhož zákona:* § 16 (zveřejnění); § 17 (výslovně vyloučen); § 10c (vyjádření k oznámení jako podklad pro úvahu o upuštění); příloha č. 9 (náležitosti vyhodnocení); § 10g (SEA stanovisko navazující na vypořádání).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 6 (přiměřená příležitost veřejnosti se vyjádřit — negarantuje ústní projednání, ale vyžaduje účinnou účast), čl. 8 (zohlednění výsledků konzultací); Aarhuská úmluva, čl. 7.
+- *Judikatura:* obecné závěry SDEU k čl. 6 směrnice SEA o „přiměřené příležitosti"; judikatura NSS k územním plánům — vady procesu participace a nedostatečné vypořádání připomínek zakládají nezákonnost opatření obecné povahy.
+
+**4. Subsumpce.** Návrh koncepce musí dle odst. 1 obsahovat vyhodnocení jako nedílnou součást — to bylo splněno. Možnost upustit od veřejného projednání dle odst. 2 je vázána na „hodnocení návrhu koncepce a vyjádření veřejnosti k oznámení" — nejde tedy o volné uvážení, nýbrž o rozhodnutí, které musí být věcně odůvodněno. Paušální tvrzení o absenci zásadních vyjádření, popírající existující obsáhlé připomínky spolku, neobstojí jako odůvodnění — odporuje skutkovému stavu. Směrnice SEA sice ústní projednání negarantuje (písemné vyjádření dle odst. 6 minimální standard naplňuje), avšak upuštění nesmí být použito k obejití účinné participace.
+
+**5. Řešení.** Rozhodnutí o upuštění od veřejného projednání je vadné pro nedostatek (a nepravdivost) odůvodnění. Příslušný úřad měl buď veřejné projednání nařídit, nebo upuštění řádně odůvodnit s reálným zohledněním podaných vyjádření. I při zákonném upuštění zůstává zachováno právo na písemné vyjádření do 20 dnů (odst. 6) a povinnost vypořádat všechna vyjádření (odst. 8). Pokud bude koncepce přijata po vadném upuštění a nedostatečném vypořádání, hrozí její zrušení (zejm. u koncepcí přijímaných jako opatření obecné povahy). Procesní krok spolku: namítat vadu upuštění, podat písemné vyjádření v 20denní lhůtě a trvat na věcném vypořádání.
+
+**6. Varianty.** (a) Kdyby k oznámení skutečně nebyla podána žádná věcná vyjádření a koncepce byla nekonfliktní, upuštění od veřejného projednání by bylo zákonné — písemná lhůta 20 dnů (odst. 6) by naplnila minimální standard participace dle čl. 6 směrnice SEA. (b) Kdyby předkladatel uspořádal veřejné projednání distanční formou bez funkční možnosti interakce účastníků, šlo by o vadu — distanční forma musí splňovat technické podmínky umožňující skutečnou účast (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „směrnice SEA ústní veřejné projednání nevyžaduje, upuštění je tedy bez problému".* Neutralizace: směrnice sice negarantuje ústní jednání, ale vyžaduje „přiměřenou a účinnou příležitost"; český zákon navíc upuštění podmiňuje hodnocením návrhu a vyjádření k oznámení — upuštění opřené o nepravdivé odůvodnění tuto podmínku porušuje.
+- *Protiargument „veřejnost se může vyjádřit písemně, participace je tedy zachována".* Neutralizace: písemná lhůta je minimem; je-li koncepce konfliktní a byly-li podány zásadní připomínky, paušální upuštění oslabuje účinnost participace a může vést k nezákonnosti — rozhodující je věcné vypořádání všech vyjádření (odst. 8).
+- *Slabé místo:* zákon nestanoví detailní kritéria, kdy lze upustit; jde o uvážení úřadu s relativně širokým prostorem. Samostatná napadnutelnost rozhodnutí o upuštění je omezená a projeví se zpravidla až v přezkumu výsledné koncepce.
+
+#### H. Praktický závěr
+
+§ 10f upravuje předložení návrhu koncepce (s vyhodnocením jako nedílnou součástí), kontrolu úplnosti vyhodnocení a veřejné projednání. Upuštění od veřejného projednání je možné, ale musí být věcně odůvodněno a opřeno o vyjádření k oznámení; vždy zůstává zachováno právo na písemné vyjádření a povinnost vypořádat všechna vyjádření. Lhůty (30 dnů před projednáním, 5 dnů pro zápis, 20 dnů při upuštění) jsou kogentní.
+
+**Checklist (advokát / soud / příslušný úřad / předkladatel):**
+- [ ] Obsahuje návrh koncepce vyhodnocení jako nedílnou součást (odst. 1)?
+- [ ] Má vyhodnocení náležitosti přílohy č. 9, nebo bylo vráceno k doplnění (odst. 2)?
+- [ ] Je případné upuštění od veřejného projednání věcně odůvodněno a opřeno o hodnocení návrhu a vyjádření k oznámení (odst. 2)?
+- [ ] Byla dodržena 30denní ochranná lhůta před konáním veřejného projednání a 5pracovní lhůta pro zveřejnění informace o jeho konání (odst. 3, 4)?
+- [ ] Splňuje případná distanční forma technické podmínky umožňující skutečnou účast (odst. 3)?
+- [ ] Byla vypořádána všechna došlá vyjádření a zveřejněn upravený návrh s informací o způsobu vypořádání (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** návrh koncepce a vyhodnocení (příloha č. 9); vyjádření k oznámení a k návrhu koncepce; odůvodnění rozhodnutí o upuštění; zápis z veřejného projednání a doklad o jeho zveřejnění; doklad o vypořádání vyjádření.
 
 ---
 
@@ -333,6 +561,44 @@ Zvláštní pozornost si zaslouží:
 
 SEA stanovisko samo o sobě není opatřením obecné povahy, avšak je-li přijímanou koncepcí **územní plán** nebo **zásady územního rozvoje**, přijímané jako opatření obecné povahy (§ 171 a násl. správního řádu), pak přezkum legality celého procesu SEA — včetně zákonnosti SEA stanoviska — probíhá v rámci přezkumu daného opatření obecné povahy. Rozšířený senát Nejvyššího správního soudu v usnesení č.j. 1 Ao 1/2006-74 ze dne 27. 9. 2005 dovodil, že územní plán je opatřením obecné povahy a jako takový podléhá přezkumu podle § 101a a násl. soudního řádu správního. Nedostatky SEA (chybějící vyhodnocení, absence veřejného projednání, nedostatečně odůvodněné SEA stanovisko) jsou typickými žalobními důvody v přezkumném řízení územního plánu před správními soudy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Příslušný úřad vydá k návrhu koncepce SEA stanovisko, v němž stanoví několik podmínek (kompenzační opatření pro krajinný ráz, monitoring hlukové zátěže). Předkladatel koncepci schválí, avšak dvě z podmínek do ní nezahrne; v prohlášení dle § 10g odst. 5 pouze uvede, že „podmínky byly zohledněny", aniž by vysvětlil, proč dvě z nich zapracovány nebyly, a aniž by odůvodnil výběr přijaté varianty (koncepce byla zpracována ve dvou variantách). Spolek napadá schválenou koncepci. Bylo by třeba obstarat: SEA stanovisko a jeho podmínky, schválenou koncepci, prohlášení dle odst. 5, doklad o variantách a doklad o zveřejnění.
+
+**2. Právní otázka.** (i) Je SEA stanovisko absolutně závazné, tj. musí předkladatel zapracovat všechny jeho podmínky? (ii) Splňuje předkladatel povinnost dle § 10g odst. 4 a 5, pokud nezahrnuté podmínky nijak neodůvodní a v prohlášení neuvede zdůvodnění vybrané varianty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10g odst. 1 a 2 (vydání a obsah SEA stanoviska, lhůta 20 dnů, možnost nesouhlasu), odst. 4 (podmínka sine qua non schválení; soft binding — povinnost zohlednit nebo odůvodnit odchylku), odst. 5 (povinné prohlášení s pěti oblastmi informací).
+- *Související ustanovení téhož zákona:* § 10b odst. 4 a § 10d odst. 3 písm. a) (variantní posuzování — uzavřeno odst. 5 písm. c)); § 14a (mezistátní posuzování — odst. 5 písm. b)); § 10h (monitoring — odst. 5 písm. e)); § 149 správního řádu (srovnání se závazným stanoviskem).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 7 a 8 (zohlednění zprávy a konzultací — „taken into account", nikoli absolutní závaznost), čl. 9 odst. 1 (post-adoption statement); § 171 a násl. správního řádu (opatření obecné povahy).
+- *Judikatura:* usnesení rozšířeného senátu NSS č. j. 1 Ao 1/2006-74 — územní plán je opatřením obecné povahy přezkoumatelným soudem; nedostatky SEA (chybějící/nedostatečné SEA stanovisko, formální vypořádání) jsou žalobním důvodem pro zrušení.
+
+**4. Subsumpce.** SEA stanovisko je podmínkou schválení koncepce (odst. 4 věta první) — bez něj koncepci schválit nelze. Není však absolutně závazné: předkladatel je povinen podmínky zohlednit, a pokud je nezahrne nebo zahrne jen zčásti, musí svůj postup odůvodnit (odst. 4 věta druhá — „soft binding"). Nezahrnutí dvou podmínek bez jakéhokoli odůvodnění porušuje tuto povinnost. Prohlášení dle odst. 5 musí obsahovat mj. informaci, jak byly podmínky stanoviska zohledněny (písm. a)), a u variantního zpracování odůvodnění vybrané varianty (písm. c)) — paušální věta „podmínky byly zohledněny" a absence zdůvodnění varianty tyto náležitosti nesplňují.
+
+**5. Řešení.** Schválení koncepce bez odůvodnění odchylky od SEA stanoviska a s vadným prohlášením je nezákonné. Předkladatel měl: (i) buď podmínky zapracovat, nebo (ii) konkrétně a věcně odůvodnit, proč je nezapracoval, a (iii) v prohlášení uvést, jak byly podmínky zohledněny a proč byla vybrána přijatá varianta. Je-li koncepce opatřením obecné povahy (např. ZÚR, územní plán), hrozí její zrušení správním soudem pro vady SEA. Procesní krok spolku: u koncepce-OOP návrh na zrušení dle § 101a s. ř. s.; jinak podnět k přezkumu a námitky.
+
+**6. Varianty.** (a) Kdyby předkladatel u každé nezahrnuté podmínky uvedl konkrétní věcné důvody (např. rozpor s jiným veřejným zájmem, technická neproveditelnost) a prohlášení obsahovalo všech pět oblastí včetně zdůvodnění varianty, postup by byl v souladu s odst. 4 a 5 i přes nezapracování části podmínek. (b) Kdyby koncepce byla předmětem mezistátního posuzování dle § 14a, prohlášení by muselo navíc uvádět, jak bylo zohledněno vyjádření dotčeného státu (odst. 5 písm. b)).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „SEA stanovisko je závazné jako stanovisko dle § 149 správního řádu, podmínky tedy musí být zapracovány bez výjimky".* Neutralizace: SEA stanovisko se závaznému stanovisku svou vahou blíží, avšak český zákon i čl. 8 směrnice SEA konstruují „soft binding" („vzít v úvahu") — odchylka je přípustná, je-li odůvodněna; absolutní závaznost zákon nezakotvuje.
+- *Protiargument „prohlášení obsahovalo konstatování o zohlednění, formální náležitost je tedy splněna".* Neutralizace: prohlášení dle odst. 5 musí být věcné a obsahovat konkrétní informace ke všem pěti oblastem (zejm. jak byly podmínky zohledněny a proč byla vybrána varianta); mechanická formulace bez obsahu nesplňuje účel post-adoption statement dle čl. 9 směrnice.
+- *Slabé místo:* hranice mezi dostatečným a nedostatečným odůvodněním odchylky je neostrá a závisí na konkrétnosti argumentace; samostatná napadnutelnost SEA stanoviska je omezená (není rozhodnutím), přezkum se realizuje zpravidla až v rámci přezkumu výsledné koncepce-OOP.
+
+#### H. Praktický závěr
+
+§ 10g vrcholí proces SEA: příslušný úřad vydává SEA stanovisko, bez něhož nelze koncepci schválit (blokační účinek). Stanovisko není absolutně závazné — odchylku lze odůvodnit (soft binding). Po schválení musí předkladatel zveřejnit prohlášení obsahující pět oblastí informací (zohlednění podmínek, mezistátní aspekty, odůvodnění varianty, participace veřejnosti, monitoring). U koncepcí-OOP se vady SEA promítají do soudního přezkumu.
+
+**Checklist (advokát / soud / příslušný úřad / předkladatel):**
+- [ ] Bylo SEA stanovisko vydáno před schválením koncepce (bez něj nelze schválit — odst. 4)?
+- [ ] Byly podmínky a požadavky stanoviska zohledněny, nebo je odchylka konkrétně odůvodněna (odst. 4 věta druhá)?
+- [ ] Obsahuje prohlášení dle odst. 5 všech pět oblastí — zejména jak byly zohledněny podmínky (písm. a)) a odůvodnění vybrané varianty (písm. c))?
+- [ ] Byla u mezistátně posuzované koncepce uvedena informace o zohlednění vyjádření dotčeného státu (písm. b))?
+- [ ] Obsahuje prohlášení informaci o účasti veřejnosti (písm. d)) a o opatřeních ke sledování vlivů dle § 10h (písm. e))?
+- [ ] Bylo SEA stanovisko a následně prohlášení řádně zveřejněno a rozesláno (odst. 3, 6)?
+
+**Typicky rozhodné důkazy / podklady:** SEA stanovisko a jeho podmínky; schválená koncepce; prohlášení dle odst. 5; doklad o variantách a odůvodnění výběru; doklad o vypořádání podmínek; doklady o zveřejnění a rozeslání.
+
 ---
 
 ### § 10h — Sledování a rozbor vlivů koncepce na životní prostředí a veřejné zdraví
@@ -360,6 +626,44 @@ Důsledkem zjištění těchto vlivů je trojí povinnost předkladatele: (i) za
 #### Úloha dotčených orgánů (odst. 2)
 
 Dotčené orgány mají subsidiární monitorovací roli: sledují vlivy v rámci své sektorové působnosti (orgány ochrany přírody, vodohospodářské orgány, hygienická stanice aj.) a jsou oprávněny podat podnět ke změně koncepce, pokud nepředvídané vlivy nemohou být jinak odvraceny. Podnět ke změně je procesním instrumentem aktivace přezkumného řízení — předkladatel není povinen mu vyhovět, avšak musí se s ním věcně vypořádat.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Kraj schválil koncepci rozvoje cestovního ruchu, jejíž realizace vede k výstavbě nových rekreačních areálů. Po dvou letech provádění zjistí orgán ochrany přírody, že rozvoj turismu způsobuje nepředvídaný úbytek populace zvláště chráněného druhu v lokalitě, kterou SEA vyhodnotila jako málo dotčenou. Předkladatel (kraj) zůstává nečinný s tím, že „koncepce prošla SEA a byla schválena". Orgán ochrany přírody žádá o nápravu. Bylo by třeba obstarat: schválenou koncepci a SEA stanovisko, monitorovací data o stavu chráněného druhu, doklad o tom, zda kraj zajistil sledování vlivů, a vyjádření orgánu ochrany přírody s podnětem ke změně.
+
+**2. Právní otázka.** Vzniká předkladateli povinnost přijmout opatření a rozhodnout o změně koncepce, jestliže monitoring odhalí významný negativní vliv, který nebyl při SEA předvídán, a jaká je role dotčeného orgánu, zůstává-li předkladatel nečinný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10h odst. 1 (povinnost sledovat a rozebírat vlivy; při zjištění nepředvídaných významných negativních vlivů povinnost přijmout opatření, informovat a rozhodnout o změně koncepce), odst. 2 (subsidiární monitorovací role dotčených orgánů a podnět ke změně).
+- *Související ustanovení téhož zákona:* § 10g odst. 5 písm. e) (prohlášení o opatřeních ke sledování); § 10a odst. 1 písm. c) (změna koncepce může vyvolat nové zjišťovací řízení); § 10b odst. 4 (zmírňující opatření); § 10i (obdobné užití monitoringu pro územní SEA).
+- *Související předpisy:* směrnice 2001/42/ES, čl. 10 (monitoring významných vlivů provádění plánů a programů); zákon č. 114/1992 Sb., o ochraně přírody a krajiny (ochrana zvláště chráněných druhů, působnost orgánů ochrany přírody).
+- *Judikatura:* obecné zásady — monitoring jako součást „follow-up" SEA; závěry NSS o tom, že povinnost reagovat na zjištěné nepředvídané vlivy je materiální, nikoli formální; přezkum změn koncepcí-OOP.
+
+**4. Subsumpce.** Povinnost reakce dle odst. 1 je podmíněna dvěma kumulativními znaky: vlivy musí být (i) nepředvídané a (ii) významně negativní. Úbytek populace chráněného druhu v lokalitě hodnocené jako málo dotčená naplňuje znak nepředvídatelnosti (nešlo dostatečně předvídat dostupnými metodami při SEA) i znak významnosti (dopad přesahuje přijatelnou mez). Tím se aktivuje trojí povinnost předkladatele: zajistit zmírňující opatření, informovat příslušný úřad a dotčené orgány a rozhodnout o změně koncepce. Argument „koncepce prošla SEA" je irelevantní — § 10h zakládá samostatnou průběžnou povinnost po schválení. Nečinnost kraje aktivuje subsidiární roli orgánu ochrany přírody dle odst. 2.
+
+**5. Řešení.** Kraj je povinen na zjištěné vlivy reagovat — pouhé sledování nestačí. Orgán ochrany přírody, nelze-li vlivy odvrátit v dohodě s předkladatelem, je oprávněn podat podnět ke změně koncepce (odst. 2). Předkladatel není povinen podnětu vyhovět, musí se s ním však věcně vypořádat; rozhodnutí o změně koncepce může vyvolat nové zjišťovací řízení (§ 10a odst. 1 písm. c)), čímž se cyklus SEA opakuje. Procesní kroky: orgán ochrany přírody doloží monitorovací data, podá podnět; kraj přijme zmírňující opatření a rozhodne o změně, případně využije i nástroje ochrany přírody dle zákona č. 114/1992 Sb.
+
+**6. Varianty.** (a) Kdyby negativní vliv byl při SEA předvídán a popsán (tj. nebyl „nepředvídaný"), povinnost dle odst. 1 by se neaktivovala v plném rozsahu — vlivy by měly být řešeny již zmírňujícími opatřeními z původního SEA stanoviska, nikoli novým rozhodnutím o změně. (b) Kdyby zjištěné vlivy byly jen marginální (nedosahující prahu významnosti), povinnost přijmout opatření a měnit koncepci by nevznikla — postačilo by pokračovat ve sledování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „koncepce prošla SEA a byla řádně schválena, povinnost reakce již netrvá".* Neutralizace: § 10h (a čl. 10 směrnice SEA) zakládá samostatnou průběžnou povinnost po schválení — SEA tím nekončí, nýbrž se uzavírá monitoringem; schválení koncepce předkladatele povinnosti reagovat nezbavuje.
+- *Protiargument „vliv nebyl ‚nepředvídaný‘, neboť obecné riziko turismu pro přírodu je známé".* Neutralizace: nepředvídatelnost se posuzuje konkrétně — rozhodující je, zda konkrétní významný vliv v dané lokalitě bylo možné dostatečně předvídat dostupnými metodami v době SEA; obecná známost rizika sama o sobě nevylučuje nepředvídatelnost konkrétního dopadu.
+- *Slabé místo:* zákon neurčuje konkrétní metodiku ani frekvenci monitoringu, což ztěžuje prokázání porušení povinnosti sledování; podnět dotčeného orgánu (odst. 2) není pro předkladatele závazný a vynutitelnost reakce je nepřímá (přes přezkum změny koncepce nebo nástroje ochrany přírody).
+
+#### H. Praktický závěr
+
+§ 10h uzavírá cyklus SEA monitoringem: předkladatel musí po schválení sledovat a rozebírat vlivy koncepce a aktivně reagovat na nepředvídané významné negativní vlivy (zmírňující opatření, informování úřadů, rozhodnutí o změně koncepce). Dotčené orgány mají subsidiární monitorovací roli a mohou podat podnět ke změně. Samotné sledování bez reakce zákonný standard nesplňuje.
+
+**Checklist (advokát / soud / předkladatel / dotčený orgán):**
+- [ ] Zajistil předkladatel sledování a rozbor vlivů schválené koncepce (odst. 1)?
+- [ ] Byly zjištěny vlivy, které jsou zároveň nepředvídané i významně negativní (kumulativní podmínky)?
+- [ ] Přijal předkladatel opatření k odvrácení/zmírnění, informoval příslušný úřad a dotčené orgány a rozhodl o změně koncepce (odst. 1)?
+- [ ] Sledují dotčené orgány vlivy v rámci své působnosti a využily případně podnět ke změně koncepce (odst. 2)?
+- [ ] Vyvolá rozhodnutí o změně koncepce nové zjišťovací řízení (§ 10a odst. 1 písm. c))?
+- [ ] Odpovídají přijatá monitorovací opatření prohlášení dle § 10g odst. 5 písm. e)?
+
+**Typicky rozhodné důkazy / podklady:** schválená koncepce a SEA stanovisko (zejm. monitorovací podmínky); monitorovací data a jejich rozbor; doklad o zjištění nepředvídaných významných vlivů; podnět dotčeného orgánu ke změně; doklad o přijatých zmírňujících opatřeních a o rozhodnutí o změně koncepce.
 
 ---
 
@@ -402,6 +706,44 @@ Zpracovatelem vyhodnocení vlivů na životní prostředí musí být autorizova
 #### Přezkum územně plánovací dokumentace — SEA jako podmínka zákonnosti
 
 Jak bylo uvedeno výše u § 10g, územní plán a zásady územního rozvoje jsou opatřeními obecné povahy přezkoumávatelnými správními soudy. Nedostatky územní SEA (chybějící nebo neúplné vyhodnocení, absence SEA stanoviska, porušení povinnosti autorizovaného zpracovatele) jsou opakovaně konstatovány Nejvyšším správním soudem jako důvody pro zrušení opatření obecné povahy. Zákon č. 100/2001 Sb. prostřednictvím § 10i zajišťuje, aby základní standardy vyplývající ze směrnice 2001/42/ES — nulová varianta, kumulativní vlivy, monitoring, autorizovaný zpracovatel — byly zachovány i v územní SEA, a to bez ohledu na specifika pořizovacího procesu dle stavebního zákona.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obec s rozšířenou působností pořizuje územní plán. Orgán kraje na základě kritérií přílohy č. 8 nejprve stanoví, že vyhodnocení vlivů na životní prostředí (SEA) není požadováno. Územní plán však vymezuje rozsáhlou plochu pro logistický areál (záměr přílohy č. 1) v blízkosti ptačí oblasti. Orgán ochrany přírody namítá, že nelze vyloučit vliv na ptačí oblast, a SEA tedy měla být provedena. Pořizovatel postupuje výhradně podle stavebního zákona a tvrdí, že zákon č. 100/2001 Sb. se na územní plán nepoužije. Bylo by třeba obstarat: návrh územního plánu, rozhodnutí orgánu kraje o (ne)požadování SEA dle přílohy č. 8, stanovisko orgánu ochrany přírody k ptačí oblasti a doklad o poloze plochy vůči ptačí oblasti.
+
+**2. Právní otázka.** V jakém rozsahu se na pořizování územního plánu použije zákon č. 100/2001 Sb. (zejména § 10a a screeningová funkce přílohy č. 8), a může orgán kraje vyloučit SEA, jestliže nelze vyloučit významný vliv na ptačí oblast?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10i odst. 1 (selektivní aplikace — § 2, 3, 10a, 10b, 10h obdobně; § 10g přiměřeně; zjišťovací řízení a veřejné projednání se neprovádí; § 20 a § 21 písm. k) nedotčeny), odst. 2 (scoping a screening dle přílohy č. 8 při pořizování územního plánu), odst. 3 (autorizovaný zpracovatel dle § 19).
+- *Související ustanovení téhož zákona:* § 10a odst. 1 písm. a) (naturový test — vliv na ptačí oblast zakládá obligatorní SEA); § 10b (způsob posuzování — nulová varianta, kumulativní vlivy); příloha č. 8 (kritéria screeningu); § 19 (autorizace).
+- *Související předpisy:* zákon č. 283/2021 Sb., stavební zákon (lex specialis pro proces pořizování ÚPD), dříve zákon č. 183/2006 Sb.; směrnice 2001/42/ES; směrnice 92/43/EHS (habitatová) a 2009/147/ES (o ptácích); zákon č. 114/1992 Sb.
+- *Judikatura:* usnesení rozšířeného senátu NSS č. j. 1 Ao 1/2006-74 — územní plán je opatřením obecné povahy přezkoumatelným soudem; opakovaná judikatura NSS rušící ÚPD pro chybějící/neúplnou SEA, absenci naturového hodnocení nebo nedostatečné odůvodnění screeningu.
+
+**4. Subsumpce.** § 10i odst. 1 nestanoví úplné vynětí územní SEA z působnosti zákona č. 100/2001 Sb. — naopak § 10a a 10b se použijí obdobně; vyňaty jsou jen procesní instituty zjišťovacího řízení a veřejného projednání (integrované do procesu dle stavebního zákona). Tvrzení pořizovatele o úplné neaplikovatelnosti zákona je proto nesprávné. Naturový test dle § 10a odst. 1 písm. a) (aplikovaný obdobně) je rozhodující: nelze-li vyloučit významný vliv na ptačí oblast, SEA se provádí vždy a screening dle přílohy č. 8 (odst. 2) tento závěr nemůže zvrátit. Vymezení plochy pro logistický areál (přílohy č. 1) u ptačí oblasti tento test aktivuje.
+
+**5. Řešení.** Orgán kraje nemohl SEA vyloučit pouhým screeningem dle přílohy č. 8, jestliže existuje stanovisko/indikace o nevyloučitelném vlivu na ptačí oblast — naturová implikace zakládá obligatorní posuzování (§ 10a odst. 1 písm. a) ve spojení s § 10i odst. 1). Vyhodnocení musí zpracovat autorizovaná osoba dle § 19 (odst. 3) a musí splňovat standardy § 10b (nulová varianta, kumulativní vlivy). Pokud byl územní plán schválen bez SEA přes nevyloučitelný vliv na ptačí oblast, hrozí jeho zrušení jako opatření obecné povahy. Procesní krok: návrh na zrušení ÚPD dle § 101a s. ř. s.; orgán ochrany přírody trvá na naturovém hodnocení.
+
+**6. Varianty.** (a) Kdyby orgán ochrany přírody vliv na ptačí oblast vyloučil a šlo by o územní plán bez ploch pro záměry přílohy č. 1, orgán kraje by mohl na základě kritérií přílohy č. 8 SEA nepožadovat — screeningový závěr by byl zákonný. (b) Kdyby šlo o zásady územního rozvoje (krajská úroveň) namísto územního plánu obce, screeningová úvaha „zda vůbec SEA" by se neuplatnila stejně — u nadřazené ÚPD je posuzování zpravidla pravidlem; § 10g (SEA stanovisko) by se použil přiměřeně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pro územní plán platí výhradně stavební zákon, zákon č. 100/2001 Sb. se nepoužije".* Neutralizace: § 10i odst. 1 výslovně stanoví obdobné užití § 2, 3, 10a, 10b a 10h a přiměřené užití § 10g; vyňaty jsou jen zjišťovací řízení a veřejné projednání. Stavební zákon je lex specialis pro proces, nikoli pro vyloučení hmotných standardů SEA.
+- *Protiargument „screening dle přílohy č. 8 je v kompetenci orgánu kraje a SEA vyloučil".* Neutralizace: screening nemůže překonat naturovou implikaci — nelze-li vyloučit významný vliv na EVL/ptačí oblast, je SEA obligatorní bez ohledu na výsledek screeningu (§ 10a odst. 1 písm. a) užitý obdobně); jinak by šlo o porušení habitatové/ptačí směrnice.
+- *Slabé místo:* dělba mezi procesem dle stavebního zákona a hmotnými standardy dle zákona č. 100/2001 Sb. je v praxi složitá a vede ke sporům o rozsah „obdobného" a „přiměřeného" užití; absence zjišťovacího řízení a veřejného projednání v režimu zákona č. 100/2001 Sb. přesouvá participaci do procesu dle stavebního zákona, což může oslabit kontrolu kvality screeningu.
+
+#### H. Praktický závěr
+
+§ 10i je lex specialis pro územní SEA: procesně se řídí stavebním zákonem (zjišťovací řízení a veřejné projednání dle zákona č. 100/2001 Sb. se neprovádí), avšak hmotné standardy SEA zůstávají zachovány — § 10a, 10b a 10h se užijí obdobně, § 10g přiměřeně, sankce (§ 20, § 21 písm. k)) nedotčeny. Screening dle přílohy č. 8 určuje, zda se u územního plánu SEA provede, ale nemůže překonat naturovou implikaci (vliv na EVL/ptačí oblast). Vyhodnocení zpracovává autorizovaná osoba dle § 19.
+
+**Checklist (advokát / soud / pořizovatel / orgán kraje):**
+- [ ] Jde o dokument spadající pod § 10i (politika územního rozvoje, územní rozvojový plán, ZÚR, územní plán, územní opatření dle zákona o urychlení OZE)?
+- [ ] Byl proveden screening dle přílohy č. 8 (u územního plánu) a řádně odůvodněn požadavek/nepožadavek SEA (odst. 2)?
+- [ ] Byl vypořádán naturový test — nelze-li vyloučit vliv na EVL/ptačí oblast, je SEA obligatorní bez ohledu na screening?
+- [ ] Splňuje vyhodnocení hmotné standardy § 10b (nulová varianta, kumulativní vlivy) a obdobně užitého § 10a?
+- [ ] Bylo vyhodnocení zpracováno osobou autorizovanou podle § 19 (odst. 3)?
+- [ ] Bylo SEA stanovisko vydáno přiměřeně dle § 10g a je zajištěn monitoring dle § 10h?
+
+**Typicky rozhodné důkazy / podklady:** návrh ÚPD a vyhodnocení vlivů; rozhodnutí orgánu kraje o (ne)požadování SEA dle přílohy č. 8 a jeho odůvodnění; stanovisko orgánu ochrany přírody (naturový test); doklad o autorizaci zpracovatele (§ 19); SEA stanovisko (§ 10g přiměřeně); doklad o opatřeních monitoringu (§ 10h).
 
 ---
 

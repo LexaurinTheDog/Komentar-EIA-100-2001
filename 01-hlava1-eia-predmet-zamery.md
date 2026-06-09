@@ -40,6 +40,42 @@ Klíčové normativní vymezení: cílem posuzování je **„získat objektivn�
 
 Odst. 4 byl vložen reformou environmentálního povolování zákonem č. 148/2023 Sb. o jednotném environmentálním stanovisku (dále „zákon o JES"). Záměry podléhající EIA jsou zároveň předmětem **jednotného environmentálního stanoviska (JES)**, které integruje vyjádření a závazná stanoviska dotčených orgánů ochrany přírody, ochrany ovzduší, vod, odpadů a dalších složkových zákonů. Závazné stanovisko dle § 9a odst. 1 se vydává **současně jako JES**, čímž se eliminuje nutnost žadatele sbírat samostatná závazná stanoviska u každého dotčeného orgánu. Pravidlo kolize: **zákon o EIA má přednost** před zákonem o JES; zákon o JES se použije subsidiárně. Oznamovatel se může výjimečně vzdát vydání JES — závazné stanovisko se pak vydá pouze jako EIA stanovisko.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor (akciová společnost) hodlá v okrajové části kraje vybudovat logistický areál o zastavěné ploše 12 ha s napojením na dálnici. Krajský úřad jako příslušný úřad vede zjišťovací řízení. Spolek místních obyvatel namítá, že úřad nesprávně vyložil rozsah povinnosti EIA a že výjimka z posuzování byla uplatněna v rozporu se směrnicí. Důkazně je třeba obstarat: oznámení záměru s popisem kapacity, stanovisko orgánu ochrany přírody dle § 45i ZOPK, korespondenci s Evropskou komisí (byla-li výjimka uplatněna) a metodické podklady k posouzení vlivů.
+
+**2. Právní otázka.** Lze ustanovení zákona o EIA vyložit čistě jazykově (vnitrostátně), nebo je příslušný úřad povinen postupovat eurokonformně a v případě rozporu neaplikovat vnitrostátní pravidlo odporující směrnici 2011/92/EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 1 — deklarace souladu s právem EU a vymezení účelu posuzování jako získání objektivního odborného podkladu (odst. 3).
+- *Související ustanovení téhož zákona:* § 4 (předmět posuzování, výjimky vlády v odst. 2–3), § 9a (závazné stanovisko jako podklad), § 1 odst. 4 (integrace s JES).
+- *Související předpisy:* směrnice 2011/92/EU ve znění 2014/52/EU; čl. 35 Listiny (právo na příznivé životní prostředí); § 149 SŘ (povaha závazného stanoviska); zákon č. 148/2023 Sb. o JES.
+- *Judikatura:* SDEU C-72/95 Kraaijeveld (restriktivní výklad výjimek z EIA, povinnost neaplikovat odporující vnitrostátní pravidlo), C-50/09 Komise v. Irsko (úplnost transpozice); k podkladové povaze stanoviska usnesení rozšířeného senátu NSS k přezkumu závazných stanovisek EIA.
+
+**4. Subsumpce.** Účel zákona dle odst. 3 (objektivní odborný podklad) je naplněn jen tehdy, je-li rozsah EIA vykládán souladně se směrnicí. Deklarace souladu v odst. 1 znamená, že výjimky a meze posuzování nelze rozšiřovat nad rámec připuštěný směrnicí. Je-li vnitrostátní výklad užší než požaduje směrnice s přímým účinkem, nastupuje povinnost eurokonformního výkladu, případně přednost práva EU.
+
+**5. Řešení.** Příslušný úřad je povinen vyložit zákon eurokonformně; nelze-li, neaplikuje vnitrostátní pravidlo odporující bezpodmínečnému a dostatečně přesnému ustanovení směrnice. Pravděpodobný výsledek: namítané zúžení rozsahu EIA neobstojí, je-li v rozporu se směrnicí. Procesní kroky spolku: uplatnit námitku ve zjišťovacím řízení a posléze v navazujícím řízení; rizikem je, že odst. 3 sám o sobě nezakládá přímou žalobu proti stanovisku (přezkum je až v navazujícím řízení).
+
+**6. Varianty.** (a) Pokud by záměr byl výslovně vyňat rozhodnutím vlády dle § 4 odst. 3 a vláda by informovala Komisi, výklad účelu by ustoupil zákonné výjimce. (b) Pokud by šlo o čistě vnitrostátní otázku bez vazby na směrnici, eurokonformní výklad by se neuplatnil a rozhodující by byl text zákona.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* odst. 1 a 3 jsou pouze proklamativní (účelová ustanovení) a nezakládají samostatná práva. *Neutralizace:* slouží jako interpretační vodítko pro výklad konkrétních ustanovení (§ 4, § 7) a pro eurokonformní výklad — normativní dopad mají zprostředkovaně.
+- *Protiargument:* přednost práva EU nelze uplatnit, není-li splněna podmínka přímého účinku směrnice. *Neutralizace:* většina klíčových povinností EIA (screening, přístup veřejnosti) byla SDEU shledána dostatečně přesnou; je třeba argumentovat konkrétním ustanovením směrnice.
+- *Slabé místo:* spor o účel zákona je obtížně samostatně žalovatelný — vždy je třeba navázat na konkrétní procesní vadu v navazujícím řízení.
+
+#### H. Praktický závěr
+
+Ustanovení § 1 vymezuje rámec celého zákona: soulad s právem EU (odst. 1), materiální předmět (odst. 2), podkladovou funkci (odst. 3) a integraci s JES (odst. 4). V praxi slouží jako interpretační klíč — každé sporné ustanovení se vykládá eurokonformně a ve světle účelu získat objektivní odborný podklad.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda je sporný výklad v souladu se směrnicí 2011/92/EU ve znění 2014/52/EU.
+- [ ] Posoudit, zda výjimka z EIA (je-li uplatněna) splňuje podmínky § 4 odst. 2–3 a byla notifikována Komisi.
+- [ ] Zohlednit podkladovou povahu stanoviska (§ 149 SŘ) — přezkum směřovat do navazujícího řízení.
+- [ ] U záměru podléhajícího EIA prověřit, zda se vydává JES (§ 1 odst. 4) a zda oznamovatel o JES požádal.
+
+**Typicky rozhodné důkazy / podklady:** oznámení záměru, stanovisko orgánu ochrany přírody dle § 45i ZOPK, znění relevantních ustanovení směrnice, případná notifikace Evropské komise, metodické pokyny MŽP.
+
 ---
 
 ### § 2 — Rozsah posuzování
@@ -70,6 +106,42 @@ Odst. 4 byl vložen reformou environmentálního povolování zákonem č. 148/2
 #### Zvláštní zřetel na biologickou rozmanitost a soustavu Natura 2000
 
 Druhá věta § 2 byla doplněna novelou reagující na posílení požadavků směrnice 2014/52/EU: vlivy na biologickou rozmanitost se posuzují **se zvláštním zřetelem na evropsky významné druhy, ptáky a evropská stanoviště**. Tato povinnost provazuje EIA s hodnocením důsledků záměrů na soustavu Natura 2000 dle § 45i zákona č. 114/1992 Sb. (dále „ZOPK"). Záměry, které mohou ovlivnit předmět ochrany nebo celistvost EVL nebo ptačí oblasti, podléhají EIA a zároveň hodnocení vlivů na Naturu 2000; posouzení zpracované autorizovanou osobou dle § 45i ZOPK je součástí oznámení nebo dokumentace (§ 6 odst. 4, § 7 odst. 7).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor předkládá dokumentaci k záměru obchvatu obce. Dokumentace podrobně hodnotí hlukovou zátěž (obyvatelstvo) a emise (ovzduší), avšak zcela pomíjí fragmentaci biotopu a vliv na migrační koridor zvláště chráněného druhu, ačkoli trasa protíná evropsky významnou lokalitu. Dotčená veřejnost namítá neúplnost posouzení. Důkazy: dokumentace EIA, naturové posouzení dle § 45i ZOPK, biologický průzkum lokality, mapové podklady soustavy Natura 2000.
+
+**2. Právní otázka.** Je posouzení vlivů úplné, jestliže hodnotí jednotlivé složky životního prostředí izolovaně, ale neposuzuje jejich vzájemné působení a vliv na biologickou rozmanitost se zvláštním zřetelem na evropská stanoviště?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 — taxativní výčet složek a povinnost posuzovat vzájemné působení a souvislosti; druhá věta (zvláštní zřetel na evropsky významné druhy, ptáky a evropská stanoviště).
+- *Související ustanovení téhož zákona:* § 5 odst. 1 (přímé i nepřímé vlivy), § 6 odst. 4 a § 7 odst. 7 (naturové posouzení jako součást oznámení/dokumentace), § 4 odst. 1 písm. f) (záměry Natura 2000).
+- *Související předpisy:* § 45i zákona č. 114/1992 Sb. (ZOPK); čl. 3 odst. 1 a příloha IV směrnice 2011/92/EU; čl. 6 odst. 3 směrnice 92/43/EHS (stanovišťová).
+- *Judikatura:* SDEU C-127/02 Waddenzee (nutnost vyloučit rozumné pochybnosti o nepříznivém vlivu na celistvost lokality Natura 2000); obecně ustálený požadavek úplnosti podkladů pro posouzení vlivů.
+
+**4. Subsumpce.** § 2 ukládá posuzovat nejen jednotlivé složky, ale i jejich vzájemné působení. Izolované hodnocení hluku a emisí bez posouzení fragmentace biotopu a vlivu na evropská stanoviště nenaplňuje znak „vzájemné působení a souvislosti" ani požadavek zvláštního zřetele na biologickou rozmanitost. Dokumentace je proto v rozsahu vlivů na Naturu 2000 neúplná.
+
+**5. Řešení.** Příslušný úřad měl dokumentaci vrátit k doplnění (§ 8 odst. 5) o naturové posouzení a o hodnocení synergických vlivů. Pravděpodobný výsledek: bez doplnění je závazné stanovisko vydané na neúplném podkladě vadné a v navazujícím řízení napadnutelné. Praktický krok: vyžádat naturové posouzení autorizované osoby a posouzení kumulativních vlivů.
+
+**6. Varianty.** (a) Pokud by trasa neprotínala EVL ani ptačí oblast, druhá věta § 2 by se neuplatnila a postačovalo by posouzení složek dle věty první. (b) Pokud by orgán ochrany přírody vyloučil významný vliv na Naturu 2000, naturové posouzení by nebylo třeba a námitka neúplnosti by se zúžila na synergické vlivy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* každá složka byla posouzena, dokumentace je tedy úplná. *Neutralizace:* § 2 výslovně vyžaduje i posouzení vzájemného působení — sektorové posouzení nestačí.
+- *Protiargument:* vliv na Naturu 2000 je marginální a nevyžaduje samostatné posouzení. *Neutralizace:* dle judikatury Waddenzee musí být vyloučeny rozumné pochybnosti; samotné tvrzení o marginalitě bez autorizovaného posouzení neobstojí.
+- *Slabé místo:* námitka neúplnosti vyžaduje odborné podklady (biologický průzkum) — bez nich je tvrzení o opomenutém vlivu obtížně prokazatelné.
+
+#### H. Praktický závěr
+
+§ 2 určuje věcný rozsah posuzování: katalog složek plus jejich vzájemné působení, se zvláštním zřetelem na biologickou rozmanitost a soustavu Natura 2000. V praxi je nejčastějším zdrojem sporů opomenutí synergických vlivů a vlivů na evropská stanoviště.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda dokumentace pokrývá všechny složky dle § 2 a jejich vzájemné působení.
+- [ ] Zjistit, zda záměr může ovlivnit EVL nebo ptačí oblast — pokud ano, vyžádat naturové posouzení dle § 45i ZOPK.
+- [ ] Posoudit kumulativní a synergické vlivy, nikoli jen sektorové.
+- [ ] Provázat výčet složek s příslušnou složkovou legislativou (tabulka v komentáři).
+
+**Typicky rozhodné důkazy / podklady:** dokumentace EIA, naturové posouzení autorizované osoby, biologický a hydrogeologický průzkum, mapy soustavy Natura 2000, hluková a rozptylová studie.
 
 ---
 
@@ -171,6 +243,42 @@ Zákon definuje posouzení vlivů záměru jako **čtyřfázový proces**: (1) v
 
 **Podlimitní záměr** (písm. n) — záměr kategorie II, který nedosahuje limitní hodnoty — podléhá EIA jen za podmínek § 4 odst. 1 písm. d) a e) (poloha ve zvláště chráněném území nebo kumulativní přesah limitu). **Řízení o povolení záměru podle stavebního zákona** (písm. o)) zahrnuje řízení o povolení, řízení o rámcovém povolení, řízení o odstranění i dodatečné povolení; definice navazuje na terminologii stavebního zákona č. 283/2021 Sb.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Občanský spolek vznikl 14 měsíců před zveřejněním informace o navazujícím řízení k záměru spalovny. Spolek se chce stát účastníkem řízení jako dotčená veřejnost dle § 3 písm. i) bodu 2, nedosahuje však tříleté existence; předkládá proto podporující podpisovou listinu se 180 podpisy. Správní orgán účastenství odmítá. Důkazy: zakladatelské právní jednání spolku (předmět činnosti — ochrana životního prostředí), výpis ze spolkového rejstříku (datum vzniku), podpisová listina a její archy.
+
+**2. Právní otázka.** Splňuje spolek definici dotčené veřejnosti dle § 3 písm. i) bodu 2, jestliže nedosahuje tříleté existence a jím předložená podpisová listina obsahuje méně než 200 podpisů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 písm. i) bod 2 — kumulativní podmínky pro environmentální spolek; § 3 písm. j) (podpisová listina min. 200 osob).
+- *Související ustanovení téhož zákona:* § 9c odst. 3 a 5 (přihlášení a doložení podmínek), § 9e (náležitosti podpisové listiny), § 7 odst. 6 a 9 (odvolání a žaloba dotčené veřejnosti).
+- *Související předpisy:* čl. 2 odst. 5 a čl. 9 odst. 2 Aarhuské úmluvy; čl. 1 odst. 2 písm. e) a čl. 11 směrnice 2011/92/EU; § 214 a násl. zákona č. 89/2012 Sb. (spolek).
+- *Judikatura:* SDEU C-263/08 Djurgården (zákaz nepřiměřených překážek přístupu spolků); C-826/18 (členské státy mohou klást podmínky, nesmějí znemožnit účinný přístup).
+
+**4. Subsumpce.** Tři podmínky bodu 2 jsou alternativní v posledním znaku: (i) předmět činnosti ochrana ŽP — splněno; (ii) hlavní činností není podnikání — splněno; (iii) buď 3 roky existence, NEBO podpora 200 podpisy. Spolek nesplňuje ani tříletou existenci (14 měsíců), ani prahovou hranici 200 podpisů (180). Definice dotčené veřejnosti tedy naplněna není.
+
+**5. Řešení.** Odmítnutí účastenství je správné, neboť ani jedna z alternativ třetí podmínky není splněna. Spolek může nedostatek odstranit doplněním listiny na 200 platných podpisů (§ 3 písm. j), § 9e); doložení musí proběhnout v přihlášení dle § 9c odst. 3 nebo v odvolání. Riziko: podpisy musí splňovat náležitosti § 9e odst. 2 (jméno, příjmení, datum narození, adresa, vlastnoruční podpis) — vadné podpisy se nezapočítají.
+
+**6. Varianty.** (a) Pokud by spolek vznikl 3 roky a 1 den před zveřejněním, podpisová listina by nebyla potřeba a účastenství by vzniklo přihlášením. (b) Pokud by listina obsahovala 200 řádně vyplněných podpisů, podmínka by byla splněna i při 14měsíční existenci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* tříletá podmínka odporuje Aarhuské úmluvě a je třeba ji neaplikovat. *Neutralizace:* SDEU (C-826/18) připouští stanovení podmínek; tříletá lhůta je zmírněna alternativou 200 podpisů, takže nejde o znemožnění přístupu — podmínka je proporcionální.
+- *Protiargument:* drobné formální vady podpisů nemají vést k vyloučení. *Neutralizace:* zákon (§ 9e) stanoví náležitosti přesně; podpisy bez data narození nebo adresy nelze ověřit, proto se nezapočítají — formalita zde slouží ochraně před manipulací.
+- *Slabé místo:* hranice mezi „znemožněním" a „přípustnou podmínkou" přístupu je judikaturně citlivá; u spolku těsně pod prahem lze očekávat spor o eurokonformitu.
+
+#### H. Praktický závěr
+
+§ 3 je definiční jádro zákona. V praxi jsou nejspornější pojmy dotčená veřejnost (přístup spolků), navazující řízení (taxativní výčet v písm. g) a dotčené území (rozsah). Definice určují, kdo má procesní práva a která řízení jsou EIA podmíněna.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U spolku ověřit všechny tři podmínky § 3 písm. i) bodu 2 (předmět činnosti, nepodnikání, 3 roky NEBO 200 podpisů).
+- [ ] Zkontrolovat náležitosti podpisové listiny dle § 9e a započítat jen platné podpisy.
+- [ ] Zařadit konkrétní řízení do taxativního výčtu navazujících řízení dle § 3 písm. g).
+- [ ] Vymezit dotčené území a z něj odvodit dotčené ÚSC a dotčené orgány.
+
+**Typicky rozhodné důkazy / podklady:** výpis ze spolkového rejstříku, zakladatelské právní jednání, podporující podpisová listina s archy, doklad o zveřejnění informace o navazujícím řízení, mapa dotčeného území.
+
 ---
 
 ## Díl 2 — Posuzování vlivů záměru na životní prostředí
@@ -227,6 +335,42 @@ Zákon definuje posouzení vlivů záměru jako **čtyřfázový proces**: (1) v
 
 Zákon připouští dvě výjimky z EIA rozhodnutím vlády. **Odst. 2** — obranné záměry a záměry pro odvrácení mimořádných událostí; transponuje čl. 1 odst. 3 směrnice 2011/92/EU. **Odst. 3** — výjimka z důvodu výrazné převahy veřejného zájmu na provedení záměru nad zájmem na ochraně životního prostředí; transponuje čl. 2 odst. 4 směrnice. Podmínky jsou kumulativní: výjimečný případ, výrazná převaha veřejného zájmu, faktická nemožnost posuzování bez ohrožení účelu záměru. Vláda je povinna informovat Komisi a zveřejnit důvody. Tato výjimka byla v praxi ČR využita výjimečně; při jakémkoli pochybení hrozí řízení o porušení práva EU dle čl. 258 SFEU.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel skládky odpadů kategorie II hodlá rozšířit kapacitu. Vlastní kapacita rozšíření nedosahuje limitní hodnoty přílohy č. 1, avšak skládka leží v ochranném pásmu chráněné krajinné oblasti. Provozovatel tvrdí, že jde o podlimitní změnu nepodléhající EIA. Příslušný úřad zvažuje, zda zahájit zjišťovací řízení. Důkazy: oznámení změny s údaji o kapacitě, mapový podklad polohy vůči ZCHÚ a ochrannému pásmu, výpočet procenta limitní hodnoty.
+
+**2. Právní otázka.** Podléhá změna podlimitního záměru screeningu, jestliže nedosahuje limitu přílohy č. 1, ale dosahuje alespoň 25 % limitu a nachází se v ochranném pásmu zvláště chráněného území?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 písm. d) a e) — podlimitní záměry a jejich změny v ZCHÚ; písm. c) (kategorie II ve screeningu).
+- *Související ustanovení téhož zákona:* § 3 písm. n) (podlimitní záměr), § 7 (zjišťovací řízení), § 5 odst. 2 (zákaz salámové metody).
+- *Související předpisy:* zákon č. 114/1992 Sb. (ZCHÚ a ochranná pásma); čl. 2 odst. 4 a příloha II směrnice 2011/92/EU (přísnější vnitrostátní standard).
+- *Judikatura:* SDEU C-72/95 Kraaijeveld a C-392/96 Komise v. Irsko (členský stát nesmí stanovit prahy tak, aby celé kategorie záměrů unikly posouzení; kumulativní účinky nelze pominout).
+
+**4. Subsumpce.** Záměr je kategorie II, vlastní změna limit nedosahuje. Aplikuje se však písm. e): změna podlimitního záměru dosahující alespoň 25 % limitu, v jejímž důsledku záměr naplní kritéria písm. d) (poloha v ZCHÚ nebo ochranném pásmu). Poloha v ochranném pásmu CHKO je naplněna; je-li dosaženo 25 % limitu, znak písm. d)/e) je splněn a změna podléhá screeningu.
+
+**5. Řešení.** Příslušný úřad je povinen zahájit zjišťovací řízení dle § 7 a posoudit, zda změna podléhá EIA. Tvrzení o „podlimitnosti" neobstojí — písm. d) a e) představují přísnější vnitrostátní standard chránící ZCHÚ. Pravděpodobný výsledek: zjišťovací řízení proběhne, výsledkem může být závěr o EIA nebo rozhodnutí, že EIA nepodléhá (přezkoumatelné dle § 7 odst. 9). Praktický krok: doložit přesný výpočet procenta limitu a polohu vůči hranici ochranného pásma.
+
+**6. Varianty.** (a) Pokud by skládka ležela mimo ZCHÚ i ochranné pásmo, písm. d)/e) by se neuplatnilo a podlimitní změna by EIA nepodléhala. (b) Pokud by změna dosáhla méně než 25 % limitu, kritérium písm. e) by nebylo splněno a screening by se nekonal.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* záměr je podlimitní, a tedy z definice mimo EIA. *Neutralizace:* § 3 písm. n) definuje podlimitní záměr, avšak § 4 odst. 1 písm. d) a e) výslovně podlimitní záměry v ZCHÚ do screeningu zařazují.
+- *Protiargument:* ochranné pásmo není totéž co zvláště chráněné území, písm. d) se neuplatní. *Neutralizace:* text písm. d) výslovně uvádí „nebo jeho ochranném pásmu" — pásmo je zahrnuto.
+- *Slabé místo:* spor o přesné procento limitu může být skutkově náročný; chybí-li jednoznačný výpočet kapacity, je zařazení do screeningu zpochybnitelné.
+
+#### H. Praktický závěr
+
+§ 4 je rozcestník povinnosti EIA: kategorie I (vždy EIA, písm. a), změny a kategorie II (screening, písm. b–c), podlimitní záměry v ZCHÚ (písm. d–e), Natura 2000 (písm. f), ověřovací změny (písm. g) a etapy (písm. h). Výjimky vlády (odst. 2–3) jsou krajní a vyžadují notifikaci Komise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit záměr do kategorie I nebo II dle přílohy č. 1 a zjistit limitní hodnotu.
+- [ ] U podlimitního záměru ověřit polohu vůči ZCHÚ/ochrannému pásmu a dosažení 25 % limitu (písm. d, e).
+- [ ] Prověřit, zda nejde o salámové dělení záměru, které obchází limit.
+- [ ] U výjimky vlády (odst. 2–3) zkontrolovat kumulativní podmínky a notifikaci Evropské komise.
+
+**Typicky rozhodné důkazy / podklady:** oznámení záměru s údaji o kapacitě, výpočet procenta limitní hodnoty, mapový podklad polohy vůči ZCHÚ, stanovisko orgánu ochrany přírody, případné rozhodnutí vlády a vyjádření MŽP.
+
 ---
 
 ### § 5 — Způsob posuzování vlivů záměru na životní prostředí
@@ -258,6 +402,42 @@ Novelou implementující směrnici 2014/52/EU bylo do odst. 3 doplněno posuzov�
 #### Mitigační opatření a monitoring (odst. 4)
 
 Odst. 4 transponuje čl. 5 odst. 1 a přílohu IV bod 7 směrnice 2011/92/EU. Zákon rozlišuje **preventivní opatření** (předcházení vlivům), **mitigační opatření** (vyloučení, snížení, zmírnění, minimalizace) a **kompenzační opatření** (zvýšení příznivých vlivů). Návrh opatření musí být doprovázen **vyhodnocením jejich předpokládané účinnosti** — nestačí opatření deklarovat, musí být prokázáno, že jsou reálně účinná. Monitorovací opatření jsou povinná, nestanoví-li je jiné právní předpisy; podmínky monitorování se promítají do závazného stanoviska (§ 9a) a z něj do rozhodnutí v navazujícím řízení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor předkládá dokumentaci k těžbě štěrkopísku. Dokumentace hodnotí vlivy provozu těžby, avšak vůbec neřeší fázi ukončení — rekultivaci vytěženého prostoru a sanaci území — ačkoli povinnost rekultivace plyne z horního zákona. Dále chybí posouzení nulové varianty (neprovedení záměru). Dotčená veřejnost namítá neúplnost. Důkazy: dokumentace EIA, rekultivační plán dle horního zákona, hydrogeologické posouzení změny hladiny podzemní vody po ukončení těžby.
+
+**2. Právní otázka.** Je posouzení vlivů úplné, jestliže nehodnotí fázi ukončení záměru, sanaci/rekultivaci a variantu neprovedení záměru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 (přímé i nepřímé vlivy, varianta neprovedení), odst. 3 (celý životní cyklus včetně ukončení, sanace a rekultivace), odst. 4 (mitigační a monitorovací opatření).
+- *Související ustanovení téhož zákona:* § 8 odst. 5 (vrácení dokumentace k doplnění), příloha č. 4 (náležitosti dokumentace), § 2 (rozsah složek).
+- *Související předpisy:* zákon č. 44/1988 Sb. (horní zákon — povinnost rekultivace); čl. 3, čl. 5 odst. 1 a příloha IV směrnice 2011/92/EU ve znění 2014/52/EU.
+- *Judikatura:* ustálený požadavek na úplnost a přezkoumatelnost posouzení vlivů; nulová varianta jako srovnávací základ je nezbytnou náležitostí dokumentace.
+
+**4. Subsumpce.** § 5 odst. 3 výslovně požaduje hodnocení vlivů při ukončení záměru a sanace/rekultivace, stanoví-li ji zvláštní předpis (zde horní zákon). Absence této fáze i absence nulové varianty (odst. 1) znamená, že dokumentace nepokrývá zákonem požadovaný rozsah životního cyklu — je tedy neúplná.
+
+**5. Řešení.** Příslušný úřad měl dokumentaci vrátit dle § 8 odst. 5 k doplnění o posouzení ukončení, sanace/rekultivace a o nulovou variantu. Pravděpodobný výsledek: bez doplnění je následné závazné stanovisko vadné. Praktický krok: vyžádat rekultivační plán a hydrogeologické posouzení dlouhodobých vlivů po ukončení těžby; doplnit účinnost navržených opatření (odst. 4).
+
+**6. Varianty.** (a) Pokud by žádný zvláštní předpis povinnost sanace/rekultivace neukládal, rozsah dle odst. 3 by se v této části zúžil. (b) Pokud by šlo o krátkodobý záměr bez fáze ukončení s environmentálním dopadem, námitka by se omezila na nulovou variantu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* rekultivace je řešena samostatně v hornickém řízení, do EIA nepatří. *Neutralizace:* § 5 odst. 3 výslovně zahrnuje sanaci/rekultivaci do předmětu posouzení vlivů; paralelní úprava v jiném řízení tuto povinnost nevylučuje.
+- *Protiargument:* nulová varianta je formalita bez vlivu na výsledek. *Neutralizace:* bez srovnávací základny nelze hodnotit relativní dopady — jde o nezbytný analytický krok, nikoli formalitu.
+- *Slabé místo:* prokázání neúplnosti vyžaduje odborné posouzení dlouhodobých vlivů (hydrogeologie), které nemusí být v této fázi k dispozici.
+
+#### H. Praktický závěr
+
+§ 5 vymezuje způsob posuzování: čtyři analytické kroky, přímé i nepřímé vlivy, nulovou variantu, celý životní cyklus (včetně ukončení, sanace a rekultivace), zranitelnost vůči haváriím a katastrofám a mitigační i monitorovací opatření s vyhodnocením jejich účinnosti. Nejčastější vadou je opomenutí fáze ukončení a nulové varianty.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit posouzení všech fází: příprava, realizace, provoz, ukončení, sanace/rekultivace.
+- [ ] Zkontrolovat přítomnost a kvalitu nulové varianty (neprovedení záměru).
+- [ ] U etapizovaných záměrů posoudit etapy samostatně i jako celek (zákaz salámové metody, odst. 2).
+- [ ] Prověřit posouzení zranitelnosti vůči závažným nehodám/katastrofám a vyhodnocení účinnosti mitigačních opatření.
+
+**Typicky rozhodné důkazy / podklady:** dokumentace EIA, rekultivační/sanační plán, hydrogeologické a geotechnické posouzení, analýza rizik havárií, popis nulové varianty, vyhodnocení účinnosti navržených opatření.
 
 ---
 
@@ -294,6 +474,42 @@ Je-li záměr potenciálně způsobilý významně ovlivnit EVL nebo ptačí obl
 #### Lhůty pro zveřejnění a vyjádření (odst. 5–6)
 
 Příslušný úřad má **7 pracovních dnů** na posouzení formálních náležitostí oznámení — buď je zveřejní a zašle dotčeným, nebo vrátí oznamovateli; věcné posouzení se neprovádí. Po zveřejnění běží **30denní lhůta** pro vyjádření veřejnosti, dotčené veřejnosti, dotčených orgánů a dotčených ÚSC. Lhůta je prekluzivní — příslušný úřad k pozdějším vyjádřením nepřihlíží. Dotčené orgány jsou povinny ve vyjádření uvést, jaké podklady budou třeba pro JES — propojení s § 4 zákona o JES.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Oznamovatel záměru kategorie I (velký zdroj znečištění ovzduší) chce ušetřit čas a namísto oznámení předkládá rovnou dokumentaci dle § 6 odst. 3, aby obešel zjišťovací řízení. Záměr však podle stanoviska orgánu ochrany přírody může významně ovlivnit ptačí oblast. Příslušný úřad řeší, zda je zkrácený postup přípustný. Důkazy: dokumentace, stanovisko orgánu ochrany přírody dle § 45i ZOPK, doklad o tom, zda jde o přeshraniční záměr (§ 11).
+
+**2. Právní otázka.** Může oznamovatel u záměru, který může významně ovlivnit ptačí oblast, využít zkrácený postup dle § 6 odst. 3 a předložit přímo dokumentaci namísto oznámení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 3 (zkrácený postup — přímá dokumentace, vyloučen u Natura 2000 a přeshraničních záměrů), odst. 4 (povinné naturové posouzení), odst. 5–6 (lhůty 7 prac. dnů a 30 dnů).
+- *Související ustanovení téhož zákona:* § 8 (dokumentace), § 11 (přeshraniční posuzování), § 3 písm. a) bod 2 a § 4 odst. 1 písm. f) (záměry Natura 2000), § 16 (zveřejnění).
+- *Související předpisy:* § 45i zákona č. 114/1992 Sb. (ZOPK); čl. 6 odst. 3 směrnice 92/43/EHS; příloha č. 3 zákona (náležitosti oznámení).
+- *Judikatura:* SDEU C-127/02 Waddenzee (přísný standard u Natura 2000); restriktivní výklad výjimek a zkrácených postupů v EIA.
+
+**4. Subsumpce.** § 6 odst. 3 výslovně vylučuje zkrácený postup u záměrů, které dle stanoviska orgánu ochrany přírody mohou významně ovlivnit EVL nebo ptačí oblast. Záměr tuto podmínku naplňuje (stanovisko orgánu ochrany přírody). Zkrácený postup proto přípustný není; oznamovatel musí předložit oznámení a navíc naturové posouzení dle odst. 4.
+
+**5. Řešení.** Příslušný úřad měl postup dle § 6 odst. 3 odmítnout a vyžádat oznámení s naturovým posouzením; při nesplnění náležitostí vrátí podání do 7 pracovních dnů (odst. 5). Pravděpodobný výsledek: záměr projde standardním postupem (oznámení → zjišťovací řízení). Riziko: pokud by úřad zkrácený postup chybně připustil, byl by celý proces zatížen vadou napadnutelnou v navazujícím řízení.
+
+**6. Varianty.** (a) Pokud by stanovisko orgánu ochrany přírody vyloučilo významný vliv na Naturu 2000 a nešlo o přeshraniční záměr, zkrácený postup dle § 6 odst. 3 by byl přípustný. (b) Pokud by šlo o záměr kategorie II, § 6 odst. 3 by se neuplatnil vůbec (je určen jen pro postup mimo zjišťovací řízení u kategorie I).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* zkrácený postup šetří čas a dokumentace obsahuje více informací než oznámení, proto je dostatečný. *Neutralizace:* § 6 odst. 3 je kategorický — u Natura 2000 jej nelze použít bez ohledu na kvalitu dokumentace; účelem je zajistit naturové posouzení a účast od počátku.
+- *Protiargument:* lhůta 30 dnů pro vyjádření je pořádková a pozdní vyjádření lze zohlednit. *Neutralizace:* zákon výslovně stanoví, že k vyjádřením po lhůtě se nepřihlíží — jde o prekluzi.
+- *Slabé místo:* závěr o možném vlivu na Naturu 2000 závisí na stanovisku orgánu ochrany přírody; je-li nejednoznačné, je volba postupu sporná.
+
+#### H. Praktický závěr
+
+§ 6 upravuje oznámení jako vstupní dokument EIA, zkrácený postup s přímou dokumentací (jen mimo Natura 2000 a přeshraniční záměry), povinné naturové posouzení a lhůty (7 prac. dnů na formální kontrolu, 30 dnů na vyjádření). Prekluze 30denní lhůty a vyloučení zkráceného postupu u Natura 2000 jsou nejčastější sporné body.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit úplnost náležitostí oznámení dle přílohy č. 3; u kategorie I i nástin hlavních variant.
+- [ ] Zjistit, zda jde o záměr Natura 2000 nebo přeshraniční — pokud ano, zkrácený postup dle § 6 odst. 3 je vyloučen.
+- [ ] U záměru s vlivem na EVL/ptačí oblast vyžádat naturové posouzení autorizované osoby (odst. 4).
+- [ ] Hlídat lhůty: 7 pracovních dnů na zveřejnění/vrácení, 30 dnů na vyjádření (prekluze).
+
+**Typicky rozhodné důkazy / podklady:** oznámení dle přílohy č. 3, stanovisko orgánu ochrany přírody dle § 45i ZOPK, naturové posouzení, doklad o zveřejnění dle § 16, evidence doručených vyjádření s daty.
 
 ---
 
@@ -359,6 +575,42 @@ Rozhodnutí dle odst. 6 (záměr nepodléhá EIA) je **prvním úkonem v řízen
 
 Je-li záměr předložen ve variantách, zjišťovací řízení hodnotí varianty z hlediska vlivů na životní prostředí a navrhuje jejich pořadí. Příslušný úřad může navrhnout zpracování nových variant (lišících se umístěním, kapacitou, technologií, načasováním), je-li to účelné a technicky možné. Výsledkem může být „smíšený závěr" — některé varianty EIA podléhají (výrok dle odst. 5), jiné nepodléhají (výrok dle odst. 6); v takovém případě se závěr doručuje jako rozhodnutí dle odst. 6.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Příslušný úřad ve zjišťovacím řízení k záměru kategorie II (logistické centrum) vydá rozhodnutí dle § 7 odst. 6, že záměr nepodléhá EIA. Environmentální spolek splňující podmínky § 3 písm. i) bodu 2 s tím nesouhlasí — namítá, že úřad nepřihlédl ke kumulativním vlivům s již existujícími areály v okolí a k vyjádřením veřejnosti. Spolek zvažuje žalobu. Důkazy: rozhodnutí ze zjišťovacího řízení, oznámení, vyjádření veřejnosti a dotčených orgánů, podklady o sousedních záměrech (kumulace).
+
+**2. Právní otázka.** Je rozhodnutí, že záměr nepodléhá EIA, soudně přezkoumatelné na návrh dotčené veřejnosti, a obstojí, nezohlednilo-li kumulativní vlivy a obdržená vyjádření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 6 (rozhodnutí, že záměr EIA nepodléhá, jako první úkon v řízení; odvolání), odst. 3 (povinná kritéria screeningu), odst. 9–10 (žaloba dotčené veřejnosti, lhůta soudu 90 dnů).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 (kategorie a screening), § 3 písm. i) bod 2 (dotčená veřejnost), § 16 (zveřejnění), příloha č. 2 (kritéria).
+- *Související předpisy:* čl. 4 odst. 2–3 a příloha III směrnice 2011/92/EU; čl. 11 směrnice a čl. 9 odst. 2 Aarhuské úmluvy; zákon č. 150/2002 Sb. (SŘS).
+- *Judikatura:* SDEU C-75/08 Mellor (povinnost odůvodnit závěr screeningu a umožnit přezkum); C-72/95 Kraaijeveld (kumulativní účinky nelze pominout).
+
+**4. Subsumpce.** Rozhodnutí dle odst. 6 je soudně přezkoumatelné (odst. 9 zakládá domněnku zkrácení dotčené veřejnosti na právech). § 7 odst. 3 ukládá přihlédnout „vždy" mj. k povaze a rozsahu záměru, limitním hodnotám a obdrženým vyjádřením; příloha č. 2 zahrnuje kumulaci s jinými záměry. Nezohlednění kumulativních vlivů a vyjádření je proto vadou hodnocení kritérií — rozhodnutí je nepřezkoumatelné/nezákonné.
+
+**5. Řešení.** Spolek může podat žalobu dle odst. 9; soud rozhodne do 90 dnů (odst. 10). Pravděpodobný výsledek: rozhodnutí bude zrušeno pro nedostatečné odůvodnění (nezohlednění kumulace a vyjádření) a věc vrácena. Procesní krok: před žalobou vyčerpat odvolání (odst. 6); v žalobě doložit splnění podmínek § 3 písm. i) bodu 2 a označit pominuté kumulativní vlivy.
+
+**6. Varianty.** (a) Pokud by úřad kumulaci i vyjádření v odůvodnění řádně vypořádal a dospěl k závěru o absenci významného vlivu, rozhodnutí by obstálo (screening je odborná úvaha). (b) Pokud by šlo o záměr kategorie I (odst. 1), zjišťovací řízení by mělo charakter scopingu a výstupem by byl závěr, nikoli přezkoumatelné rozhodnutí o nepodléhání EIA.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* screening je odborná diskrece úřadu a soud do ní nemůže zasahovat. *Neutralizace:* soud nepřezkoumává vhodnost, ale zákonnost a přezkoumatelnost — chybějící vypořádání kumulace a vyjádření je vadou odůvodnění, nikoli zásahem do diskrece.
+- *Protiargument:* spolek neprokázal individuální zkrácení na právech. *Neutralizace:* odst. 9 výslovně konstruuje domněnku zkrácení dotčené veřejnosti — individuální dotčení se neprokazuje.
+- *Slabé místo:* žaloba musí být podána včas a spolek musí doložit podmínky § 3 písm. i) bodu 2; absence kumulačních podkladů oslabuje tvrzení o opomenutém vlivu.
+
+#### H. Praktický závěr
+
+§ 7 plní dvojí funkci: scoping u kategorie I (výstup = závěr) a screening u kategorie II a dalších (výstup = závěr o EIA, nebo přezkoumatelné rozhodnutí o nepodléhání EIA). Lhůty: 45 dnů (+25 dnů), soud 90 dnů. Klíčová je přezkoumatelnost rozhodnutí dle odst. 6 a povinné zohlednění kritérií přílohy č. 2 včetně kumulace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozlišit scoping (kategorie I, odst. 1) a screening (kategorie II+, odst. 2) a podle toho určit formu výstupu.
+- [ ] U screeningu ověřit vypořádání všech kritérií dle odst. 3 a přílohy č. 2, zejména kumulativních vlivů.
+- [ ] U rozhodnutí dle odst. 6 zkontrolovat doručení veřejnou vyhláškou, odůvodnění a poučení o odvolání/žalobě.
+- [ ] U žaloby dotčené veřejnosti doložit podmínky § 3 písm. i) bodu 2 a dodržet lhůty.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/závěr zjišťovacího řízení, oznámení, obdržená vyjádření veřejnosti a dotčených orgánů, podklady o sousedních záměrech (kumulace), doklad o zveřejnění dle § 16.
+
 ---
 
 ### § 8 — Dokumentace
@@ -397,6 +649,42 @@ Po zveřejnění dokumentace běží **30denní lhůta** pro písemná vyjádře
 
 Příslušný úřad může dokumentaci vrátit k přepracování nebo doplnění **do 40 dnů** od doručení dokumentace (včetně vyjádření) zpracovateli posudku. Podnět může dát zpracovatel posudku nebo vyjádření dotčených. Oznamovatel pak má opět **3 roky** na předložení doplněné dokumentace; lhůta je prekluzivní.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Oznamovatel získal závěr zjišťovacího řízení dle § 7 odst. 5 (záměr podléhá EIA). Dokumentaci k záměru přehrady zpracovala autorizovaná osoba, avšak až 3 roky a 2 měsíce po vydání závěru. Příslušný úřad zvažuje, zda dokumentaci přijmout, nebo posuzování ukončit. Souběžně dotčený orgán namítá, že dokumentaci fakticky zpracoval tentýž tým, který poté nabídl zpracování posudku. Důkazy: závěr zjišťovacího řízení s datem, dokumentace s datem předložení, autorizace zpracovatele dle § 19, smlouva o zpracování posudku.
+
+**2. Právní otázka.** Je příslušný úřad povinen ukončit posuzování, byla-li dokumentace předložena po uplynutí tříleté lhůty dle § 8 odst. 1 věty čtvrté?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (zpracování dokumentace autorizovanou osobou, tříletá prekluzivní lhůta), odst. 2 (formální kontrola 10 prac. dnů), odst. 5 (vrácení k doplnění, opět tříletá lhůta).
+- *Související ustanovení téhož zákona:* § 19 (autorizace), § 7 odst. 5 (závěr zjišťovacího řízení), § 9 odst. 4 (inkompatibilita zpracovatele dokumentace a posudku), příloha č. 4 (náležitosti).
+- *Související předpisy:* příloha IV směrnice 2011/92/EU; § 16 (zveřejnění).
+- *Judikatura:* obecné zásady běhu prekluzivních lhůt ve správním právu; požadavek odborné nezávislosti zpracovatele.
+
+**4. Subsumpce.** § 8 odst. 1 věta čtvrtá stanoví: není-li dokumentace předložena ve lhůtě 3 let ode dne vydání závěru dle § 7 odst. 5, příslušný úřad posuzování ukončí. Lhůta činí 3 roky; dokumentace byla předložena po 3 letech a 2 měsících. Znak prekluze je naplněn — úřad je povinen posuzování ukončit, nikoli dokumentaci přijmout.
+
+**5. Řešení.** Příslušný úřad posuzování ukončí; oznamovatel musí zahájit proces znovu (nové oznámení/zjišťovací řízení). Pravděpodobný výsledek: pozdě předložená dokumentace se věcně neprojednává. K druhé námitce: pokud by tentýž tým zpracoval dokumentaci i posudek, šlo by o porušení § 9 odst. 4 (inkompatibilita) — proto je třeba pohlídat oddělení zpracovatelů. Procesní krok: doložit data a personální obsazení obou zpracování.
+
+**6. Varianty.** (a) Pokud by dokumentace byla předložena 2 roky a 11 měsíců po závěru, lhůta by zachována byla a úřad by provedl formální kontrolu (odst. 2). (b) Pokud by dokumentace byla vrácena k doplnění dle odst. 5, běžela by nová tříletá lhůta od vrácení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* dvouměsíční překročení je marginální a úřad může lhůtu prominout. *Neutralizace:* jde o zákonnou prekluzivní lhůtu bez možnosti prominutí — úřad nemá diskreci a posuzování musí ukončit.
+- *Protiargument:* formální kontrola dle odst. 2 je jen administrativní a úřad nemůže hodnotit obsah. *Neutralizace:* správně — úřad ověřuje pouze náležitosti přílohy č. 4; věcné hodnocení přísluší zpracovateli posudku, což ale neoslabuje povinnost ukončit po prekluzi.
+- *Slabé místo:* prokázání personální totožnosti zpracovatelů dokumentace a posudku může být obtížné, je-li skryto za odlišné právnické osoby.
+
+#### H. Praktický závěr
+
+§ 8 upravuje dokumentaci jako ústřední odborný podklad EIA: zpracování autorizovanou osobou (§ 19), formální kontrolu úřadu (10 prac. dnů), 30denní vyjádření, vrácení k doplnění (40 dnů) a dvě tříleté prekluzivní lhůty (od závěru zjišťovacího řízení a od vrácení). Po jejich uplynutí se posuzování ukončuje bez diskrece.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat, zda dokumentaci zpracovala osoba s autorizací dle § 19.
+- [ ] Hlídat tříletou prekluzivní lhůtu od závěru zjišťovacího řízení (a od případného vrácení dle odst. 5).
+- [ ] Ověřit úplnost náležitostí dle přílohy č. 4 a u JES i náležitosti žádosti o JES.
+- [ ] Vyloučit personální propojení zpracovatele dokumentace a zpracovatele posudku (§ 9 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** závěr zjišťovacího řízení s datem, dokumentace s datem předložení, autorizace zpracovatele, evidence vyjádření, doklad o zveřejnění dle § 16, smluvní dokumentace ke zpracování posudku.
+
 ---
 
 ### § 9 — Posudek
@@ -432,6 +720,42 @@ Základní lhůta pro zpracování posudku je **60 dnů** od doručení dokument
 #### Podklady od oznamovatele (odst. 6)
 
 Oznamovatel je povinen na **vlastní náklady** poskytnout zpracovateli posudku veškeré podklady použité pro dokumentaci, a to **do 5 pracovních dnů** od žádosti. Povinnost nést náklady přechází v tomto bodě na oznamovatele; odmítnutí nebo prodlení je porušením zákonné povinnosti s procesními důsledky (nemožnost zpracovatele posudku splnit lhůtu 60 dnů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Příslušný úřad smluvně zadal zpracování posudku k záměru spalovny. Vyšlo najevo, že zpracovatel posudku se dílčím způsobem podílel na zpracování dokumentace (zpracoval rozptylovou studii, která je přílohou dokumentace). Dotčená veřejnost namítá podjatost a neplatnost posudku. Současně zpracovatel v posudku sám „opravil" chybné vstupní údaje dokumentace. Důkazy: smlouva o zpracování posudku, autorství dílčích studií dokumentace, samotný posudek.
+
+**2. Právní otázka.** Je posudek vadný, jestliže jej zpracovala osoba, která se dílčím způsobem podílela na dokumentaci, a jestliže zpracovatel posudku dokumentaci sám doplňoval?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 4 (inkompatibilita — kdo se podílel na oznámení/dokumentaci, nesmí ani dílčím způsobem zpracovat posudek), odst. 5 (zákaz přepracování/doplnění dokumentace zpracovatelem posudku), odst. 1 (smluvní zajištění úřadem).
+- *Související ustanovení téhož zákona:* § 19 (autorizace), § 8 (dokumentace), § 9a (závazné stanovisko vydávané na základě posudku), příloha č. 5 (náležitosti posudku).
+- *Související předpisy:* § 14 SŘ (vyloučení pro podjatost) přiměřeně; čl. 5 a 6 směrnice 2011/92/EU (kvalita a nezávislost podkladů).
+- *Judikatura:* požadavek nezávislosti a nestrannosti odborného posouzení v EIA; vada podkladu se promítá do zákonnosti navazujícího rozhodnutí.
+
+**4. Subsumpce.** § 9 odst. 4 zakazuje, aby posudek zpracoval kdokoli, kdo se „ani dílčím způsobem" podílel na dokumentaci. Autor rozptylové studie tvořící součást dokumentace je takovou osobou — inkompatibilita je naplněna. Navíc zpracovatel posudku doplnil dokumentaci, čímž porušil odst. 5. Posudek je proto zatížen vadou.
+
+**5. Řešení.** Příslušný úřad měl posudek odmítnout a zadat jej nezávislé osobě; vydané závazné stanovisko opřené o vadný posudek je napadnutelné v navazujícím řízení. Pravděpodobný výsledek: vada posudku zakládá nezákonnost podkladu, a tím i závazného stanoviska. Procesní krok: doložit autorství dílčích studií a označit pasáže, kde zpracovatel posudku dokumentaci doplnil.
+
+**6. Varianty.** (a) Pokud by zpracovatel posudku s dokumentací neměl žádnou personální ani autorskou vazbu a omezil se na hodnocení (bez doplňování), posudek by byl bezvadný. (b) Pokud by úřad vrátil vadný posudek dle § 9 odst. 7 k přepracování jiné osobě, vada by byla zhojena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podíl na jediné dílčí studii nezakládá podjatost celého posudku. *Neutralizace:* § 9 odst. 4 je kategorický — vylučuje účast „ani dílčím způsobem"; rozsah podílu je nerozhodný.
+- *Protiargument:* oprava zjevně chybných údajů zlepšila kvalitu posouzení. *Neutralizace:* odst. 5 přepracování i doplnění dokumentace zpracovatelem posudku výslovně zakazuje; korekce přísluší oznamovateli cestou vrácení dokumentace (§ 8 odst. 5).
+- *Slabé místo:* prokázání autorství dílčí studie a personálního propojení může být skutkově náročné, zejména u týmů a subdodavatelů.
+
+#### H. Praktický závěr
+
+§ 9 upravuje posudek jako nezávislou odbornou recenzi dokumentace: zadává jej úřad (ne oznamovatel), zpracovává autorizovaná osoba, platí přísná inkompatibilita s autory dokumentace a zákaz doplňovat dokumentaci. Lhůty: 60 dnů (+20), sankce dle § 18 při prodlení. Nezávislost posudku je klíčová pro zákonnost závazného stanoviska.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit autorizaci zpracovatele posudku dle § 19 a smluvní zadání úřadem (ne oznamovatelem).
+- [ ] Vyloučit, že se zpracovatel posudku podílel — i dílčím způsobem — na oznámení nebo dokumentaci (odst. 4).
+- [ ] Zkontrolovat, že posudek dokumentaci nepřepracovává ani nedoplňuje (odst. 5).
+- [ ] Hlídat lhůtu 60 dnů (+20) a postup při prodlení dle odst. 7–8 (vrácení, sankce dle § 18).
+
+**Typicky rozhodné důkazy / podklady:** smlouva o zpracování posudku, autorství dílčích studií dokumentace, posudek s náležitostmi přílohy č. 5, korespondence úřadu se zpracovatelem, doklady o lhůtách.
 
 ---
 
@@ -474,6 +798,42 @@ Odst. 6 zavádí povinnost oznamovatele **nejpozději v den podání žádosti o
 #### Soudní přezkum závazného stanoviska EIA
 
 Přezkum závazného stanoviska EIA probíhá — v souladu s § 149 SŘ — **v rámci přezkumu rozhodnutí v navazujícím řízení**. Samotné kladné závazné stanovisko nepodléhá přímé žalobě (není rozhodnutím ve smyslu § 65 SŘS). Výjimkou je **nesouhlasné závazné stanovisko** dle odst. 7, které fakticky rozhoduje o záměru; NSS v usneseních rozšířeného senátu dovodil, že v takovém případě může být přezkum proveden v rámci odvolání v navazujícím řízení nebo samostatnou žalobou. Zákon č. 150/2002 Sb. (SŘS) se na přezkum závazných stanovisek použije přiměřeně, vždy s přihlédnutím k povaze závazného stanoviska jako podkladového aktu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor získal souhlasné závazné stanovisko EIA k záměru dálničního úseku v roce 2017 (platnost 7 let). V roce 2024 podává žádost o povolení v navazujícím řízení. Mezitím byla v dotčeném území vyhlášena nová evropsky významná lokalita a změnily se metody posuzování hlukové zátěže. Investor žádá o prodloužení platnosti o 5 let. Příslušný úřad zvažuje, zda prodloužit, prodloužit jen částečně, nebo prodloužení odmítnout. Důkazy: závazné stanovisko s datem vydání, podklad o aktuálním stavu dotčeného území, vymezení nové EVL, popis změn metodiky.
+
+**2. Právní otázka.** Lze platnost závazného stanoviska prodloužit, došlo-li po jeho vydání k vyhlášení nové EVL a ke změně metod posuzování, které se vztahují jen k části záměru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9a odst. 4 (platnost 7 let, jednorázové prodloužení o 5 let jen při absenci relevantních změn), odst. 5 (dílčí prodloužení při změnách vázaných na část/etapu/variantu), odst. 7 (ověřovací závazné stanovisko).
+- *Související ustanovení téhož zákona:* § 4 odst. 1 písm. h) (posouzení části/etapy/varianty), § 4 odst. 1 písm. g) (změny dle odst. 7), § 9b a násl. (navazující řízení).
+- *Související předpisy:* § 149 SŘ (závazné stanovisko); § 45i ZOPK (nová EVL); čl. 8a směrnice 2011/92/EU (obsah povolení a podmínky).
+- *Judikatura:* požadavek aktuálnosti podkladu pro rozhodnutí; usnesení rozšířeného senátu NSS k přezkumu závazných stanovisek EIA v navazujícím řízení.
+
+**4. Subsumpce.** § 9a odst. 4 umožňuje prodloužení jen, „pokud nedošlo ke změnám podmínek v dotčeném území nebo poznatků a metod posuzování", v jejichž důsledku by záměr mohl mít dosud neposouzené významné vlivy. Nová EVL a změna metodiky jsou takovými změnami. Vážou-li se však jen k části záměru, nastupuje odst. 5: dílčí prodloužení pro nepostiženou část a nový screening/EIA pro postiženou část dle § 4 odst. 1 písm. h).
+
+**5. Řešení.** Příslušný úřad prodlouží platnost jen částečně (pro úseky nedotčené novou EVL a změnou metodiky) a pro postiženou část vyžádá oznámení dle § 6 ve stanovené lhůtě; vydá-li se rozhodnutí dle § 7 odst. 6, platnost prodlouží i pro tuto část. Pravděpodobný výsledek: částečné prodloužení, dílčí nové posuzování. Riziko: opomene-li úřad novou EVL, je závazné stanovisko (a navazující povolení) napadnutelné.
+
+**6. Varianty.** (a) Pokud by žádné relevantní změny v území ani metodice nenastaly, úřad prodlouží platnost o celých 5 let (jednorázově). (b) Pokud by změny postihovaly záměr jako celek, prodloužení by nebylo možné a bylo by nutné nové posouzení celého záměru.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* vyhlášení nové EVL nemá vliv, neboť záměr byl posouzen dříve. *Neutralizace:* odst. 4 váže prodloužení na absenci změn podmínek v území; nová EVL je změnou, která může založit dosud neposouzené vlivy — prodloužení v plném rozsahu je vyloučeno.
+- *Protiargument:* opakované prodloužení lze povolit, je-li záměr ve veřejném zájmu. *Neutralizace:* odst. 4 opakované prodloužení výslovně vylučuje bez ohledu na veřejný zájem.
+- *Slabé místo:* posouzení, zda se změny vážou jen k části záměru, je odborně náročné; chybný úsudek ohrožuje celé navazující řízení.
+
+#### H. Praktický závěr
+
+§ 9a upravuje závazné stanovisko EIA jako podklad (§ 149 SŘ) pro navazující řízení: lhůta vydání 30 dnů, platnost 7 let, jednorázové prodloužení o 5 let (jen bez relevantních změn), dílčí prodloužení (odst. 5) a ověřovací závazné stanovisko (odst. 7). Stanovisko musí být platné při rozhodnutí v 1. stupni; přezkum probíhá v navazujícím řízení (výjimka: nesouhlasné stanovisko dle odst. 7).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit platnost stanoviska v době vydání rozhodnutí v navazujícím řízení v 1. stupni (odst. 3).
+- [ ] Při žádosti o prodloužení posoudit změny v dotčeném území a metodice (odst. 4); zvážit dílčí prodloužení dle odst. 5.
+- [ ] U navazujícího řízení zajistit předložení dokumentace dle odst. 6 a ověřovací závazné stanovisko dle odst. 7.
+- [ ] Přezkum směřovat do navazujícího řízení; u nesouhlasného stanoviska dle odst. 7 zvážit samostatnou žalobu.
+
+**Typicky rozhodné důkazy / podklady:** závazné stanovisko s datem vydání, podklad o aktuálním stavu dotčeného území, vymezení nové EVL, popis změn metodiky, dokumentace pro navazující řízení, vyhodnocení plnění podmínek stanoviska.
 
 ---
 
@@ -523,6 +883,42 @@ Správní orgán musí na žádost žadatele poskytnout **předběžnou informac
 
 Správní orgán musí při rozhodování vycházet nejen z podkladů navazujícího řízení, ale i z **dokumentace EIA**, **připomínek veřejnosti** uplatněných v procesu EIA, **vyjádření dotčeného státu** při mezistátním posuzování (§ 13) a **výsledků veřejného projednání** (§ 17). Tím zákon zajišťuje kontinuitu mezi výsledky EIA procesu a výsledkem navazujícího řízení — správní orgán nesmí tyto podklady ignorovat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad zahájil navazující řízení o povolení záměru (logistický terminál podléhající EIA). Oznámení o zahájení řízení vyvěsil na úřední desce, ale neuvedl, že jde o záměr podléhající EIA, neodkázal na dokumentaci EIA a informaci vyvěsil jen po 15 dnů. Dotčená veřejnost namítá zkrácení svých procesních práv. Důkazy: oznámení o zahájení řízení, doklad o vyvěšení na úřední desce (datum vyvěšení a sejmutí), obsah zveřejněných informací.
+
+**2. Právní otázka.** Je zveřejnění při zahájení navazujícího řízení vadné, neobsahuje-li upozornění na EIA charakter záměru a odkaz na dokumentaci a bylo-li vyvěšeno kratší dobu než 30 dnů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9b odst. 1 (povinný obsah zveřejnění a vyvěšení po dobu 30 dnů), odst. 3 (řízení s velkým počtem účastníků), odst. 5 (podklady pro rozhodnutí včetně dokumentace EIA a připomínek veřejnosti).
+- *Související ustanovení téhož zákona:* § 9c (účast veřejnosti, lhůty navázané na § 9b odst. 1), § 16 (zveřejnění dokumentů EIA), § 3 písm. g) a o) (navazující řízení dle stavebního zákona).
+- *Související předpisy:* § 25 a § 144 SŘ (veřejná vyhláška, velký počet účastníků); zákon č. 283/2021 Sb. (stavební zákon); čl. 6 odst. 2–5 směrnice 2011/92/EU; čl. 6 Aarhuské úmluvy.
+- *Judikatura:* SDEU C-216/05 a C-263/08 (efektivní informování a účast dotčené veřejnosti); požadavek řádného a včasného zveřejnění jako podmínky účinné účasti.
+
+**4. Subsumpce.** § 9b odst. 1 stanoví povinný obsah zveřejnění: mj. upozornění na EIA charakter (písm. a), odkaz na dokumentaci (písm. a, c) a podmínky účasti (písm. d); informace musí být vyvěšena 30 dnů. Chybí-li upozornění a odkaz a doba vyvěšení je 15 dnů, zveřejnění zákonné náležitosti nesplňuje — procesní práva veřejnosti byla zkrácena.
+
+**5. Řešení.** Vada zveřejnění zakládá procesní pochybení, které se promítá do zákonnosti rozhodnutí v navazujícím řízení; dotčená veřejnost je může namítat v odvolání (§ 9c odst. 4) a v žalobě (§ 9d). Pravděpodobný výsledek: rozhodnutí je pro podstatnou procesní vadu zrušitelné, neboť vada mohla mít vliv na možnost účasti. Procesní krok: doložit datum vyvěšení/sejmutí a obsah zveřejnění; uplatnit námitku včas.
+
+**6. Varianty.** (a) Pokud by úřad zveřejnil všechny náležitosti a vyvěsil informaci po 30 dnů, řízení by bylo bezvadné. (b) Pokud by drobná vada (např. chybějící údaj o jednom dotčeném orgánu) nemohla mít vliv na účast veřejnosti, nešlo by o vadu způsobující nezákonnost rozhodnutí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* informace byla na úřední desce dostupná, veřejnost se mohla seznámit i bez výslovného upozornění na EIA. *Neutralizace:* § 9b odst. 1 stanoví obsah zveřejnění kogentně; absence upozornění na EIA a odkazu na dokumentaci znemožňuje cílené uplatnění práv dotčené veřejnosti.
+- *Protiargument:* kratší doba vyvěšení je formální vada bez vlivu. *Neutralizace:* 30denní doba je navázána na běh lhůt dle § 9c; zkrácení zkracuje i lhůtu pro připomínky a přihlášení — jde o vadu s materiálním dopadem.
+- *Slabé místo:* zrušení rozhodnutí vyžaduje, aby vada mohla mít vliv na zákonnost; u marginálních pochybení soud vadu nemusí shledat podstatnou.
+
+#### H. Praktický závěr
+
+§ 9b zakotvuje informační povinnosti při zahájení navazujícího řízení (Aarhus, stavební zákon): zveřejnění postupem dle § 25 SŘ s povinným obsahem a vyvěšením po 30 dnů, charakter řízení s velkým počtem účastníků (§ 144 SŘ), předběžnou informaci (1 rok) a povinnost vycházet z dokumentace EIA a připomínek veřejnosti. Řádné zveřejnění je podmínkou účinné účasti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že zveřejnění obsahuje všechny náležitosti § 9b odst. 1 písm. a)–d), zejména upozornění na EIA a odkaz na dokumentaci.
+- [ ] Zkontrolovat dobu vyvěšení na úřední desce (30 dnů) a datum vyvěšení/sejmutí.
+- [ ] Vést řízení jako řízení s velkým počtem účastníků (§ 144 SŘ, doručování veřejnou vyhláškou).
+- [ ] Při rozhodování vyjít z dokumentace EIA, připomínek veřejnosti a výsledků veřejného projednání (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** oznámení o zahájení řízení, doklad o vyvěšení (data), obsah zveřejněných informací, dokumentace pro navazující řízení, evidence připomínek veřejnosti, případná předběžná informace dle odst. 2.
+
 ---
 
 ### § 9c — Účast veřejnosti v navazujícím řízení
@@ -553,6 +949,42 @@ Správní orgán musí při rozhodování vycházet nejen z podkladů navazujíc
 
 Dotčená veřejnost (ekospolky dle § 3 písm. i) bod 2) a dotčené ÚSC se stávají **účastníky navazujícího řízení** přihlášením do 30 dnů od zveřejnění informací. Zákon zde zakotvuje **opt-in** model: bez přihlášení nejsou účastníky, ale mají právo podat odvolání i bez předchozího účastenství v prvním stupni (odst. 4) — tzv. „retrospektivní právo na odvolání". Toto právo transponuje čl. 11 odst. 1 směrnice 2011/92/EU a čl. 9 odst. 2 Aarhuské úmluvy. SDEU v rozsudku C-243/15 Lesoochranárske zoskupenie VLK II potvrdil, že environmentálním spolkům nelze přístup k přezkumu blokovat procesními překážkami. Splnění podmínek § 3 písm. i) bodu 2 (tj. tříletá lhůta nebo 200 podpisů) musí dotčená veřejnost doložit v samotném podání nebo odvolání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Environmentální spolek (splňující § 3 písm. i) bod 2) se k navazujícímu řízení o povolení záměru nepřihlásil ve 30denní lhůtě dle § 9c odst. 3, a nebyl tedy účastníkem v prvním stupni. Po vydání povolení chce podat odvolání. Stavební úřad odvolání odmítá s tím, že spolek nebyl účastníkem řízení. Důkazy: doklad o zveřejnění informací dle § 9b odst. 1, doklad o (ne)přihlášení spolku, splnění podmínek § 3 písm. i) bodu 2 (zakladatelské jednání, doba vzniku nebo podpisová listina).
+
+**2. Právní otázka.** Může environmentální spolek podat odvolání proti rozhodnutí v navazujícím řízení, i když se do řízení v prvním stupni nepřihlásil a nebyl jeho účastníkem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9c odst. 4 (odvolání dotčené veřejnosti i bez účastenství v 1. stupni), odst. 3 (vznik účastenství přihlášením do 30 dnů), odst. 5 (doložení podmínek), odst. 1–2 (připomínky veřejnosti a jejich vypořádání).
+- *Související ustanovení téhož zákona:* § 3 písm. i) bod 2 (dotčená veřejnost), § 9b odst. 1 (zveřejnění a běh lhůt), § 9d (žaloba), § 9e (podpisová listina).
+- *Související předpisy:* čl. 11 směrnice 2011/92/EU; čl. 9 odst. 2 Aarhuské úmluvy; § 81 a násl. SŘ (odvolání).
+- *Judikatura:* SDEU C-243/15 Lesoochranárske zoskupenie VLK II (zákaz blokovat spolkům přístup k přezkumu procesními překážkami); C-263/08 Djurgården.
+
+**4. Subsumpce.** § 9c odst. 4 výslovně přiznává dotčené veřejnosti dle § 3 písm. i) bodu 2 právo podat odvolání „i v případě, že nebyla účastníkem řízení v prvním stupni". Spolek tuto kategorii splňuje (doloží podmínky dle odst. 5). Absence přihlášení v 1. stupni proto odvolání nebrání — jde o tzv. retrospektivní právo na odvolání.
+
+**5. Řešení.** Odvolání je přípustné; odvolací orgán je povinen je věcně projednat, doloží-li spolek podmínky § 3 písm. i) bodu 2 v odvolání (odst. 5). Pravděpodobný výsledek: odmítnutí odvolání pro absenci účastenství v 1. stupni je nezákonné. Procesní krok: k odvolání přiložit doklad o splnění podmínek (zakladatelské jednání, doba vzniku nebo podpisová listina dle § 9e).
+
+**6. Varianty.** (a) Pokud by spolek nesplnil podmínky § 3 písm. i) bodu 2 (např. vznik před méně než 3 lety bez 200 podpisů), právo na odvolání by mu nevzniklo. (b) Pokud by se spolek do řízení přihlásil ve 30 dnech, byl by řádným účastníkem již v 1. stupni a otázka retrospektivního odvolání by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* kdo se nepřihlásil v 1. stupni, ztrácí procesní práva — odvolání je nepřípustné. *Neutralizace:* § 9c odst. 4 výslovně zakládá právo na odvolání i bez předchozího účastenství; jde o speciální úpravu vůči obecnému správnímu řádu.
+- *Protiargument:* spolek doložil podmínky až dodatečně, doložení je opožděné. *Neutralizace:* odst. 5 umožňuje doložit podmínky přímo v odvolání — dřívější doložení se nevyžaduje.
+- *Slabé místo:* věcný rozsah odvolání může být omezen tím, co spolek namítá; bez konkrétních námitek proti zákonnosti rozhodnutí je odvolání málo účinné.
+
+#### H. Praktický závěr
+
+§ 9c upravuje druhý pilíř Aarhuské úmluvy v navazujícím řízení: připomínky veřejnosti (30 dnů, povinné vypořádání v odůvodnění) a opt-in účastenství dotčené veřejnosti a dotčených ÚSC. Klíčové je retrospektivní právo dotčené veřejnosti podat odvolání i bez účastenství v 1. stupni (odst. 4), podmíněné doložením statusu dle § 3 písm. i) bodu 2.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplatnit připomínky veřejnosti ve lhůtě 30 dnů od zveřejnění dle § 9b odst. 1; očekávat jejich vypořádání v odůvodnění.
+- [ ] Pro účastenství v 1. stupni se přihlásit do 30 dnů (odst. 3); jinak využít odvolání dle odst. 4.
+- [ ] V přihlášení i v odvolání doložit splnění podmínek § 3 písm. i) bodu 2 (odst. 5).
+- [ ] Správní orgán: ověřit doložení statusu a věcně projednat odvolání i bez účastenství v 1. stupni.
+
+**Typicky rozhodné důkazy / podklady:** doklad o zveřejnění dle § 9b odst. 1, podání připomínek/přihlášení s datem, zakladatelské právní jednání spolku, doklad o době vzniku nebo podpisová listina dle § 9e, samotné odvolání.
+
 ---
 
 ### § 9d — Soudní přezkum rozhodnutí v navazujícím řízení
@@ -572,6 +1004,42 @@ Dotčená veřejnost (ekospolky dle § 3 písm. i) bod 2) a dotčené ÚSC se st
 #### Lhůta soudu a odkladný účinek žaloby (odst. 2)
 
 Soud je povinen rozhodnout **do 90 dnů** od doručení žaloby — zákonná lhůta posiluje procesní jistotu a omezuje dobu právní nejistoty o realizaci záměru. Zákon dále ukládá soudu, aby i **bez návrhu** rozhodl o odkladném účinku žaloby nebo o předběžném opatření; odkladný účinek soud přizná, **hrozí-li závažné škody na životním prostředí** — jde o transpozici zásady předběžné opatrnosti a čl. 9 odst. 4 Aarhuské úmluvy. Toto ustanovení je v praxi klíčové: odmítne-li soud přiznat odkladný účinek, může být záměr realizován ještě před pravomocným rozhodnutím o žalobě, čímž se efektivní ochrana environmentálních hodnot prakticky eliminuje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Environmentální spolek podal žalobu proti povolení záměru těžby v navazujícím řízení a navrhl přiznání odkladného účinku, neboť těžba má začít již za 14 dní a hrozí nevratné poškození mokřadu. Soud o odkladném účinku nerozhodl bezodkladně a investor mezitím zahájil skrývku. Spolek namítá zmaření soudní ochrany. Důkazy: žaloba s návrhem na odkladný účinek, harmonogram realizace záměru, odborné posouzení nevratnosti zásahu do mokřadu.
+
+**2. Právní otázka.** Je soud povinen rozhodnout o odkladném účinku žaloby i bez návrhu a přiznat jej, hrozí-li realizací záměru závažné škody na životním prostředí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9d odst. 1 (žaloba dotčené veřejnosti, domněnka zkrácení na právech, hmotná i procesní zákonnost), odst. 2 (lhůta soudu 90 dnů, rozhodnutí o odkladném účinku i bez návrhu, přiznání při hrozbě závažných škod).
+- *Související ustanovení téhož zákona:* § 3 písm. i) bod 2 (dotčená veřejnost), § 9c odst. 4 (odvolání), § 9a (závazné stanovisko jako podklad).
+- *Související předpisy:* § 73 zákona č. 150/2002 Sb. (SŘS — odkladný účinek, předběžné opatření); čl. 9 odst. 4 Aarhuské úmluvy (účinná a včasná ochrana); čl. 11 směrnice 2011/92/EU.
+- *Judikatura:* SDEU C-416/10 Križan (možnost předběžné ochrany v environmentálních věcech); zásada předběžné opatrnosti.
+
+**4. Subsumpce.** § 9d odst. 2 ukládá soudu rozhodnout o odkladném účinku „i bez návrhu" a přiznat jej, „hrozí-li nebezpečí, že realizací záměru může dojít k závažným škodám na životním prostředí". Nevratné poškození mokřadu je takovou hrozbou. Soud je proto povinen o odkladném účinku rozhodnout neprodleně a při doložené hrozbě jej přiznat.
+
+**5. Řešení.** Soud měl o odkladném účinku rozhodnout bezodkladně a vzhledem k hrozbě nevratného poškození jej přiznat; nečinnost soudu fakticky zmařila účinnost ochrany. Pravděpodobný správný postup: přiznání odkladného účinku zastaví realizaci do rozhodnutí ve věci (90denní lhůta). Procesní krok spolku: doložit hrozbu závažných a nevratných škod odborným posouzením a urgovat rozhodnutí o předběžné ochraně.
+
+**6. Varianty.** (a) Pokud by realizace záměru nehrozila závažnými škodami (vratný, marginální zásah), soud by odkladný účinek přiznat nemusel. (b) Pokud by žalobu podal subjekt nesplňující § 3 písm. i) bod 2, neuplatnila by se domněnka zkrácení a aktivní legitimace by byla sporná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* odkladný účinek se přiznává jen na návrh a po prokázání nepoměru újmy. *Neutralizace:* § 9d odst. 2 je speciální — ukládá soudu rozhodnout i bez návrhu a přiznat odkladný účinek již při hrozbě závažných škod na ŽP, tedy mírnější standard než obecný § 73 SŘS.
+- *Protiargument:* lhůta 90 dnů je pořádková, její nedodržení nemá následky. *Neutralizace:* správně je pořádková, avšak nečinnost při rozhodování o odkladném účinku zasahuje do práva na účinnou ochranu (čl. 9 odst. 4 Aarhus) a může zakládat odpovědnost za nesprávný úřední postup.
+- *Slabé místo:* prokázání „závažných škod na životním prostředí" vyžaduje odborný podklad; bez něj soud hrozbu nemusí shledat.
+
+#### H. Praktický závěr
+
+§ 9d transponuje třetí pilíř Aarhuské úmluvy: dotčená veřejnost se žalobou domáhá zrušení rozhodnutí v navazujícím řízení (hmotná i procesní zákonnost), s domněnkou zkrácení na právech. Soud rozhoduje do 90 dnů a o odkladném účinku/předběžném opatření i bez návrhu, s přiznáním při hrozbě závažných škod na ŽP. Předběžná ochrana je v praxi rozhodující pro účinnost přezkumu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložit v žalobě status dotčené veřejnosti dle § 3 písm. i) bodu 2 (domněnka zkrácení na právech).
+- [ ] Namítat hmotnou i procesní zákonnost rozhodnutí a navázaného závazného stanoviska EIA.
+- [ ] Navrhnout (a soud i bez návrhu zváží) odkladný účinek/předběžné opatření při hrozbě závažných škod na ŽP.
+- [ ] Hlídat 90denní lhůtu soudu; při nečinnosti zvážit prostředky proti průtahům.
+
+**Typicky rozhodné důkazy / podklady:** žaloba s návrhem na odkladný účinek, harmonogram realizace záměru, odborné posouzení nevratnosti a závažnosti zásahu, rozhodnutí v navazujícím řízení, závazné stanovisko EIA, doklad o statusu dotčené veřejnosti.
 
 ---
 
@@ -600,6 +1068,42 @@ Záhlaví listiny a každý podpisový arch musí obsahovat: název záměru, id
 #### Osobní údaje a přenositelnost listiny (odst. 2)
 
 Každá podporující osoba uvede jméno, příjmení, datum narození, adresu pobytu a vlastnoruční podpis. Listina je **přenositelná v čase** — lze ji použít pro jakékoliv navazující řízení k témuž záměru zahájené v době její platnosti (**18 měsíců** od data záhlaví). Platnost neběží po dobu přerušení navazujícího řízení — zákon tak zabraňuje propadnutí platnosti listiny v důsledku procesní nečinnosti správního orgánu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Mladý environmentální spolek (vznik před 1 rokem) chce vstoupit do navazujícího řízení k záměru spalovny pomocí podporující podpisové listiny. Listina obsahuje 230 podpisů, ale v záhlaví chybí číslo jednací a datum oznámení o zahájení řízení; u 40 podpisů chybí datum narození. Listina byla pořízena před 20 měsíci k jinému, již skončenému řízení k témuž záměru. Stavební úřad účastenství odmítá. Důkazy: podpisová listina s archy, oznámení o zahájení nového řízení, doklad o datu pořízení listiny.
+
+**2. Právní otázka.** Splňuje podpisová listina náležitosti § 9e, chybí-li v záhlaví identifikace řízení, část podpisů nemá datum narození a listina byla pořízena před 20 měsíci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9e odst. 1 (povinný obsah záhlaví a archů — název záměru, identifikace spolku, identifikace řízení s č. j. a datem), odst. 2 (náležitosti podpisu, přenositelnost listiny, platnost 18 měsíců, stavení po dobu přerušení).
+- *Související ustanovení téhož zákona:* § 3 písm. i) bod 2 a písm. j) (dotčená veřejnost, podpisová listina min. 200 osob), § 9c odst. 3 a 5 (přihlášení a doložení), § 7 odst. 6 (odvolání ve zjišťovacím řízení).
+- *Související předpisy:* čl. 9 odst. 2 Aarhuské úmluvy; zákon č. 110/2019 Sb. (zpracování osobních údajů na podpisových arších).
+- *Judikatura:* požadavek ověřitelnosti podpisů jako podmínky jejich započtení; přiměřenost formálních požadavků na přístup spolků (C-263/08 Djurgården).
+
+**4. Subsumpce.** Listina trpí dvěma vadami: (i) chybí identifikace řízení v záhlaví (č. j. a datum oznámení) dle odst. 1 — vada celé listiny pro dané řízení; (ii) 40 podpisů bez data narození nelze ověřit (odst. 2), takže se nezapočítají — zbývá 190 platných podpisů, tj. pod prahem 200. Navíc listina je 20 měsíců stará, čímž překračuje 18měsíční platnost (odst. 2), neběžela-li doba stavení pro přerušení.
+
+**5. Řešení.** Odmítnutí účastenství je správné: listina nesplňuje náležitosti záhlaví, nedosahuje 200 platných podpisů a uplynula její platnost. Pravděpodobný výsledek: spolek musí pořídit novou listinu s řádným záhlavím vážícím se ke konkrétnímu novému řízení, s úplnými údaji podpisujících. Procesní krok: doplnit identifikaci řízení (č. j., datum) a kompletní osobní údaje; nově ji vztáhnout k probíhajícímu řízení.
+
+**6. Varianty.** (a) Pokud by listina obsahovala řádné záhlaví s identifikací aktuálního řízení, 200+ ověřitelných podpisů a byla mladší 18 měsíců, účastenství by vzniklo. (b) Pokud by navazující řízení bylo přerušeno, doba platnosti listiny by neběžela a 20měsíční stáří by nemuselo být na překážku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* listina sloužila témuž záměru, lze ji proto použít i pro nové řízení. *Neutralizace:* přenositelnost dle odst. 2 platí jen v době platnosti (18 měsíců) a listina musí v záhlaví identifikovat konkrétní řízení dle odst. 1 — chybějící identifikace ji pro nové řízení diskvalifikuje.
+- *Protiargument:* chybějící datum narození je formalita, podpisy jsou pravé. *Neutralizace:* bez data narození nelze podpis ověřit; zákon náležitosti stanoví právě k zamezení manipulace, proto se takové podpisy nezapočtou.
+- *Slabé místo:* hranice mezi přípustnou formální přísností a nepřiměřenou překážkou přístupu spolků je judikaturně citlivá; u listiny těsně pod prahem lze čekat spor o proporcionalitu.
+
+#### H. Praktický závěr
+
+§ 9e stanoví formální náležitosti podporující podpisové listiny, jíž mladý environmentální spolek (bez tříleté existence) získává status dotčené veřejnosti. Klíčové je řádné záhlaví s identifikací konkrétního řízení (č. j., datum), úplné a ověřitelné údaje 200 podpisujících a dodržení 18měsíční platnosti (stavěné po dobu přerušení řízení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit záhlaví listiny: název záměru, identifikace spolku a identifikace konkrétního řízení (č. j. a datum oznámení/rozhodnutí).
+- [ ] Započítat jen podpisy s úplnými údaji (jméno, příjmení, datum narození, adresa, vlastnoruční podpis) a dosažení prahu 200.
+- [ ] Zkontrolovat platnost listiny (18 měsíců od data záhlaví), včetně stavení po dobu přerušení řízení.
+- [ ] Posoudit, k jakému účelu listina slouží (přihlášení dle § 9c odst. 3 nebo odvolání dle § 7 odst. 6 / § 9c odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** podporující podpisová listina a očíslované archy, oznámení o zahájení řízení nebo napadené rozhodnutí (č. j., datum), doklad o datu pořízení listiny, evidence o případném přerušení řízení.
 
 ---
 
@@ -640,5 +1144,41 @@ Je-li předmětem navazujícího řízení pouze část nebo etapa záměru, kte
 #### Koordinace s MŽP (odst. 6)
 
 Veškeré kroky dle odst. 1–5 správní orgán provádí **ve spolupráci s ministerstvem** — MŽP zajišťuje koordinaci zahraničněprávní agendy, překlady, diplomatické noty a komunikaci prostřednictvím kontaktních míst dle Espoo.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V navazujícím řízení o povolení záměru tepelné elektrárny u státní hranice, který v EIA prošel mezistátním posuzováním dle § 13 (sousední stát byl dotčeným státem), zahájí krajský stavební úřad řízení, ale dotčený stát neinformuje. Po vydání povolení dotčená veřejnost ze sousedního státu namítá, že jí byla odepřena účast. Důkazy: oznámení o zahájení navazujícího řízení, doklady z mezistátní fáze EIA dle § 13, korespondence (či její absence) s kontaktním místem dotčeného státu, doklad o spolupráci s MŽP.
+
+**2. Právní otázka.** Je navazující řízení vadné, neinformoval-li správní orgán dotčený stát o možnosti jeho veřejnosti a dotčené veřejnosti uplatnit práva dle § 9c, ač záměr jako celek podléhal mezistátnímu posuzování dle § 13?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9f odst. 1 (notifikace dotčeného státu do 15 dnů, opt-out model, zaslání informací dle § 9b a dokumentace), odst. 2 (běh lhůt od oznámení na území dotčeného státu), odst. 6 (spolupráce s MŽP).
+- *Související ustanovení téhož zákona:* § 13 a §§ 11–12 (mezistátní posuzování, viz [03-hlava2-preshranicni-posuzovani.md](03-hlava2-preshranicni-posuzovani.md)), § 9b a § 9c (zveřejnění a účast veřejnosti), § 9d (žaloba).
+- *Související předpisy:* Úmluva Espoo (vyhl. č. 18/1997 Sb.m.s.), čl. 9 a 10; čl. 7 směrnice 2011/92/EU; § 25 SŘ.
+- *Judikatura:* SDEU C-205/08 Umweltanwalt von Kärnten (přeshraniční dosah povinnosti EIA); zásada nediskriminace dotčené veřejnosti sousedního státu.
+
+**4. Subsumpce.** § 9f odst. 1 ukládá správnímu orgánu informovat dotčený stát do 15 dnů od zahájení navazujícího řízení, podléhá-li záměr jako celek mezistátnímu posuzování dle § 13. Tato podmínka je naplněna. Opomenutí notifikace znamená, že subjektům dotčeného státu nezačaly běžet lhůty pro uplatnění práv (odst. 2) a byla jim odepřena účast — řízení je zatíženo procesní vadou s přeshraničním rozměrem.
+
+**5. Řešení.** Vada notifikace zakládá nezákonnost navazujícího řízení; rozhodnutí je napadnutelné v odvolání (§ 9c odst. 4) a žalobou (§ 9d), kterou může podat i dotčená veřejnost sousedního státu. Pravděpodobný výsledek: rozhodnutí je pro podstatnou procesní vadu zrušitelné, neboť opomenutí mohlo mít vliv na účast a obsah rozhodnutí. Procesní krok: doložit, že záměr podléhal mezistátnímu posuzování dle § 13 a že notifikace dle § 9f odst. 1 neproběhla; postup koordinovat s MŽP (odst. 6).
+
+**6. Varianty.** (a) Pokud by předmětem navazujícího řízení byla jen část/etapa záměru bez možného přeshraničního vlivu, odst. 1–4 by se neuplatnily (odst. 5) a notifikace by nebyla nutná. (b) Pokud by dotčený stát písemně sdělil nezájem (nebo se za nezájem dle 2měsíční domněnky mělo), notifikační proces by se uzavřel a vada by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* mezistátní posuzování proběhlo již ve fázi EIA, opakovat účast v navazujícím řízení je nadbytečné. *Neutralizace:* § 9f cílí právě na navazující fázi — práva dotčeného státu se uplatňují i zde; EIA fáze je nenahrazuje.
+- *Protiargument:* dotčený stát se neozval, lze presumovat nezájem. *Neutralizace:* domněnka nezájmu dle odst. 1 nastupuje až po řádné výzvě a marném uplynutí 2 měsíců; bez iniciační notifikace se domněnka neuplatní.
+- *Slabé místo:* posouzení, zda část/etapa může mít přeshraniční vliv (odst. 5), je odborně sporné; chybný úsudek o absenci vlivu ohrožuje celé řízení.
+
+#### H. Praktický závěr
+
+§ 9f prodlužuje přeshraniční posuzování (Espoo, §§ 11–13) do navazujícího řízení: notifikace dotčeného státu do 15 dnů, opt-out model s 2měsíční domněnkou nezájmu, běh lhůt od oznámení na cizím území, výjimka pro části/etapy bez přeshraničního vlivu a povinná koordinace s MŽP. Opomenutí notifikace je podstatnou procesní vadou napadnutelnou i dotčenou veřejností sousedního státu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit, zda záměr jako celek podléhal mezistátnímu posuzování dle § 13 (pak se § 9f použije).
+- [ ] Notifikovat dotčený stát do 15 dnů od zahájení řízení; po marném uplynutí 2 měsíců aplikovat domněnku nezájmu.
+- [ ] Lhůty pro práva subjektů dotčeného státu počítat až od oznámení informací na jeho území (odst. 2, 4).
+- [ ] U částí/etap posoudit možný přeshraniční vliv (odst. 5) a veškeré kroky koordinovat s MŽP (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** doklady z mezistátní fáze EIA dle § 13, oznámení o zahájení navazujícího řízení, korespondence s kontaktním místem dotčeného státu a doklady o lhůtách, vyjádření příslušného úřadu dle odst. 5, doklad o součinnosti s MŽP.
 
 ---

@@ -48,6 +48,43 @@ Mezistátní posuzování překračuje čistě technickou rovinu a vstupuje do o
 
 Pokud krajský úřad jako příslušný úřad (pro záměry označené v příloze č. 1 sloupcem „KÚ") zjistí, že záměr nebo koncepce naplňuje znaky odst. 1, je povinen **neprodleně postoupit posuzování ministerstvu**. Tím dochází k přesunu místní příslušnosti — od krajského úřadu k ministerstvu — jako příslušnému úřadu pro celé mezistátní posuzování. Důvodem je zajistit jednotné vedení procesu na centrální úrovni, schopné koordinovat diplomatickou komunikaci. Povinnost je formulována jako bezpodmínečná (slovo „je povinen"), nikoliv jako diskrece, a spouští se ve chvíli, kdy krajský úřad zjistí přeshraniční charakter — tedy i v průběhu dosud zahájeného krajského posuzování.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor plánuje výstavbu velkého větrného parku (záměr kategorie I přílohy č. 1) na české straně hranice s Rakouskem, ve vzdálenosti cca 800 m od hraniční čáry. Krajský úřad (příslušný úřad pro daný záměr dle sloupce „KÚ") zahájí zjišťovací řízení. V průběhu se ozve rakouská spolková země Horní Rakousko s tím, že turbíny budou vizuálně i hlukově ovlivňovat přilehlou rakouskou obec a migrační koridor ptactva. Účastníci: oznamovatel (investor), krajský úřad (původně příslušný úřad), Ministerstvo životního prostředí (dále jen „ministerstvo"), Ministerstvo zahraničních věcí, dotčený stát Rakousko. Důkazy: mapa s vyznačením vzdálenosti záměru od hranice, hluková a vizuální studie s dosahem za hranici, ornitologický posudek migračních tras, podání/žádost rakouské strany.
+
+**2. Právní otázka.** Je krajský úřad povinen postoupit posuzování ministerstvu, a zakládá se mezistátní posuzování již tehdy, kdy přeshraniční vliv je pouze pravděpodobný, nikoli prokázaný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 písm. a) [obligatorní mezistátní posuzování, „dotčené území může zasahovat mimo území ČR"], písm. b) [na žádost dotčeného státu], odst. 2 [spolupráce s MZV], odst. 3 [devoluce z KÚ na ministerstvo].
+- *Související ustanovení téhož zákona:* § 4 odst. 1 [vymezení záměru], § 12 [způsob mezistátního posuzování], § 13 [postup ČR jako státu původu pro záměr], příloha č. 1 [sloupec KÚ vs. MŽP].
+- *Související předpisy:* Espoo úmluva (čl. 2 odst. 4, čl. 3 odst. 7, příloha I) — vyjmenování záměrů presumovaně způsobilých k přeshraničním vlivům; čl. 10 Ústavy [přednost mezinárodní smlouvy]; dvoustranná dohoda ČR–Rakousko o EIA.
+- *Judikatura:* Espoo úmluva i unijní směrnice o EIA jsou vykládány v duchu zásady, že rozhodující je *pravděpodobnost* významného vlivu, nikoli jistota; Soudní dvůr EU opakovaně judikoval, že posuzování se nesmí obcházet účelovým podhodnocením pravděpodobnosti vlivu (nosný závěr judikatury k čl. 2 směrnice EIA — zákaz vyloučení záměru z posuzování bez řádného odůvodnění).
+
+**4. Subsumpce.** Znak „záměr podle § 4 odst. 1" je naplněn (větrný park kategorie I). Znak „dotčené území může zasahovat mimo území ČR" je naplněn již vzhledem k blízkosti hranice a doložené pravděpodobnosti vizuálních, hlukových a ornitologických vlivů — slovo „může" nevyžaduje jistotu. Tím je dán předmět dle písm. a). Současně rakouská žádost samostatně zakládá předmět dle písm. b). Naplněním odst. 1 vzniká krajskému úřadu bezpodmínečná povinnost dle odst. 3 postoupit věc ministerstvu.
+
+**5. Řešení.** Krajský úřad je povinen neprodleně postoupit posuzování ministerstvu (odst. 3); místní příslušnost přechází na ministerstvo, které dále vede celé mezistátní posuzování ve spolupráci s MZV (odst. 2). Ministerstvo nemůže rakouskou žádost odmítnout argumentem, že vliv hranice nepřesáhne — tato otázka je teprve předmětem posuzování a řeší se konzultacemi dle § 12 a 13. Praktické kroky: spisové postoupení, oznámení změny příslušnosti oznamovateli, navázání kontaktu s rakouskou stranou diplomatickou cestou přes MZV.
+
+**6. Varianty.** (a) Pokud by záměr byl ve vnitrozemí, stovky kilometrů od hranice, bez doložené možnosti přeshraničního vlivu a bez žádosti sousedního státu, znak odst. 1 by naplněn nebyl a věc by zůstala u krajského úřadu v běžném režimu Hlavy I. (b) Pokud by šlo o záměr ze sloupce „MŽP", odpadla by devoluce dle odst. 3, neboť příslušným úřadem by od počátku bylo ministerstvo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vliv je jen hypotetický".* Oznamovatel může namítat, že přeshraniční vliv není prokázán. Neutralizace: zákon i Espoo úmluva pracují s pravděpodobností („může zasahovat"), nikoli s jistotou; spor o existenci vlivu se řeší až v rámci posuzování, nikoli jako podmínka jeho zahájení.
+- *Protiargument proti devoluci.* Lze namítat, že postoupení ministerstvu zdržuje řízení. Neutralizace: odst. 3 je formulován bezpodmínečně („je povinen"), jednotné centrální vedení je nezbytné pro diplomatickou koordinaci; nejde o diskreci krajského úřadu.
+- *Slabé místo.* Zákon přesně neurčuje práh „blízkosti hranice"; posouzení pravděpodobnosti vlivu je do jisté míry uvážením, jež musí být řádně odůvodněno a opřeno o studie, jinak hrozí přezkum.
+
+#### H. Praktický závěr
+
+Mezistátní posuzování nastupuje obligatorně už při pravděpodobnosti přeshraničního vlivu (písm. a) anebo na žádost dotčeného státu (písm. b); krajský úřad musí věc bezpodmínečně postoupit ministerstvu (odst. 3), které proces vede ve spolupráci s MZV (odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o záměr dle § 4 odst. 1 nebo koncepci dle zákona?
+- [ ] Může dotčené území zasahovat mimo ČR (blízkost hranice, sdílené vody/ovzduší, migrační koridory)?
+- [ ] Existuje žádost dotčeného státu dle písm. b)?
+- [ ] Je-li příslušný KÚ, byla věc neprodleně postoupena ministerstvu (odst. 3)?
+- [ ] Bylo navázáno na spolupráci s MZV (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** mapa vzdálenosti záměru od hranice; hluková, rozptylová a vizuální studie s dosahem za hranici; ornitologický/biologický posudek migračních tras; žádost dotčeného státu; doklad o postoupení věci ministerstvu.
+
 ---
 
 ### § 12 — Způsob mezistátního posuzování
@@ -101,6 +138,43 @@ Odstavce 3 a 4 implementují čl. 7 Espoo úmluvy o poprojektové analýze. Jde 
 | c) Zpětná vazba pro budoucí záměry | Porovnání prognóz se skutečností jako poučení pro analogické záměry |
 
 Poprojektová analýza není povinná automaticky — zákon říká, že státy „určí, zda bude provedena". Iniciativa může vzejít od kteréhokoli ze dvou států; rozsah analýzy se stanovuje dohodou. Pokud poprojektová analýza odhalí **existující nebo hrozící významný nepříznivý přeshraniční vliv** (odst. 4), nastupuje okamžitá informační povinnost a povinnost dohodnout nápravná opatření — zákon používá imperativní formulaci „bude okamžitě informovat" a „stanoví nezbytná opatření". Toto ustanovení je důležitou zárukou pro dotčené státy, neboť zajišťuje, že přeshraniční posuzování není čistě formálním procesem, ale vede k reálné ochraně životního prostředí i po realizaci záměru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Polsko jako dotčený stát se účastní mezistátního posuzování záměru spalovny umístěné na české straně hranice (ČR = stát původu). Polská strana namítá, že podle polského práva má veřejnost na vyjádření 45 dnů, zatímco český proces počítá s kratšími lhůtami, a žádá ministerstvo o prodloužení lhůty pro vyjádření o 30 dnů, jelikož musí zajistit překlad dokumentace a koordinaci dotčených vojvodství. Po realizaci spalovny polský monitoring naznačí překračování imisních limitů na polské straně. Účastníci: oznamovatel, ministerstvo (příslušný úřad), dotčený stát Polsko. Důkazy: žádost Polska o prodloužení lhůty, srovnání lhůt obou právních řádů, výsledky poprojektového monitoringu imisí.
+
+**2. Právní otázka.** Podle kterého práva (státu původu, nebo dotčeného státu) se proces řídí při pochybnostech, a může ministerstvo vyhovět žádosti o prodloužení lhůty; jaké povinnosti plynou ze zjištění přeshraničního vlivu při poprojektové analýze?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 [subsidiarita Hlavy I, přednost Hlavy II a smluv, prodloužení lhůty o 30 dnů + přiměřené prodloužení ostatních lhůt], odst. 2 [kolizní norma — rozhodné právo státu původu], odst. 3–4 [poprojektová analýza a informační/nápravná povinnost].
+- *Související ustanovení téhož zákona:* § 11 [předmět], § 13 [navazující procesní kroky státu původu], Hlava I (§§ 1–10i) jako subsidiární základ.
+- *Související předpisy:* Espoo úmluva (čl. 2 odst. 1 — odpovědnost státu, na jehož území je záměr; čl. 7 — poprojektová analýza; příloha II — náležitosti oznámení); čl. 10 Ústavy.
+- *Judikatura:* mezinárodní praxe k Espoo úmluvě (Implementační výbor Espoo) zdůrazňuje, že stát původu nese odpovědnost za řádné vedení posuzování a že poprojektová analýza je nástrojem reálné, nikoli formální ochrany; nosný závěr — zjištění významného nepříznivého přeshraničního vlivu zakládá okamžitou informační a konzultační povinnost.
+
+**4. Subsumpce.** Pochybnost o rozhodném právu je dána (odlišné lhůty ČR vs. Polsko) → dle odst. 2 se postupuje podle práva státu původu, tj. ČR, ledaže by mezinárodní smlouva stanovila jinak. Žádost dotčeného státu o prodloužení lhůty pro vyjádření splňuje podmínku odst. 1 věty druhé → ministerstvo *může* prodloužit až o 30 dnů a *musí* přiměřeně prodloužit ostatní lhůty. Zjištění překračování limitů poprojektovým monitoringem naplňuje hypotézu odst. 4 („oprávněné důvody usuzovat na významný nepříznivý vliv") → vzniká okamžitá informační povinnost a povinnost dohodnout opatření.
+
+**5. Řešení.** Proces se řídí českým právem (stát původu, odst. 2); Polsko nemůže vnutit svůj 45denní standard, neexistuje-li takový závazek ve smlouvě. Ministerstvo má diskreci prodloužit lhůtu pro vyjádření o 30 dnů (jde o „může"), a vyhoví-li, musí přiměřeně posunout navazující lhůty (např. pro zpracování posudku), aby proces zůstal konzistentní. Po realizaci: bylo-li dohodnuto provedení poprojektové analýzy (odst. 3, není automatická), a ta odhalí vliv, ministerstvo okamžitě informuje Polsko a státy dohodnou nápravná opatření (odst. 4).
+
+**6. Varianty.** (a) Pokud by dvoustranná smlouva s Polskem výslovně stanovila vyšší procesní standard (delší lhůty, povinný překlad celé dokumentace), kolizní norma odst. 2 by ustoupila smlouvě a ČR by musela přísnější standard respektovat. (b) Pokud by žádné z dvou států nepožádalo o poprojektovou analýzu, ta by se neprovedla (není povinná ex lege), a informační povinnost odst. 4 by se neaktivovala z monitoringu, který neexistuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument dotčeného státu k rozhodnému právu.* Polsko může tvrdit, že má nárok na vlastní procesní standard. Neutralizace: odst. 2 a čl. 2 odst. 1 Espoo úmluvy přiznávají vedení procesu státu původu; dotčený stát má právo účasti a vyjádření, nikoli právo vnutit vlastní procesní pravidla.
+- *Protiargument k poprojektové analýze.* Lze namítat, že analýza je nepovinná, a tedy ji stát původu odmítne. Neutralizace: nepovinnost se týká *zahájení*; je-li jednou dohodnuta a odhalí vliv, povinnosti odst. 4 jsou imperativní („bude okamžitě informovat", „stanoví nezbytná opatření").
+- *Slabé místo.* Pojem „přiměřené" prodloužení ostatních lhůt je neurčitý; rovněž „oprávněné důvody usuzovat" na vliv (odst. 4) je hodnotící kritérium, jež může být sporné a vyžaduje doložení.
+
+#### H. Praktický závěr
+
+§ 12 staví Hlavu I jako subsidiární; přednost mají mezinárodní smlouvy a Hlava II. Při pochybnostech o rozhodném právu platí právo státu původu (odst. 2). Lhůtu pro vyjádření lze na žádost dotčeného státu prodloužit až o 30 dnů s přiměřeným posunem ostatních lhůt. Poprojektová analýza je nepovinná, ale odhalí-li vliv, nastupuje okamžitá informační a nápravná povinnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Aplikováno správné pořadí norem: smlouva → Hlava II → Hlava I?
+- [ ] Při pochybnosti o rozhodném právu použito právo státu původu (nestanoví-li smlouva jinak)?
+- [ ] Požádal dotčený stát o prodloužení lhůty; bylo přiměřeně posunuto i ostatní?
+- [ ] Bylo rozhodnuto o provedení a rozsahu poprojektové analýzy (na žádost kteréhokoli státu)?
+- [ ] Při zjištění přeshraničního vlivu provedena okamžitá informace a dohoda o opatřeních (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** žádost dotčeného státu o prodloužení lhůty; srovnání procesních lhůt obou právních řádů; text příslušné dvoustranné smlouvy; dohoda o rozsahu poprojektové analýzy; výsledky monitoringu skutečných přeshraničních vlivů.
 
 ---
 
@@ -162,6 +236,44 @@ Legislativní zkratka **„konzultace"** (zavedená v odst. 3) zahrnuje předbě
 
 Ministerstvo je povinno zaslat vydané stanovisko dotčenému státu **do 15 dnů** od jeho vydání. Tím se uzavírá procesní cyklus přeshraničního posuzování záměru — dotčený stát obdrží výsledný dokument, z nějž je patrné, jak ČR naložila s přeshraničními vlivy záměru. Stanovisko je přitom závazným podkladem pro navazující řízení v ČR, nikoli pro řízení v dotčeném státě — ten má vlastní právní prostředky, jak na výsledek posuzování reagovat (diplomatické nóty, spor dle mezinárodní smlouvy apod.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na české straně hranice se Saskem se plánuje povrchový lom (záměr přílohy č. 1) s dosahem prašnosti a hydrologického ovlivnění do Spolkové republiky Německo. ČR je státem původu. Saská strana se po obdržení přeloženého oznámení přihlásí, požádá o účast a poté o konzultaci k dokumentaci zpracované ve dvou variantách. Ve svém vyjádření k dokumentaci požaduje doplnění zmírňujících opatření k ochraně sdíleného vodního toku. Ministerstvo toto vyjádření v konečném stanovisku zčásti nepřevezme. Účastníci: oznamovatel, zpracovatel dokumentace, zpracovatel posudku, ministerstvo, dotčený stát Německo (Sasko). Důkazy: doklady o překladu a odeslání oznámení/dokumentace v zákonných lhůtách, zápis z konzultace, vyjádření Saska, text stanoviska a jeho odůvodnění k (ne)zapracování.
+
+**2. Právní otázka.** Jaké konkrétní lhůty a kroky musí ministerstvo jako příslušný úřad státu původu dodržet vůči dotčenému státu a jak naložit s jeho vyjádřením ve výsledném stanovisku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 1 [překlad a zaslání oznámení do 7 prac. dnů, info o navazujících řízeních], odst. 2 [výměna dat o ŽP, 5 prac. dnů], odst. 3 [dokumentace do 10 prac. dnů, konzultace, zveřejnění dle § 16], odst. 4 [předání vyjádření zpracovateli posudku do 5 prac. dnů], odst. 5 [comply-or-explain ve stanovisku], odst. 6 [zaslání stanoviska do 15 dnů].
+- *Související ustanovení téhož zákona:* § 11 [předmět], § 12 [subsidiarita a kolize], § 16 [zveřejňování], Hlava I [oznámení → dokumentace → posudek → stanovisko].
+- *Související předpisy:* Espoo úmluva (čl. 3 — oznámení; čl. 5 — konzultace; čl. 6 odst. 2 — zohlednění vyjádření; příloha II — náležitosti); čl. 10 Ústavy; dvoustranná dohoda ČR–SRN o EIA.
+- *Judikatura:* praxe k čl. 6 Espoo úmluvy — výsledek posuzování musí prokazatelně doložit, jak bylo naloženo s vyjádřením dotčeného státu; nedostatečné odůvodnění nezohlednění zakládá vadu řízení a otevírá přezkum zákonnosti stanoviska.
+
+**4. Subsumpce.** Záměr naplňuje § 11 odst. 1 písm. a) → aktivuje se § 13. Ministerstvo bylo povinno přeložit (v rozsahu, který určí) a do 7 prac. dnů zaslat oznámení (odst. 1 — splněno) a uvést navazující řízení. Saská žádost o účast spustila výměnu dat dle odst. 2. Dokumentaci ve variantách bylo nutno zaslat do 10 prac. dnů a nabídnout konzultaci (odst. 3 — Sasko projevilo zájem → účast ministerstva povinná, info účastníkům do 5 dnů, zveřejnění dle § 16). Vyjádření Saska putuje do 5 prac. dnů zpracovateli posudku (odst. 4). Ve stanovisku platí comply-or-explain (odst. 5) → částečné nezohlednění je přípustné jen s výslovným odůvodněním.
+
+**5. Řešení.** Ministerstvo postupuje krok za krokem dle Hlavy I s mezistátní nadstavbou § 13. Stanovisko musí buď zapracovat saské požadavky na zmírňující opatření, nebo výslovně a přezkoumatelně odůvodnit, proč je nezohlednilo (zčásti). Bez tohoto odůvodnění je stanovisko vadné. Vydané stanovisko ministerstvo zašle Sasku do 15 dnů (odst. 6). Praktické kroky: evidence dodržení všech lhůt, zápis z konzultace, pečlivá pasáž stanoviska o vypořádání přeshraničních připomínek.
+
+**6. Varianty.** (a) Pokud by Sasko o konzultaci zájem neprojevilo, povinnost ministerstva zúčastnit se konzultace by nevznikla (odst. 3 váže účast na projevený zájem). (b) Pokud by ministerstvo saské vyjádření zcela pominulo bez odůvodnění, šlo by o porušení odst. 5 (transpozice čl. 6 odst. 2 Espoo úmluvy) se sankcí v podobě možného zrušení/přezkumu stanoviska.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument k rozsahu překladu.* Dotčený stát může žádat překlad celé dokumentace. Neutralizace: odst. 1 a 3 svěřují stanovení rozsahu překladu ministerstvu; postačuje selektivní překlad dle relevance pro dotčený stát, nestanoví-li smlouva jinak.
+- *Protiargument k závaznosti vyjádření.* Lze tvrdit, že vyjádření dotčeného státu je nezávazné, a tedy je možno je ignorovat. Neutralizace: odst. 4 činí z vyjádření závazný *podklad* pro posudek a odst. 5 vyžaduje jeho zapracování nebo odůvodněné nezohlednění — nelze je mlčky pominout.
+- *Slabé místo.* „Rozsah, který stanoví ministerstvo" je uvážením; nedostatečný překlad může dotčený stát napadnout jako porušení Espoo úmluvy. Rovněž kvalita odůvodnění dle odst. 5 je častým terčem přezkumu.
+
+#### H. Praktický závěr
+
+§ 13 nasazuje na standardní EIA (oznámení → dokumentace → posudek → stanovisko) mezistátní vrstvu: překlad a zaslání oznámení (7 prac. dnů) a dokumentace (10 prac. dnů), výměnu dat o ŽP (5 prac. dnů), konzultace na žádost dotčeného státu se zveřejněním dle § 16, předání vyjádření zpracovateli posudku (5 prac. dnů), comply-or-explain ve stanovisku a jeho zaslání do 15 dnů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přeloženo a zasláno oznámení do 7 prac. dnů vč. informace o navazujících řízeních?
+- [ ] Vyžádána a do 5 prac. dnů předána data o ŽP dotčeného státu (žádal-li o účast)?
+- [ ] Zaslána dokumentace do 10 prac. dnů a nabídnuta konzultace; při zájmu účast ministerstva a zveřejnění dle § 16?
+- [ ] Předáno vyjádření dotčeného státu zpracovateli posudku do 5 prac. dnů?
+- [ ] Stanovisko zapracovalo vyjádření, nebo odůvodnilo jeho (částečné) nezohlednění (odst. 5)?
+- [ ] Zasláno stanovisko dotčenému státu do 15 dnů (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o překladu a odeslání oznámení a dokumentace s daty; zápis a pozvánka z konzultace; data o stavu ŽP dotčeného státu; vyjádření dotčeného státu; text stanoviska s pasáží o vypořádání přeshraničních připomínek.
+
 ---
 
 ### § 14 — Mezistátní posuzování záměru prováděného mimo území České republiky
@@ -219,6 +331,43 @@ Zákon zrcadlově implementuje § 13 odst. 2 — stát původu může požádat 
 
 Uzavírací povinností je zveřejnění **závěrů státu původu o výsledku posuzování a o navazujících rozhodnutích** (povolení, stanovisko apod.) do **15 dnů** od jejich obdržení. Zákon tím zajišťuje informovanost veřejnosti a orgánů ČR o tom, jak stát původu naložil s přeshraničními vlivy záměru — tedy zda připomínky ČR byly akceptovány. Zákon neurčuje žádné právní důsledky pro případ, že závěry státu původu vyjádření ČR nezohledňují — případné spory jsou řešeny diplomatickou nebo arbitrážní cestou podle příslušné mezinárodní smlouvy (Espoo úmluva, čl. 15 — řešení sporů).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rakousko plánuje rozšíření jaderné elektrárny, resp. úložiště poblíž hranice s ČR; ČR je dotčeným státem. Ministerstvo se o záměru dozví nejprve z médií a diplomatické nóty, teprve později obdrží formální oznámení od rakouské strany. Jihočeský a Jihomoravský kraj, obce v příhraničí a ekologické spolky chtějí uplatnit připomínky. Rakouská strana požádá ČR o data o stavu ŽP na české straně. Účastníci: ministerstvo (koordinátor vnitrostátní participace), dotčené orgány, dotčené kraje a obce, veřejnost, stát původu Rakousko. Důkazy: doklad o zveřejnění dle § 16, rozdělovník dotčeným orgánům a samosprávám, evidence vyjádření veřejnosti, vlastní souhrnné vyjádření ČR, žádost Rakouska o data o ŽP.
+
+**2. Právní otázka.** Vzniká povinnost ministerstva aktivovat přeshraniční proces i tehdy, když stát původu formálně neoznámil záměr, a v jakých lhůtách musí ČR zorganizovat vnitrostátní vyjádření a předat je státu původu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 1 [zveřejnění „neprodleně" i při dozvědění se „jinak", rozeslání dotčeným orgánům a ÚSC], odst. 2 [30 dnů na vyjádření + 10 dnů na zaslání státu původu vč. vlastního vyjádření], odst. 3 [data o ŽP do 30 dnů, výhrada zvláštního předpisu], odst. 4–5 [dokumentace, opět 30+10 dnů], odst. 6 [zveřejnění veřejného projednání v zahraničí], odst. 7 [zveřejnění závěrů a rozhodnutí do 15 dnů].
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. c) [předmět — záměr cizího státu s vlivem na ČR], § 12, § 13 [zrcadlový postup ČR jako státu původu], § 16 [zveřejňování].
+- *Související předpisy:* Espoo úmluva (čl. 3 — informování dotčené strany, rovný přístup veřejnosti; čl. 15 — řešení sporů); zákon č. 123/1998 Sb. a č. 106/1999 Sb. [výhrada k poskytnutí dat]; čl. 10 Ústavy.
+- *Judikatura:* praxe Espoo úmluvy zdůrazňuje rovný přístup dotčené veřejnosti obou stran; nosný závěr — dotčený stát musí umožnit své veřejnosti účast i na řízení vedeném státem původu, ČR však nemá donucovací nástroj vůči cizímu rozhodnutí (spory řešeny diplomaticky/arbitrážně dle čl. 15).
+
+**4. Subsumpce.** Záměr cizího státu s možným vlivem na ČR naplňuje § 11 odst. 1 písm. c) → aktivuje se § 14. Skutečnost, že se ministerstvo dozvědělo „jinak" (média, nóta), naplňuje hypotézu odst. 1 → povinnost neprodleně zveřejnit a rozeslat vzniká i bez formálního oznámení. Vyjádření veřejnosti, orgánů a ÚSC do 30 dnů a jejich zaslání s vlastním vyjádřením ČR do 10 dnů po lhůtě naplňují odst. 2. Žádost Rakouska o data spadá pod odst. 3 (30 dnů, s výhradou zvláštního předpisu). Závěry a rozhodnutí státu původu se zveřejní do 15 dnů (odst. 7).
+
+**5. Řešení.** Ministerstvo musí jednat i bez formálního oznámení (odst. 1) — dozvědělo-li se o záměru jinak, je to dostatečný spouštěč; tím se ČR chrání před účelovým neoznámením. Zorganizuje vnitrostátní participaci (30 dnů), zpracuje vlastní souhrnné vyjádření ČR (environmentálně relevantní připomínky, podmínky, požadavky na zmírnění) a vše předá Rakousku do 10 dnů po lhůtě (odst. 2). Data o ŽP poskytne do 30 dnů, ledaže brání zvláštní předpis (odst. 3). ČR nemá příslušný úřad vedoucí cizí proces — pouze reaguje a zveřejňuje (odst. 6, 7). Nezohlední-li Rakousko připomínky ČR, řeší se to diplomaticky/arbitrážně dle Espoo úmluvy, nikoli tuzemským přezkumem.
+
+**6. Varianty.** (a) Pokud by data o ŽP spadala pod zákonnou výjimku z práva na informace (např. utajované informace), ministerstvo by je dle výhrady odst. 3 poskytnout nemuselo. (b) Pokud by stát původu vedl veřejné projednání, ale neposlal o něm ČR informaci, povinnost zveřejnění dle odst. 6 by se neaktivovala (váže se na „včas obdrženou" informaci) — ČR by však mohla jednat přes odst. 1 („jinak se dozví").
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument k aktivaci bez oznámení.* Stát původu může tvrdit, že bez formálního oznámení proces neběží. Neutralizace: odst. 1 výslovně pokrývá situaci „nebo se jinak dozví"; ochrana ČR nesmí záviset na vůli cizího státu záměr oznámit.
+- *Protiargument k vymahatelnosti připomínek ČR.* Lze namítat, že vyjádření ČR je bezzubé. Neutralizace: jde o klíčový diplomatický nástroj; jeho nezohlednění zakládá spor dle čl. 15 Espoo úmluvy — ČR nemá tuzemský donucovací titul vůči cizímu rozhodnutí, to je systémový rys, nikoli vada.
+- *Slabé místo.* Obsah „vlastního vyjádření" ČR zákon nespecifikuje; jeho kvalita a včasnost závisí na koordinaci dotčených orgánů. Výhrada „zvláštní právní předpis" u dat o ŽP může být zneužita k neodůvodněnému odmítnutí.
+
+#### H. Praktický závěr
+
+§ 14 staví ČR do role dotčeného státu reagujícího na cizí EIA: ministerstvo musí neprodleně zveřejnit a rozeslat oznámení (i když se o záměru dozví jen „jinak"), zorganizovat vyjádření veřejnosti, orgánů a ÚSC (30 dnů), předat je s vlastním vyjádřením státu původu (10 dnů po lhůtě), na žádost poskytnout data o ŽP (30 dnů) a zveřejnit veřejné projednání a výsledek (15 dnů).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejněno dle § 16 neprodleně i při dozvědění se „jinak" (odst. 1)?
+- [ ] Rozeslání dotčeným orgánům a ÚSC; běží 30denní lhůta pro vyjádření?
+- [ ] Zasláno vše s vlastním vyjádřením ČR státu původu do 10 dnů po lhůtě (odst. 2, 5)?
+- [ ] Poskytnuta data o ŽP do 30 dnů (nebrání-li zvláštní předpis, odst. 3)?
+- [ ] Zveřejněna informace o veřejném projednání v zahraničí (odst. 6) a výsledek/rozhodnutí do 15 dnů (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zveřejnění dle § 16 a rozdělovník; evidence vyjádření veřejnosti a orgánů; vlastní souhrnné vyjádření ČR; žádost státu původu o data o ŽP a podklad o jejich poskytnutí/odmítnutí; obdržené závěry a rozhodnutí státu původu.
+
 ---
 
 ### § 14a — Mezistátní posuzování koncepce prováděné na území České republiky
@@ -265,6 +414,43 @@ Odst. 4 přebírá „comply-or-explain" model z § 13 odst. 5: vyjádření dot
 
 § 14a odst. 5 je zvláštním ustanovením bez přímé analogie v § 13 (záměr se po vydání povolení ministerstvu ani dotčenému státu nezasílá). U koncepcí zákon ukládá **předkladateli** povinnost zaslat ministerstvu vyhotovení **schválené koncepce** do 30 dnů od schválení, spolu s dalšími informacemi dle § 10g odst. 5 (informace o způsobu, jak byly do koncepce zapracovány výsledky vyhodnocení vlivů). Ministerstvo pak tyto materiály **do 7 pracovních dnů** zašle dotčenému státu. Tím se uzavírá přeshraniční SEA cyklus — dotčený stát obdrží konečnou verzi koncepce a může posoudit, zda byly jeho připomínky respektovány.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČR pořizuje aktualizaci státní energetické koncepce (resp. krajskou územně plánovací dokumentaci příhraničního kraje) s předpokládanými přeshraničními vlivy do Slovenska. ČR je státem původu v režimu SEA. Návrh koncepce je zpracován ve dvou variantách. Slovensko po obdržení informace o návrhu koncepce projeví zájem o konzultaci a požádá o účast. Na počátku konzultací obě strany řeší, na jak dlouhý časový rámec se dohodnout, neboť SEA proces poběží řadu let. Účastníci: předkladatel (orgán pořizující koncepci), posuzovatel (osoba dle § 19), ministerstvo, dotčený stát Slovensko. Důkazy: informace o návrhu koncepce a její překlad, doklad o nabídce konzultace, dohoda o časovém rámci, zápis z konzultace, stanovisko ke koncepci, doklad o zaslání schválené koncepce.
+
+**2. Právní otázka.** Jaké zvláštnosti oproti přeshraniční EIA (§ 13) platí pro přeshraniční SEA koncepce — zejména co se zasílá, kdy se nabízí konzultace a jak se uzavírá cyklus zasláním schválené koncepce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14a odst. 1 [zaslání *informace* o návrhu koncepce do 10 prac. dnů + nabídka konzultace již nyní], odst. 2 [data o ŽP, 5 prac. dnů, předkladateli a posuzovateli], odst. 3 [konzultace + dohoda o přiměřeném časovém rámci na počátku], odst. 4 [comply-or-explain ve stanovisku ke koncepci, zaslání do 7 prac. dnů], odst. 5 [zaslání schválené koncepce: předkladatel ministerstvu do 30 dnů, ministerstvo dotčenému státu do 7 prac. dnů].
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. a), b) [předmět], § 10a–§ 10i [SEA v Hlavě I], § 10g odst. 5 [informace o zapracování výsledků vyhodnocení], § 13 [analogie pro EIA], § 16, § 19 [posuzovatel].
+- *Související předpisy:* Kyjevský protokol o SEA (čl. 10 — přeshraniční konzultace, čl. 10 odst. 3 — časový rámec, čl. 11); Espoo úmluva; čl. 10 Ústavy.
+- *Judikatura:* praxe ke Kyjevskému protokolu zdůrazňuje včasnost zapojení dotčeného státu do tvorby koncepce (čím dříve, tím lépe) a vyváženost mezi nezpomalením SEA a neopomenutím dotčeného státu — odtud institut dohody o časovém rámci.
+
+**4. Subsumpce.** Koncepce ČR s přeshraničním vlivem naplňuje § 11 odst. 1 písm. a) → aktivuje se § 14a. Na rozdíl od § 13 se zasílá pouze *informace* o návrhu koncepce (nikoli celý návrh) do 10 prac. dnů a konzultace se nabízí *již při tomto zaslání* (odst. 1). Zájem Slovenska o konzultaci → účast ministerstva povinná, info předkladateli/posuzovateli do 5 prac. dnů, na počátku konzultací dohoda o přiměřeném časovém rámci (odst. 3). Stanovisko ke koncepci podléhá comply-or-explain a zasílá se do 7 prac. dnů (odst. 4). Schválená koncepce: předkladatel → ministerstvo (30 dnů), ministerstvo → Slovensko (7 prac. dnů) (odst. 5).
+
+**5. Řešení.** Ministerstvo zašle informaci o návrhu koncepce s překladem (v rozsahu, který určí) do 10 prac. dnů a současně nabídne konzultaci (dřívější vstup než u EIA). Při zájmu Slovenska se konzultace zúčastní, na jejím počátku dohodne přiměřený časový rámec (odst. 3) — tím zabrání jak neúměrnému zpomalení SEA, tak vyřazení dotčeného státu. Stanovisko ke koncepci musí zapracovat slovenské vyjádření, nebo odůvodnit jeho (částečné) nezohlednění (odst. 4), a zaslat je do 7 prac. dnů. Po schválení zajistí, aby předkladatel zaslal vyhotovení schválené koncepce s informacemi dle § 10g odst. 5 do 30 dnů, a ministerstvo je do 7 prac. dnů přepošle Slovensku (odst. 5).
+
+**6. Varianty.** (a) Pokud by Slovensko o konzultaci zájem neprojevilo, povinnost ministerstva zúčastnit se konzultace ani dohodnout časový rámec by nevznikla (odst. 3 váže vše na projevený zájem). (b) Pokud by předkladatel nezaslal schválenou koncepci ve 30denní lhůtě, porušil by odst. 5 a ohrozil uzavření přeshraničního SEA cyklu vůči dotčenému státu (ministerstvo by nemělo co přeposlat).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument k rozsahu zasílaného.* Dotčený stát může žádat celý návrh koncepce. Neutralizace: odst. 1 výslovně hovoří o *informaci* o návrhu koncepce a rozsah překladu svěřuje ministerstvu; širší zaslání není povinné, nestanoví-li smlouva jinak.
+- *Protiargument k délce procesu.* Lze namítat, že přeshraniční konzultace SEA neúměrně prodlouží již tak dlouhý proces. Neutralizace: právě dohoda o přiměřeném časovém rámci (odst. 3, čl. 10 odst. 3 Kyjevského protokolu) tuto obavu řeší — rámec je sjednán předem a oboustranně.
+- *Slabé místo.* „Přiměřený časový rámec" je neurčitý; jeho nedohodnutí nebo nedodržení může vést ke sporu o řádnost přeshraničních konzultací. Comply-or-explain dle odst. 4 vyžaduje kvalitní odůvodnění, jinak hrozí výtka vady stanoviska.
+
+#### H. Praktický závěr
+
+§ 14a je SEA-obdobou § 13 pro koncepce, jejichž je ČR státem původu: zasílá se *informace* o návrhu koncepce (10 prac. dnů) s *okamžitou* nabídkou konzultace, vyměňují se data o ŽP (5 prac. dnů), na počátku konzultací se dohodne přiměřený časový rámec, stanovisko ke koncepci podléhá comply-or-explain (zaslání 7 prac. dnů) a cyklus uzavírá zaslání schválené koncepce (předkladatel 30 dnů, ministerstvo 7 prac. dnů).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zaslána informace o návrhu koncepce s překladem do 10 prac. dnů a *současně* nabídnuta konzultace (odst. 1)?
+- [ ] Vyžádána a do 5 prac. dnů předána data o ŽP předkladateli a posuzovateli (žádal-li dotčený stát o účast)?
+- [ ] Při zájmu o konzultaci: účast ministerstva, info účastníkům do 5 prac. dnů, dohoda o přiměřeném časovém rámci, zveřejnění dle § 16 (odst. 3)?
+- [ ] Stanovisko ke koncepci zapracovalo vyjádření / odůvodnilo nezohlednění a zasláno do 7 prac. dnů (odst. 4)?
+- [ ] Zaslána schválená koncepce s informacemi dle § 10g odst. 5 (předkladatel 30 dnů, ministerstvo 7 prac. dnů) (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** informace o návrhu koncepce a její překlad; doklad o nabídce a průběhu konzultace; dohoda o časovém rámci; stanovisko ke koncepci s vypořádáním přeshraničních připomínek; schválená koncepce a informace dle § 10g odst. 5; doklady o dodržení lhůt.
+
 ---
 
 ### § 14b — Mezistátní posuzování koncepce prováděné mimo území České republiky
@@ -310,6 +496,43 @@ Odst. 4 obsahuje dvě povinnosti při závěru přeshraničního SEA procesu:
 2. Pokud ministerstvo obdrží **schválenou koncepci** samotnou (nejen informaci o schválení), je povinno ji zveřejnit na internetu do **20 dnů** od obdržení.
 
 Toto ustanovení je bez analogie v § 14 (u záměrů zákon povinnost zveřejnit samotné rozhodnutí státu původu nestanoví, pouze informaci o výsledku posuzování). Rozdíl je odůvodněn povahou koncepcí: schválená koncepce jiného státu je pro českou veřejnost přirozeně zajímavá jako celek (zejména jde-li o územní nebo energetický plán sousedního regionu), zatímco navazující rozhodnutí u záměrů mají typicky individuální charakter méně zajímavý pro širší veřejnost ČR.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Polsko pořizuje regionální územní plán (resp. program rozvoje příhraničního vojvodství) s předpokládanými přeshraničními vlivy na české území; ČR je dotčeným státem v režimu SEA. Ministerstvo obdrží od Polska návrh koncepce a nabídku konzultace. Dotčen je Moravskoslezský kraj a několik příhraničních obcí; o vyjádření má zájem i ekologický spolek. Po čase Polsko koncepci schválí a zašle ČR jak informaci o schválení, tak samotnou schválenou koncepci. Účastníci: ministerstvo (koordinátor vnitrostátní participace), dotčené orgány, dotčené kraje a (selektivně) obce, veřejnost („každý"), stát původu Polsko. Důkazy: doklad o zveřejnění dle § 16, rozdělovník, evidence vyjádření „každého", vlastní vyjádření ČR, doklad o zveřejnění schválené koncepce na internetu.
+
+**2. Právní otázka.** V jakých lhůtách a vůči jakému okruhu adresátů musí ČR jako dotčený stát zorganizovat participaci k cizí koncepci a jaké povinnosti zveřejnění vznikají po jejím schválení v zahraničí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14b odst. 1 [zveřejnění a rozeslání do 20 dnů; adresáti: dotčené orgány, dotčené kraje a *selektivně* dotčené obce], odst. 2 [„každý" se může vyjádřit do 30 dnů od zveřejnění; zaslání státu původu do 40 dnů od zveřejnění vč. vlastního vyjádření a info o případné účasti na konzultaci], odst. 3 [data o ŽP do 30 dnů, výhrada zvláštního předpisu], odst. 4 [zveřejnění informace o schválení do 15 dnů; zveřejnění schválené koncepce na internetu do 20 dnů].
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. c) [předmět], § 14 [analogie pro EIA jako dotčený stát], § 14a [zrcadlo — ČR jako stát původu pro SEA], § 16 [zveřejňování].
+- *Související předpisy:* Kyjevský protokol o SEA (čl. 10, 11); Espoo úmluva; zákon č. 123/1998 Sb. a č. 106/1999 Sb. [výhrada k poskytnutí dat]; čl. 10 Ústavy.
+- *Judikatura:* praxe ke Kyjevskému protokolu — dotčený stát zajišťuje účast své veřejnosti a samosprávy; subsidiarita zapojení obcí (jen příhraniční, dle místních vlivů); přístup veřejnosti k výsledku (schválené koncepci) je samostatnou zárukou transparentnosti.
+
+**4. Subsumpce.** Cizí koncepce s vlivem na ČR naplňuje § 11 odst. 1 písm. c) → aktivuje se § 14b. Ministerstvo bylo povinno do 20 dnů zveřejnit a rozeslat informaci dotčeným orgánům a krajům, obce zahrnout jen selektivně dle předpokládaných místních vlivů (odst. 1). „Každý" (širší okruh než výčet u § 14) se mohl vyjádřit do 30 dnů od zveřejnění; vše s vlastním vyjádřením ČR a informací o případné účasti na konzultaci se zasílá Polsku do 40 dnů od zveřejnění (odst. 2). Žádost Polska o data spadá pod odst. 3 (30 dnů, výhrada). Po schválení: informace o schválení do 15 dnů, schválená koncepce na internet do 20 dnů (odst. 4).
+
+**5. Řešení.** Ministerstvo postupuje obdobně jako u § 14 (EIA), s odlišnostmi SEA: delší lhůta na zveřejnění (20 dnů — koncepce jsou rozsáhlé), selektivní zapojení obcí dle subsidiarity, lhůta pro zaslání státu původu počítaná od *zveřejnění* (40 dnů), nikoli od uplynutí lhůty pro vyjádření — výsledek je však časově srovnatelný. Vyjádřit se může „každý" (veřejnost, spolky, fyzické i právnické osoby). Po schválení koncepce Polskem ministerstvo zveřejní informaci o schválení do 15 dnů a — obdrží-li samotnou schválenou koncepci — zveřejní ji na internetu do 20 dnů (povinnost bez analogie u § 14, odůvodněná zájmem české veřejnosti o cizí územní/energetické plány jako celek).
+
+**6. Varianty.** (a) Pokud by místní vlivy koncepce zjevně nedosahovaly do území konkrétních obcí, ministerstvo by je dle odst. 1 do rozdělovníku zahrnovat nemuselo (selektivní určení obcí). (b) Pokud by Polsko zaslalo pouze informaci o schválení, nikoli schválenou koncepci samotnou, aktivovala by se jen 15denní povinnost dle věty první odst. 4, nikoli 20denní povinnost zveřejnit koncepci na internetu (věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument k okruhu „každý".* Lze namítat, že širší formulace „každý" rozšiřuje práva oproti § 14. Neutralizace: z věcného hlediska je obsah totožný s výčtem „veřejnost, dotčené orgány a ÚSC" u § 14; jde o zkrácenou formulační techniku, nikoli o jiný rozsah práv.
+- *Protiargument k selektivnímu zapojení obcí.* Obec může tvrdit, že měla být oslovena. Neutralizace: odst. 1 svěřuje určení dotčených obcí příslušnému úřadu s ohledem na předpokládané místní vlivy; nezahrnutí musí být odůvodnitelné absencí místních vlivů, jinak hrozí výtka.
+- *Slabé místo.* Posouzení „předpokládaných místních vlivů" pro výběr obcí je uvážením; rovněž výhrada „zvláštní právní předpis" u dat o ŽP může být zneužita. ČR nemá donucovací nástroj vůči cizímu schválení — případné spory dle mezinárodní smlouvy.
+
+#### H. Praktický závěr
+
+§ 14b je SEA-obdobou § 14 pro koncepce, jichž je ČR dotčeným státem: ministerstvo do 20 dnů zveřejní a rozešle informaci dotčeným orgánům a krajům (obce selektivně), „každý" se vyjádří do 30 dnů od zveřejnění, vše se zašle státu původu do 40 dnů od zveřejnění, data o ŽP na žádost do 30 dnů, a po schválení se zveřejní informace o schválení (15 dnů) i samotná schválená koncepce na internetu (20 dnů).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejněno a rozesláno do 20 dnů dotčeným orgánům a krajům; obce zahrnuty selektivně dle místních vlivů (odst. 1)?
+- [ ] Umožněno vyjádření „každého" do 30 dnů od zveřejnění (odst. 2)?
+- [ ] Zasláno vše s vlastním vyjádřením ČR a info o případné účasti na konzultaci státu původu do 40 dnů od zveřejnění (odst. 2)?
+- [ ] Poskytnuta data o ŽP do 30 dnů (nebrání-li zvláštní předpis, odst. 3)?
+- [ ] Zveřejněna informace o schválení do 15 dnů a schválená koncepce na internetu do 20 dnů (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zveřejnění dle § 16 a rozdělovník (vč. odůvodnění výběru obcí); evidence vyjádření „každého"; vlastní vyjádření ČR a informace o účasti na konzultaci; žádost státu původu o data o ŽP a podklad o jejich poskytnutí/odmítnutí; doklad o zveřejnění informace o schválení a schválené koncepce na internetu.
 
 ---
 
