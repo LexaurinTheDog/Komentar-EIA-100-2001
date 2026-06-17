@@ -20,6 +20,15 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 93/2018 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646838) — 27. 6. 2018
+  > „Posuzování vlivů na životní prostředí tedy nelze redukovat na pouhý „informační“ podklad, jak uvedl krajský soud. Naopak je účelem posuzování vlivů na životní prostředí získat objektivní odborný podklad pro vydání územního plánu (srov. § 1 odst. 3 zákona č. 100/2001 Sb.), který objektivním způsobem vyhodnotí stávající a předpokládané vlivy územního plánu na jednotlivé složky životního prostředí, včetně vlivů na obyvatelstvo, lidské zdraví a ovzduší, a od něhož se odvíjí přípustnost vymezení jednotlivých ploch a koridorů…"
+- *NSS* [5 A 10/2019 - 75](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/687530) — 14. 12. 2021
+  > „Dikce § 1 odst. 3 zákona č. 100/2001 Sb. stanoví cíle tohoto zákona, je tak jen rámcovým vodítkem pro jeho výklad. Aby bylo nutné posoudit určitou podlimitní stavbu společně s dalšími, souvisejícími stavbami, muselo by být prokázáno, že se skutečně jedná o účelové rozdělení projektu na menší části"
+- *NSS* [1 Ao 2/2010 - 185](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620563) — 18. 1. 2011
+  > „Ustanovení § 10i zákona č. 100/2001 Sb. … je třeba považovat za kogentní normy, které vyjadřují zájem na ochraně životního prostředí a zejména zájem na zachování udržitelného rozvoje společnosti, který současným i budoucím generacím zachovává možnost uspokojovat jejich základní životní potřeby a přitom nesnižuje rozmanitost přírody a zachovává přirozené funkce ekosystémů (§ 1 odst. 3 zákona č. 100/2001 Sb., § 6 zákona č. 17/1992 Sb., o životním prostředí)"
+
 #### Soulad s právem EU — transpozice a eurokonformní výklad (odst. 1)
 
 Odst. 1 výslovně deklaruje, že zákon je přijat „v souladu s právem Evropské unie". Jde o transpozici primárně dvou směrnic: směrnice Evropského parlamentu a Rady **2011/92/EU** o posuzování vlivů některých veřejných a soukromých záměrů na životní prostředí (kodifikace původní směrnice 85/337/EHS) ve znění novelizující směrnice **2014/52/EU**, která zavedla povinné lhůty v navazujících řízeních, rozšíření rozsahu EIA, posílení přístupu veřejnosti a výslovné zahrnutí klimatických vlivů a rizik závažných havárií. Pro SEA (Díl 3, §§ 10a–10i) zákon transponuje směrnici **2001/42/ES**.
@@ -85,6 +94,11 @@ Ustanovení § 1 vymezuje rámec celého zákona: soulad s právem EU (odst. 1),
 > *Posuzují se vlivy na obyvatelstvo a veřejné zdraví a vlivy na životní prostředí, zahrnující vlivy na živočichy a rostliny, ekosystémy, biologickou rozmanitost, půdu, vodu, ovzduší, klima a krajinu, přírodní zdroje, hmotný majetek a kulturní dědictví, vymezené zvláštními právními předpisy a na jejich vzájemné působení a souvislosti. Vlivy na biologickou rozmanitost se posuzují se zvláštním zřetelem na evropsky významné druhy, ptáky a evropská stanoviště.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Ao 4/2009 - 111](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617654) — 7. 1. 2010
+  > „Případný rozpor změny … s předpisy na ochranu veřejného zdraví bude součástí posouzení vlivů na životní prostředí dle zákona č. 100/2001 Sb., dle něhož se posuzují veškeré vlivy na životní prostředí komplexně, včetně vlivů na veřejné zdraví (§ 2 zákona č. 100/2001 Sb.)"
 
 #### Katalog složek životního prostředí
 
@@ -211,6 +225,11 @@ Druhá věta § 2 byla doplněna novelou reagující na posílení požadavků s
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 97/2021 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/707785) — 30. 1. 2023
+  > „§ 3 písm. g) zákona č. 100/2001 Sb. … vymezuje, která řízení se pro účely tohoto zákona rozumí navazujícími řízeními vedenými k záměru nebo jeho změně, které podléhají posouzení vlivů záměru na životní prostředí. … Tímto způsobem zákonodárce omezil okruh řízení, pro něž je stanovisko EIA nezbytným podkladem, přičemž mezi tato řízení nelze tak počítat např. řízení o povolení ke kácení dřevin"
+
 #### Záměr — dvojí vymezení (písm. a))
 
 Záměr je vymezen ve dvou větvích. **Větev první** (bod 1) zahrnuje stavby, zařízení, činnosti a technologie zařazené do přílohy č. 1 zákona, rozdělené na dvě kategorie: **kategorie I** (záměry vždy podléhající EIA bez zjišťovacího řízení) a **kategorie II** (záměry podléhající screeningu ve zjišťovacím řízení). Výčet přílohy č. 1 transponuje přílohy I a II směrnice 2011/92/EU. **Větev druhá** (bod 2) zahrnuje záměry, které nejsou v příloze č. 1, ale podle stanoviska orgánu ochrany přírody dle § 45i ZOPK mohou samostatně nebo kumulativně významně ovlivnit předmět ochrany nebo celistvost EVL nebo ptačí oblasti (soustavy Natura 2000) — tyto záměry podléhají screeningu (§ 4 odst. 1 písm. f)).
@@ -318,6 +337,13 @@ Zákon definuje posouzení vlivů záměru jako **čtyřfázový proces**: (1) v
 > *(4) Rozhodne-li vláda podle odstavce 3 o tom, že záměr není předmětem posuzování, použijí se § 11 až 13 přiměřeně. U záměrů podle § 4 odst. 1 písm. f) oznamovatel zajistí zpracování posouzení zpracovaného osobou, která je držitelem zvláštní autorizace. Závěry tohoto posouzení zahrne orgán příslušný ke schválení záměru do svého rozhodnutí; § 45i odst. 8 až 11 zákona o ochraně přírody a krajiny se použijí obdobně.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 267/2019 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653493) — 29. 1. 2020
+  > „Nejvyšší správní soud se v tomto ohledu ztotožňuje se žalovaným a osobou zúčastněnou, že zájmy ochrany přírody a krajiny mohou být opravdu dotčeny toliko novým záměrem či zásahem, popřípadě kvalitativní změnou tohoto záměru ve smyslu, jak na něj pamatuje třeba § 4 odst. 1 zákona č. 100/2001 Sb. … obecně však nemohou být dotčeny udržením statu quo"
+- *NSS* [7 As 90/2011 - 144](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/622971) — 27. 10. 2011
+  > „Nejvyšší správní soud se v tomto ohledu ztotožňuje s Úřadem, že zájmy ochrany přírody a krajiny mohou být opravdu dotčeny pouze v případě nově uváděného jaderného zařízení do provozu, popřípadě kvalitativní změnou ve smyslu např. ust. § 4 odst. 1 zákona č. 100/2001 Sb., ve znění pozdějších předpisů"
 
 #### Systém kategorií záměrů a screening
 
@@ -458,6 +484,11 @@ Odst. 4 transponuje čl. 5 odst. 1 a přílohu IV bod 7 směrnice 2011/92/EU. Z�
 > *(6) Veřejnost, dotčená veřejnost, dotčené orgány a dotčené územní samosprávné celky mohou zaslat písemné vyjádření k oznámení příslušnému úřadu do 30 dnů ode dne zveřejnění informace o oznámení. K vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží. Dotčené orgány ve svém vyjádření uvedou, je-li to s ohledem na povahu záměru možné, jaké skutečnosti a podklady z hlediska jimi dotčených zájmů je nezbytné doložit pro následné vyhodnocení vlivů záměru podle zákona o jednotném environmentálním stanovisku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 As 6/2013 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/632666) — 10. 10. 2014
+  > „zákon č. 100/2001 Sb., v nyní účinném znění, vyžaduje u záměrů, které podléhají posouzení podle přílohy 1 k tomuto zákonu (kam patří i novostavba dálnice) pouze to, aby oznamovatel uvedl v oznámení záměru „nástin studovaných hlavních variant a stěžejní důvody pro jeho volbu vzhledem k vlivu na životní prostředí“ (§ 6 odst. 4 zákona č. 100/2001 Sb.; srov. též náležitosti oznámení dle přílohy 3 k tomuto zákonu)"
 
 #### Oznámení jako vstupní dokument EIA
 
@@ -779,6 +810,13 @@ Oznamovatel je povinen na **vlastní náklady** poskytnout zpracovateli posudku 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [16 A 5/2025 - 84](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745461) — 23. 7. 2025
+  > „Úkon, jímž se prodlužuje doba platnosti závazného stanoviska k posouzení vlivů provedení záměru na životní prostředí dle § 9a odst. 4 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí, ve znění účinném do 31. 12. 2023, je závazným stanoviskem ve smyslu § 149 odst. 1 správního řádu. Jestliže odvolání v navazujícím řízení směřovalo proti jeho obsahu, mělo být prodloužení platnosti přezkoumáno postupem podle § 149 odst. 7 správního řádu"
+- *NSS* [8 As 55/2024 - 162](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721604) — 21. 5. 2024
+  > „dotčený orgán při vydávání verifikačního stanoviska EIA mohl reflektovat navrhované změny, a mohl stanovit které podmínky závazného stanoviska EIA se staly v důsledku jiných změn záměru neproveditelnými. … bylo Ministerstvo životního prostředí oprávněno identifikovat podmínky, které se v důsledku změny záměru staly nerealizovatelnými podle § 9a odst. 6 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí"
+
 #### Závazné stanovisko EIA — povaha a funkce
 
 Závazné stanovisko dle § 9a odst. 1 je **závazným stanoviskem** ve smyslu § 149 správního řádu — je závazným podkladem pro rozhodnutí v navazujících řízeních, ale samo o sobě povolením není. Vydává jej příslušný úřad (MŽP nebo krajský úřad) na základě komplexního posouzení: dokumentace, vyjádření k ní, veřejného projednání (bylo-li konáno dle § 17) a posudku. Lhůta pro vydání je **30 dnů** od obdržení posudku. Náležitosti stanoviska transponují čl. 8 a přílohu I bod 8 směrnice 2011/92/EU; musí obsahovat odůvodnění závěrů, podmínky pro provádění záměru a požadavky na monitoring. Je-li vydáváno současně jako JES, obsahuje i náležitosti JES dle zákona o JES.
@@ -941,6 +979,13 @@ Správní orgán musí při rozhodování vycházet nejen z podkladů navazujíc
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [38 A 2/2020 - 109](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/670489) — 28. 1. 2021
+  > „… zákona č. 100/2001 Sb. je transformačním ustanovením k čl. 6 odst. 4 směrnice EIA, jenž je jedním ze stěžejních ustanovení směrnice a představuje průlom do dosud zavedené úpravy okruhu účastníků řízení … Ust. § 3 pod písm. h) a i) zákona č. 100/2001 Sb. rozlišuje mezi veřejností, které je umožněna pouze konzultativní účast (§ 9b, §9c odst. 1) a dotčenou veřejností, což jsou tzv. přímo dotčené osoby a tzv. environmentální právnické osoby, jimž přísluší za splnění zákonných podmínek účastenství v klasickém slova smyslu (§ 9c odst. 3 písm. b) zákona č. 100/2001 Sb.)"
+- *NSS* [5 As 333/2019 - 92](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698990) — 31. 3. 2022
+  > „pro posouzení přípustnosti námitky uplatněné ekologickým spolkem je rozhodující povaha samotné námitky, tedy zda daná námitka jako taková směřuje k obhajobě zájmu na ochraně přírody a krajiny ve smyslu § 70 ZOPK, resp. širšího zájmu na ochraně životního prostředí ve smyslu § 3 písm. i) bodu 2 ve spojení s § 9c zákona č. 100/2001 Sb. K přípustnosti námitky tedy nepostačuje to, že se daného veřejného zájmu týká závazné stanovisko, proti němuž námitka směřuje"
+
 #### Připomínky veřejnosti — Aarhus pilíř druhý
 
 § 9c odst. 1 transponuje čl. 6 odst. 4 a 7 Aarhuské úmluvy a čl. 6 odst. 3 a 7 směrnice 2011/92/EU. Jakákoliv osoba (veřejnost v širokém smyslu) může v navazujícím řízení uplatňovat připomínky k záměru ve lhůtě **30 dnů** od zveřejnění informací na úřední desce. Správní orgán je povinen **vypořádat připomínky veřejnosti** v odůvodnění rozhodnutí (odst. 2) — jde o silnější zákonná požadavek než obecná povinnost odůvodnění dle § 68 odst. 3 SŘ.
@@ -996,6 +1041,11 @@ Dotčená veřejnost (ekospolky dle § 3 písm. i) bod 2) a dotčené ÚSC se st
 > *(2) O žalobách proti rozhodnutím vydaným v navazujících řízeních rozhodne soud do 90 dnů poté, kdy žaloba došla soudu. Soud i bez návrhu rozhodne o přiznání odkladného účinku žalobě nebo o předběžném opatření podle soudního řádu správního. Soud přizná žalobě odkladný účinek nebo nařídí předběžné opatření, hrozí-li nebezpečí, že realizací záměru může dojít k závažným škodám na životním prostředí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 3/2024 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/720199) — 4. 4. 2024
+  > „NSS souhlasí s tím, že soudu rozhodujícímu o návrhu na vydání předběžného opatření v souladu s dispoziční zásadou ovládající správní soudnictví nepřísluší nahrazovat vůli účastníka řízení a rozhodovat jinak, než účastník žádá (samozřejmě pokud nejde o specifické zákonem předvídané situace, jako např. § 9d odst. 2 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí)"
 
 #### Přístup k soudu — Aarhus pilíř třetí
 

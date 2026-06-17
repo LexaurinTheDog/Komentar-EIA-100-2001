@@ -32,6 +32,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ao 3/2011 - 229](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/625962) — 18. 10. 2012
+  > „Zatímco Zásady územního rozvoje (přibližně srovnatelné s územními plány velkých územních celků) podléhají posuzování vlivů vždy [§ 10a odst. 1 písm. a) zákona č. 100/2001 Sb.], územní plány obcí (srovnatelné s dřívějšími územními plány sídelních útvarů) podléhají posuzování zpravidla jen tehdy, pokud se tak stanoví ve zjišťovacím řízení [§ 10 odst. 1 písm. b) téhož zákona…]"
+- *NSS* [3 Ao 1/2007 - 210](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617321) — 25. 11. 2009
+  > „ÚP VÚC Břeclavska je koncepcí ve smyslu § 10a odst. 1 písm. a) zákona č. 100/2001 Sb. ve znění zákona č. 93/2004 Sb., neboť splňuje podmínku rámce pro povolení záměrů podle přílohy č. 1 tohoto zákona, a jako takový tedy podléhá posuzování vlivů na životní prostředí ze zákona"
+
 #### Pojem „koncepce" a vztah ke směrnici SEA
 
 Zákon č. 100/2001 Sb. pojem „koncepce" výslovně nedefinuje jako legislativní zkratku, avšak z kontextu a z důvodové zprávy vyplývá, že jím jsou míněny **plány a programy** ve smyslu čl. 2 písm. a) směrnice 2001/42/ES — tedy plány a programy, včetně těch spolufinancovaných Evropskou unií, jakož i jejich změny, které jsou požadovány právními nebo správními předpisy nebo jsou orgány veřejné moci zpracovávány nebo přijímány a které jsou přijímány zákonodárným sborem nebo orgánem veřejné moci na základě legislativního postupu. Pojem je záměrně pojat funkčně a šířeji než jen „program" nebo „plán" — zahrnuje jakýkoli strategický dokument, který je závazný nebo fakticky determinující pro budoucí rozhodování o povolování záměrů.
@@ -119,6 +126,11 @@ V praxi je § 10a vstupní branou SEA: nejprve je nutné určit, zda dokument v�
 > *(4) Při posuzování koncepce se navrhují a posuzují opatření k předcházení nepříznivých vlivů na životní prostředí a veřejné zdraví, k vyloučení, snížení, zmírnění nebo kompenzaci těchto vlivů, popřípadě ke zvýšení příznivých vlivů na životní prostředí a veřejné zdraví provedením koncepce, včetně vyhodnocení předpokládané účinnosti navrhovaných opatření. Je-li koncepce řešena ve variantách, je nutné posuzování podle tohoto zákona provést pro všechny varianty.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ao 1/2007 - 210](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/617321) — 25. 11. 2009
+  > „Zjišťovací řízení, které určí, zda a nakolik lze již jednou zpracované posouzení vlivů použít, včetně případných požadavků na posouzení variant řešení, které dosud předmětem posouzení nebyly, je tedy podmínkou využití údajů z jiného posuzování ve smyslu § 10b odst. 3 zákona č. 100/2001 Sb"
 
 #### Obsah posuzování — přímé, nepřímé vlivy, nulová varianta (odst. 1)
 
@@ -271,6 +283,13 @@ Lhůta 20 dnů od zveřejnění pro písemná vyjádření veřejnosti implement
 > *(5) Příslušný úřad zašle závěr zjišťovacího řízení neprodleně předkladateli, dotčeným orgánům a dotčeným krajům a případně také dotčeným obcím, které příslušný úřad určil podle § 10c odst. 2, a zároveň jej zveřejní podle § 16.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ao 4/2008 - 110](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/613859) — 18. 12. 2008
+  > „…jehož smyslem je dle § 10d zákona č. 100/2001 Sb. stanovit, zda bude územní plán posuzován v rámci procesu SEA, a upřesnit obsah a rozsah vyhodnocení vlivů na životní prostředí"
+- *NSS* [1 Ao 2/2010 - 185](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620563) — 18. 1. 2011
+  > „Nebude-li na základě výsledků zjišťovacího řízení územně plánovací dokumentace posuzována z hlediska jejích vlivů na životní prostředí (nejde o koncepci), stíhá orgán kraje povinnost uvést v závěru zjišťovacího řízení důvody, pro které není posuzování podle tohoto zákona požadováno (§ 10d zákona č. 100/2001 Sb. …)"
 
 #### Dvojí účel zjišťovacího řízení — scoping a screening
 
@@ -528,6 +547,11 @@ Veřejnost tímto procesem naplňuje právo na **účast na rozhodování** zaru
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 177/2023 - 140](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/769515) — 12. 2. 2026
+  > „Stanovisko SEA je odborným podkladem pro schvalování koncepcí ve smyslu § 10g zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí)"
+
 #### Právní povaha a obsah SEA stanoviska (odst. 1 a 2)
 
 SEA stanovisko (stanovisko ke koncepci) je klíčovým výstupem procesu posuzování. Zákon je vydává **příslušný úřad** (Ministerstvo životního prostředí nebo krajský úřad v závislosti na charakteru koncepce) v procesní lhůtě 20 dnů od obdržení upraveného návrhu. Podkladem pro vydání jsou tři kategorie dokumentů: (i) upravený návrh koncepce včetně informace o vypořádání vyjádření, (ii) vyjádření podaná k návrhu koncepce, a (iii) závěry veřejného projednání.
@@ -678,6 +702,11 @@ Dotčené orgány mají subsidiární monitorovací roli: sledují vlivy v rámc
 > *(3) Zpracovatelem vyhodnocení vlivů na životní prostředí může být pouze osoba k tomu oprávněná podle § 19.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ao 2/2010 - 185](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620563) — 18. 1. 2011
+  > „Ustanovení § 10i zákona č. 100/2001 Sb. případně ve spojení s relevantními ustanoveními přílohy II směrnice 85/337/EHS, je třeba považovat za kogentní normy, které vyjadřují zájem na ochraně životního prostředí a zejména zájem na zachování udržitelného rozvoje společnosti, který současným i budoucím generacím zachovává možnost uspokojovat jejich základní životní potřeby a přitom nesnižuje rozmanitost přírody a zachovává přirozené funkce ekosystémů (§ 1 odst. 3 zákona č. 100/2001 Sb., § 6 …)"
 
 #### Zvláštní procesní režim pro územně plánovací dokumentaci
 

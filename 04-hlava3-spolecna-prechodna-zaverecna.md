@@ -115,6 +115,11 @@ Předběžné projednání podle § 15 je levný a podceňovaný nástroj říze
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 33/2025 - 186](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744727) — 28. 8. 2025
+  > „Nadto ZPV řadí § 16 ke společným ustanovením. Zjevně tak bylo úmyslem zákonodárce, aby dopadal jak na proces EIA, tak na proces SEA. […] Cílem požadavku na zveřejnění závěru zjišťovacího řízení je totiž umožnit veřejnosti, aby proti závěru zjišťovacího řízení mohla efektivně brojit"
+
 #### Systém povinného zveřejňování — dva pilíře
 
 § 16 vytváří dvoupilířový systém zajištění přístupu veřejnosti k dokumentům EIA/SEA:
@@ -285,6 +290,11 @@ Veřejné projednání není fakultativní zdvořilost: při odůvodněném neso
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [Konf 29/2014 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635208) — 29. 6. 2015
+  > „Právní vztah orgánu státní správy v oblasti posuzování vlivů na životní prostředí (státu) vůči oznamovateli, jehož obsahem je právo na úhradu částky, kterou příslušný úřad zaplatil jako odměnu zpracovateli posudku, je vztahem občanskoprávním, resp. závazkovým, který vznikl na základě skutečností vymezených v § 18 odst. 3 zákona č. 100/2001 Sb. (srov. § 489 obč. zák.). Orgánem povolaným k ochraně vymezeného práva je soud (§ 4 obč. zák.), jehož pravomoc je založena ustanovením § 7 odst. 1 o. s. ř"
+
 #### Zásada „znečišťovatel platí" v EIA
 
 § 18 promítá do finančního uspořádání EIA zásadu, že náklady spojené s posuzováním primárně nese iniciátor záměru nebo předkladatel koncepce. Záměr je posuzován v zájmu navrhovatele, který hodlá záměr realizovat — je tedy spravedlivé, aby nesl hlavní nákladové břemeno.
@@ -405,6 +415,11 @@ Tato struktura chrání zpracovatele posudku před rizikem nezaplacení ze stran
 > *(17) Pokud nebylo vydáno rozhodnutí podle odstavce 16, činnost podle odstavce 1 může být vykonávána nejdéle po dobu 1 roku ode dne následujícího po dni, kdy uplynula lhůta pro vydání tohoto rozhodnutí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [54 A 68/2019 - 269](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714798) — 30. 6. 2023
+  > „…lze dovodit, že hodnocení, mezi kterými záměry mohou vznikat kumulativní a synergické vlivy, je činností odbornou, k níž je povolána pouze kvalifikovaná osoba, která je držitelem autorizace ke zpracování dokumentace, posudku a vyhodnocení ve smyslu § 19 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), ve znění pozdějších předpisů…"
 
 #### Funkce autorizace v systému EIA/SEA
 
@@ -593,6 +608,11 @@ Konkrétní rozsah působnosti každé ze dvou úrovní zákon stanoví v § 21 
 > *l) zveřejňuje způsobem umožňujícím dálkový přístup informace o možnostech domáhat se žalobou zrušení rozhodnutí podle § 7 odst. 6 nebo podle § 9a odst. 3.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 37/2015 - 145](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/533566) — 24. 3. 2016
+  > „Ministerstvo životního prostředí je dle § 21 zákona č. 100/2001 Sb. ústředním správním úřadem v oblasti posuzování vlivů na životní prostředí a dle § 23 odst. 3 zákona č. 100/2001 Sb. rozhoduje v případě důvodných pochybností o zařazení záměru do příslušné kategorie nebo do příslušného sloupce podle přílohy č. 1 k zákonu č. 100/2001 Sb. … ministerstvo metodicky řídí správní praxi v oblasti posuzování vlivů na životní prostředí. Správní orgány aplikující ustanovení zákona č. 100/2001 Sb. jsou touto správní praxí v zásadě vázány a odchýlit se mohou jen v odůvodněných případech"
 
 #### Ministerstvo jako ústřední správní úřad a dozorový orgán
 
