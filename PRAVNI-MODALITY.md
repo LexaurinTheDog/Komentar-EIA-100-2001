@@ -145,3 +145,172 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | úřad může; vydá | [§ 6](https://e-sbirka.gov.cz/sb/2001/100#par_6); [§ 7](https://e-sbirka.gov.cz/sb/2001/100#par_7); [§ 8](https://e-sbirka.gov.cz/sb/2001/100#par_8); [§ 9a](https://e-sbirka.gov.cz/sb/2001/100#par_9a) |
 | Oprávnění a povinnost | povinnost; je povinen; musí | [§ 5](https://e-sbirka.gov.cz/sb/2001/100#par_5); [§ 6](https://e-sbirka.gov.cz/sb/2001/100#par_6); [§ 9](https://e-sbirka.gov.cz/sb/2001/100#par_9); [§ 9b](https://e-sbirka.gov.cz/sb/2001/100#par_9b); [§ 10c](https://e-sbirka.gov.cz/sb/2001/100#par_10c) |
 | Domněnky, fikce a účinkové konstrukce | platí, že; má se za to; považuje se za | [§ 9a](https://e-sbirka.gov.cz/sb/2001/100#par_9a); [§ 9b](https://e-sbirka.gov.cz/sb/2001/100#par_9b); [§ 9f](https://e-sbirka.gov.cz/sb/2001/100#par_9f) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 100/2001 Sb., o posuzování vlivů na životní prostředí — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jakým norma normuje chování svých adresátů. Nauka rozlišuje **objektivní modality** (deontické operátory viděné z hlediska objektivního práva) a **subjektivní modality** (týž normativní obsah nahlížený z pozice konkrétního subjektu jako jeho právní postavení). Objektivními modalitami jsou **příkaz** (norma ukládá konat), **zákaz** (norma ukládá zdržet se) a **dovolení** (norma ponechává adresátu prostor pro volbu). Tyto tři operátory jsou vzájemně převoditelné: příkaz konat je zároveň zákazem opomenutí, dovolení nekonat je negací příkazu. Zákon o posuzování vlivů je předpisem převážně veřejnoprávním a procesním, takže v něm dominují příkazy a povinnosti adresované úřadům, oznamovatelům a předkladatelům; dovolení má zpravidla podobu fakultativních procesních postupů.
+
+Zvláštní postavení mají **zmocnění (kompetenční normy)**. Ta nezakládají povinnost ani dovolení v běžném smyslu, nýbrž konstituují pravomoc a působnost orgánu veřejné moci — určují, kdo, v jakých mezích a jakým aktem smí autoritativně jednat. V tomto předpisu se projevují typicky u vymezení vykonavatelů státní správy (§ 20), u atrakčních a devolučních mechanismů příslušnosti a u zmocnění vlády k výjimce (§ 4 odst. 2). Kompetenční norma je přitom obousměrná: pravomoc je zároveň povinností ji vykonat v zákonem předvídaných případech (vázaná pravomoc), případně diskrecí (uvážení tam, kde zákon užívá „může").
+
+**Subjektivní modality** vyjadřují korelativitu **oprávnění a povinnosti**: subjektivnímu právu jednoho subjektu zpravidla odpovídá povinnost jiného subjektu (typicky právu posuzovatele na informace dle § 10e odst. 4 odpovídá povinnost dotčených orgánů je poskytnout). Právo je možnost chráněná právem, jejíž realizace závisí na vůli oprávněného; povinnost je nutnost chování vynutitelná právními následky.
+
+**Normativní výrazy** jsou jazykové signály modalit: „je povinen", „podléhají … vždy", „nesmí", „nepřihlíží", „může", „je oprávněn", „platí, že", „se má za to". Jazyk zákona ovšem není jednoznačný — týž výraz „může" značí jednou dovolení (§ 6 odst. 3), jindy diskreční kompetenci (§ 12 odst. 1), takže o modalitě rozhoduje až kontext a účel normy. **Domněnky a fikce** jsou zvláštní normativní konstrukce pracující s dokazováním: **vyvratitelná domněnka** („má se za to") přesouvá důkazní břemeno a připouští důkaz opaku; **nevyvratitelná domněnka** a **právní fikce** („platí, že", „považuje se", „nepovažuje se") důkaz opaku vylučují a spojují právní následek s určitým stavem bez ohledu na skutečnost. Tyto konstrukce v předpisu slouží ochraně účastníků a právní jistotě (fikce platnosti stanoviska, fikce dne zveřejnění, domněnka aktivní legitimace dotčené veřejnosti).
+
+### Příkaz
+
+Příkaz je v zákoně o posuzování vlivů nejčastěji vyjádřen buď obligatorním „podléhají posouzení/posuzování … vždy", které bezvýjimečně podřazuje záměr či koncepci pod režim EIA/SEA, nebo vázanou povinností úřadu či soudu konat určitý úkon, je-li naplněna hypotéza normy. Charakteristické je, že příkaz neponechává adresátu prostor pro uvážení „zda", nanejvýš upravuje „jak". Tak § 4 odst. 1 písm. a) zakládá obligatorní EIA u kategorie I bez zjišťovacího řízení a § 10a odst. 1 písm. a) totéž pro sektorové koncepce.
+
+Řada příkazů má povahu procesních automatismů chránících veřejnost a dotčené státy: § 16 odst. 1 ukládá trvalé zveřejnění dokumentů, § 17 odst. 1 vázanou povinnost nařídit veřejné projednání při odůvodněném nesouhlasu a § 12 odst. 4 okamžitou informační povinnost při zjištění nepříznivého přeshraničního vlivu. Zvláště významný je § 9d odst. 2, který soudu ukládá poskytnout předběžnou ochranu i bez návrhu, hrozí-li závažné škody na životním prostředí — zde příkaz proráží jinak ovládající dispoziční zásadu správního soudnictví.
+
+Příkaz se prolíná i s kolizními a „comply-or-explain" pravidly: § 12 odst. 2 určuje jako rozhodné právo státu původu a § 13 odst. 5 ukládá ministerstvu zapracovat vyjádření dotčeného státu, nebo v stanovisku uvést důvody neuvedení — tím se příkaz stává nástrojem přezkoumatelnosti.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 4 odst. 1 písm. a) | podléhají posouzení … vždy | tyto záměry a změny záměrů podléhají posouzení vlivů záměru na životní prostředí vždy | Bezvýjimečná (obligatorní) EIA u kategorie I bez zjišťovacího řízení. |
+| § 10a odst. 1 písm. a) | podléhají posuzování vždy | tyto koncepce podléhají posuzování vždy | Obligatorní SEA sektorových koncepcí bez ohledu na výsledek zjišťování. |
+| § 10b odst. 4 | je nutné … provést | je nutné posuzování podle tohoto zákona provést pro všechny varianty | Kategorická povinnost posoudit všechny varianty koncepce. |
+| § 9d odst. 2 | Soud přizná … nebo nařídí | Soud přizná žalobě odkladný účinek nebo nařídí předběžné opatření, hrozí-li nebezpečí, že realizací záměru může dojít k závažným škodám na životním prostředí. | Soudu uložena předběžná ochrana i bez návrhu při hrozbě závažných škod. |
+| § 12 odst. 2 | se postupuje podle | se postupuje podle právních předpisů platných na území státu původu | Kolizní norma o rozhodném právu mezistátního posuzování. |
+| § 12 odst. 4 | bude okamžitě informovat | bude okamžitě informovat druhý stát | Okamžitá informační povinnost při zjištění nepříznivého přeshraničního vlivu. |
+| § 13 odst. 5 | zapracuje … nebo uvede důvody | Ministerstvo vyjádření dotčeného státu zapracuje do stanoviska nebo v něm uvede důvody neuvedení tohoto vyjádření ve svém stanovisku nebo jeho uvedení jen zčásti. | Zásada comply-or-explain zajišťující přezkoumatelnost stanoviska. |
+| § 14 odst. 1 | neprodleně jej zveřejní … zašle | neprodleně jej zveřejní podle § 16 a toto oznámení, popřípadě informaci o něm zašle dotčeným orgánům a dotčeným územním samosprávným celkům | Aktivace účasti ČR jako dotčeného státu. |
+| § 16 odst. 1 | trvale zveřejní | Příslušný úřad na internetu trvale zveřejní | Pilíř přístupu veřejnosti k informacím — trvalé zveřejnění dokumentů. |
+| § 17 odst. 1 | nařídí | Příslušný úřad nařídí veřejné projednání, obdržel-li odůvodněné nesouhlasné vyjádření veřejnosti k dokumentaci. | Vázaná povinnost nařídit projednání, bez prostoru pro uvážení. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NSS* [1 Ao 3/2011 - 229](judikatura/NSS-1-Ao-3-2011-229.md) — rozsudek ze dne 18. 10. 2012 (obligatornost SEA u zásad územního rozvoje dle § 10a odst. 1 písm. a))
+  > „Zatímco Zásady územního rozvoje (přibližně srovnatelné s územními plány velkých územních celků) podléhají posuzování vlivů vždy [§ 10a odst. 1 písm. a) zákona č. 100/2001 Sb.], územní plány obcí (srovnatelné s dřívějšími územními plány sídelních útvarů) podléhají posuzování zpravidla jen tehdy, pokud se tak stanoví ve zjišťovacím řízení"
+- *NSS* [2 As 3/2024 - 50](judikatura/NSS-2-As-3-2024-50.md) — rozsudek ze dne 4. 4. 2024 (§ 9d odst. 2 jako zákonem předvídaná výjimka z dispoziční zásady)
+  > „NSS souhlasí s tím, že soudu rozhodujícímu o návrhu na vydání předběžného opatření v souladu s dispoziční zásadou ovládající správní soudnictví nepřísluší nahrazovat vůli účastníka řízení a rozhodovat jinak, než účastník žádá (samozřejmě pokud nejde o specifické zákonem předvídané situace, jako např. § 9d odst. 2 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí)"
+
+### Zákaz
+
+Zákazy v zákoně chrání integritu procesu posuzování a rovné postavení jeho účastníků. Vyjadřují se výrazy „nesmí", „nemůže", „nepřihlíží" nebo „nepřechází". Jádrem jsou pravidla nezávislosti a nestrannosti zpracovatele posudku: § 9 odst. 4 zakazuje autoru dokumentace podílet se byť dílčím způsobem na posudku a § 9 odst. 5 zapovídá zpracovateli posudku dokumentaci přepracovávat či doplňovat. Tím je posudek konstruován jako nezávislá recenze, nikoli pokračování dokumentace.
+
+Druhou skupinu tvoří **prekluzivní a ochranné zákazy lhůt**: § 6 odst. 6 vylučuje přihlédnutí k opožděným vyjádřením („nepřihlíží") a § 10f odst. 4 zakazuje konat veřejné projednání koncepce dříve než po 30 dnech, čímž veřejnosti garantuje čas seznámit se s dokumenty. Zvláštní povahu má **podmiňující zákaz** § 10g odst. 4 („bez stanoviska … nemůže být koncepce schválena"), jenž z existence SEA stanoviska činí conditio sine qua non platného schválení koncepce. Konečně § 19 odst. 8 zákazem přechodu autorizace zajišťuje osobní odpovědnost kvalifikované osoby.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 6 odst. 6 | nepřihlíží | K vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží. | Prekluze 30denní lhůty — k opožděným podáním se nepřihlíží. |
+| § 9 odst. 4 | se nemůže … zúčastnit | Ten, kdo se podílel na zpracování oznámení nebo dokumentace, se nemůže ani dílčím způsobem zúčastnit na zpracování posudku. | Zákaz střetu zájmů autora dokumentace a posudku. |
+| § 9 odst. 5 | nesmí … přepracovávat ani doplňovat | Zpracovatel posudku nesmí posuzovanou dokumentaci přepracovávat ani ji doplňovat. | Posudek je nezávislá recenze, nikoli oprava dokumentace. |
+| § 10f odst. 4 | nemůže být konáno dříve | Veřejné projednání návrhu koncepce nemůže být konáno dříve než po uplynutí 30 dnů ode dne předložení návrhu koncepce příslušnému úřadu. | Kogentní zákaz předčasného projednání — ochrana času veřejnosti. |
+| § 10g odst. 4 | nemůže být … schválena | Bez stanoviska ke koncepci nemůže být koncepce schválena. | Podmiňující zákaz — stanovisko SEA jako podmínka schválení. |
+| § 19 odst. 8 | nepřechází | Udělená autorizace nepřechází na jinou fyzickou osobu. | Nepřenosnost autorizace — osobní odpovědnost kvalifikované osoby. |
+
+### Dovolení
+
+Dovolení ponechává adresátu volbu mezi konáním a nekonáním; typickým výrazem je „může". V procesu posuzování má dovolení podobu fakultativních procesních cest, jimiž oznamovatel či úřad optimalizuje průběh řízení. Nejvýraznější je § 6 odst. 3, jenž oznamovateli umožňuje obejít zjišťovací řízení předložením přímo dokumentace (mimo Natura 2000 a přeshraniční záměry); jde o dispozici s vlastní procesní strategií, nikoli o povinnost.
+
+Další dovolení směřují k úřadu jako nositeli uvážení: § 10g odst. 2 opravňuje příslušný úřad vyslovit ve stanovisku nesouhlas a navrhnout kompenzační či monitorovací opatření; § 12 odst. 1 dává ministerstvu diskreci prodloužit lhůty na žádost dotčeného státu; § 17 odst. 3 umožňuje ukončit projednání při neúčasti navrhovatele; § 23 odst. 5 dovoluje ministerstvu v odůvodněných případech atrahovat na sebe jinak krajský záměr či koncepci. Společné je, že „může" zde znamená prostor pro správní uvážení vázané účelem zákona a zásadou zákazu libovůle.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 6 odst. 3 | může oznamovatel předložit | může oznamovatel předložit místo oznámení dokumentaci vlivů záměru na životní prostředí | Zkrácený postup — obejití zjišťovacího řízení přímou dokumentací. |
+| § 10g odst. 2 | může vyjádřit nesouhlas | Příslušný úřad může ve svém stanovisku vyjádřit nesouhlas s návrhem koncepce | Úřad formuje obsah SEA stanoviska (nesouhlas, opatření). |
+| § 12 odst. 1 | může ministerstvo prodloužit | Lhůty pro vyjádření při mezistátním posuzování může ministerstvo prodloužit až o 30 dnů, požádá-li o to dotčený stát. | Diskrece prodloužit lhůty v přeshraničním procesu. |
+| § 17 odst. 3 | může ukončit | Příslušný úřad může ukončit veřejné projednání v případě neúčasti oznamovatele nebo zpracovatele dokumentace nebo posudku. | Fakultativní reakce na nespolupráci navrhovatele. |
+| § 23 odst. 5 | může vyhradit | Ministerstvo si v odůvodněných případech může vyhradit posuzování záměru nebo koncepce, k jejichž posouzení je příslušný orgán kraje. | Atrakce krajské působnosti ministerstvem. |
+
+### Zmocnění
+
+Zmocnění (kompetenční normy) zakládají a vymezují pravomoc a působnost orgánů veřejné moci. Základem je § 20, jenž taxativně určuje vykonavatele státní správy v EIA/SEA — ministerstvo a orgány kraje. Na něj navazují normy o zvláštních pravomocech: § 4 odst. 2 svěřuje vládě pravomoc vyjmout z posuzování záměry pro obranu či odvrácení mimořádných událostí; § 10d odst. 2 svěřuje příslušnému úřadu vedení zjišťovacího řízení zakončeného odůvodněným závěrem.
+
+Kompetence bývá formulována jako **vázaná pravomoc** i jako **diskrece**. § 19 odst. 9 zakládá obligatorní pravomoc ministerstva odejmout autorizaci při závažném porušení zákona („odejme" — bez uvážení „zda"), zatímco § 12 odst. 3 dává státu původu a dotčenému státu společně určit, zda bude provedena poprojektová analýza (dohodová kompetence). Kompetenční normy tedy nejsou samy o sobě příkazem ani dovolením, ale rámcem, uvnitř něhož teprve vznikají konkrétní příkazy, zákazy a dovolení adresované účastníkům.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 20 | vykonávají | Státní správu v oblasti posuzování vlivů na životní prostředí vykonávají ministerstvo a orgány kraje. | Kompetenční základ — taxativní vykonavatelé státní správy. |
+| § 4 odst. 2 | Vláda může rozhodnout | Vláda může rozhodnout, že předmětem posuzování podle tohoto zákona není záměr | Pravomoc vlády vyjmout z EIA záměry obrany a mimořádných událostí. |
+| § 10d odst. 2 | příslušný úřad provede … a ukončí | Příslušný úřad provede zjišťovací řízení na podkladě oznámení | Kompetence úřadu vést zjišťovací řízení (scoping/screening). |
+| § 12 odst. 3 | určí, zda bude provedena | Stát původu a dotčený stát na žádost kteréhokoliv z nich určí, zda bude provedena poprojektová analýza | Dohodová kompetence států o následném monitoringu. |
+| § 19 odst. 9 | odejme | Ministerstvo odejme autorizaci fyzické osobě, která závažným způsobem porušila tento zákon | Obligatorní pravomoc odejmout autorizaci při závažném porušení. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NSS* [5 A 37/2015 - 145](judikatura/NSS-5-A-37-2015-145.md) — rozsudek ze dne 24. 3. 2016 (kompetence ministerstva jako ústředního úřadu a jeho metodické řízení praxe)
+  > „Ministerstvo životního prostředí je dle § 21 zákona č. 100/2001 Sb. ústředním správním úřadem v oblasti posuzování vlivů na životní prostředí a dle § 23 odst. 3 zákona č. 100/2001 Sb. rozhoduje v případě důvodných pochybností o zařazení záměru do příslušné kategorie nebo do příslušného sloupce podle přílohy č. 1 k zákonu č. 100/2001 Sb."
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou dvě strany téhož normativního vztahu (korelativita). Zákon o posuzování vlivů zakládá bohatou soustavu **procesních práv** veřejnosti a dotčené veřejnosti: § 7 odst. 6 přiznává právo odvolání proti screeningovému rozhodnutí, § 10c odst. 3 a § 14b odst. 2 zaručují „každému" právo vyjádřit se (implementace čl. 6 směrnice a Aarhuské úmluvy), § 14 odst. 2 opravňuje tuzemskou veřejnost reagovat na zahraniční záměr. Zvláštním oprávněním je § 19 odst. 1, jenž odborné zpracování dokumentů vyhrazuje výlučně autorizovaným fyzickým osobám, a § 10e odst. 4, který posuzovateli přiznává právo na informace korelované povinností dotčených orgánů je poskytnout.
+
+Povinnosti tvoří páteř procesu a jsou vyjádřeny formulí „je povinen". Základní je iniciační povinnost oznamovatele (§ 6 odst. 1) a předkladatele (§ 10c odst. 1) proces zahájit. Navazují povinnosti součinnosti a nákladové: § 9 odst. 6 (poskytnout podklady na vlastní náklady), § 18 odst. 3 (zaplatit odměnu za posudek jako podmínku dalšího postupu). Dále jde o povinnosti kvalifikace rozhodnutí (§ 10d odst. 4 — odůvodnit neprovedení SEA), povinnosti přeshraniční spolupráce (§ 13 odst. 3, § 13 odst. 6, § 14b odst. 1) a devoluční povinnost (§ 11 odst. 3). Cyklus SEA uzavírá průběžná povinnost monitoringu (§ 10h odst. 1).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 7 odst. 6 | Právo podat odvolání má | Právo podat odvolání proti rozhodnutí má oznamovatel a dotčená veřejnost uvedená v § 3 písm. i) bodě 2 a dotčené územní samosprávné celky. | Subjektivní procesní právo na odvolání proti screeningu. |
+| § 10c odst. 3 | každý může zaslat | Každý může zaslat své písemné vyjádření k oznámení koncepce příslušnému úřadu ve lhůtě do 20 dnů ode dne jeho zveřejnění | Právo účasti každého v počáteční fázi SEA. |
+| § 10e odst. 4 | je oprávněn požadovat | Posuzovatel je oprávněn požadovat informace nezbytné pro zpracování vyhodnocení | Právo posuzovatele na data korelované povinností orgánů. |
+| § 14 odst. 2 | jsou oprávněny zaslat | Veřejnost, dotčené orgány a dotčené územní samosprávné celky jsou oprávněny zaslat ministerstvu písemné vyjádření k oznámení do 30 dnů ode dne zveřejnění informace o tomto oznámení. | Právo reagovat na zahraniční záměr s přeshraničním dopadem. |
+| § 19 odst. 1 | jsou oprávněny jen | Zpracovávat dokumentaci, posudek, oznámení předkládané podle § 6 odst. 5 věty první a vyhodnocení jsou oprávněny jen fyzické osoby, které jsou držiteli autorizace | Odborné zpracování vyhrazeno autorizovaným fyzickým osobám. |
+| § 6 odst. 1 | je povinen předložit | Oznamovatel je povinen předložit oznámení záměru | Iniciační povinnost zahájit EIA. |
+| § 9 odst. 6 | je povinen na vlastní náklady poskytnout | Oznamovatel je povinen na vlastní náklady poskytnout zpracovateli posudku podklady | Povinnost součinnosti a nesení nákladů. |
+| § 10c odst. 1 | je povinen předložit | je povinen předložit oznámení koncepce příslušnému úřadu v elektronické podobě | Vstupní povinnost iniciovat SEA. |
+| § 10d odst. 4 | je … povinen uvést důvody | je příslušný úřad povinen uvést v závěru zjišťovacího řízení důvody, pro které není posuzování podle tohoto zákona požadováno | Přezkoumatelné odůvodnění neprovedení SEA. |
+| § 10h odst. 1 | je povinen zajistit | Předkladatel je povinen zajistit sledování a rozbor vlivů schválené koncepce na životní prostředí a veřejné zdraví. | Post-adoption monitoring — uzavření cyklu SEA. |
+| § 11 odst. 3 | je povinen … neprodleně postoupit | Orgán kraje je povinen v případě záměru uvedeného v příloze č. 1 k tomuto zákonu sloupci KÚ neprodleně postoupit jeho posuzování ministerstvu | Devoluce příslušnosti při přeshraničním charakteru. |
+| § 18 odst. 3 | je povinen zaplatit | Oznamovatel je povinen vyúčtovanou částku zaplatit příslušnému úřadu do 10 dnů ode dne obdržení vyúčtování | Lhůtovaná platební povinnost jako podmínka postupu. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NSS* [54 A 68/2019 - 269](judikatura/NSS-54-A-68-2019-269.md) — rozsudek ze dne 30. 6. 2023 (výlučné oprávnění autorizované osoby dle § 19)
+  > „lze dovodit, že hodnocení, mezi kterými záměry mohou vznikat kumulativní a synergické vlivy, je činností odbornou, k níž je povolána pouze kvalifikovaná osoba, která je držitelem autorizace ke zpracování dokumentace, posudku a vyhodnocení ve smyslu § 19 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí), ve znění pozdějších předpisů"
+- *NSS* [1 Ao 2/2010 - 185](judikatura/NSS-1-Ao-2-2010-185.md) — rozsudek ze dne 18. 1. 2011 (povinnost kraje odůvodnit neprovedení posouzení dle § 10d)
+  > „Nebude-li na základě výsledků zjišťovacího řízení územně plánovací dokumentace posuzována z hlediska jejích vlivů na životní prostředí (nejde o koncepci), stíhá orgán kraje povinnost uvést v závěru zjišťovacího řízení důvody, pro které není posuzování podle tohoto zákona požadováno"
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou v zákoně nástrojem právní jistoty a ochrany slabší strany, resp. veřejného zájmu. **Vyvratitelnou domněnku** představuje § 7 odst. 9 („se má za to"), jenž dotčené veřejnosti přiznává domněnku zkrácení na právech pro účely soudního přezkumu screeningového rozhodnutí — veřejnost nemusí prokazovat individuální dotčení, čímž se zajišťuje účinný přístup k soudu ve smyslu Aarhuské úmluvy.
+
+**Právní fikce** spojuje následek s určitým stavem bez ohledu na skutečnost. § 9a odst. 4 („platí, že") konstruuje fikci prodloužení platnosti stanoviska o 60 dnů po soudním zrušení navazujícího rozhodnutí, čímž chrání oznamovatele před tím, aby v důsledku soudního zásahu ztratil klíčový podklad. § 16 odst. 2 („se považuje") stanoví fikci dne zveřejnění, od níž se odvíjí běh lhůt pro vyjádření. § 10a odst. 2 („je dán vždy, pokud") určuje fikcí naplnění znaku „rámce" rozhodujícího o podřazení koncepce pod obligatorní SEA. Konečně § 23a zavádí **negativní fikci** („se nepovažuje"), jež repowering fotovoltaické výrobny splňující dvě kumulativní podmínky vyjímá z působnosti zákona. Tyto konstrukce jsou kogentní a nelze je vyloučit dohodou účastníků.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 7 odst. 9 | se má za to | Pro účely postupu dle věty první se má za to, že dotčená veřejnost uvedená v § 3 písm. i) bodě 2 má práva | Domněnka aktivní legitimace dotčené veřejnosti (bez důkazu zkrácení). |
+| § 9a odst. 4 | platí, že | platí, že platnost stanoviska neuplyne dříve než 60 dnů po dni, kdy ke zrušení takového rozhodnutí došlo | Fikce prodloužení platnosti stanoviska o 60 dnů po zrušení rozhodnutí. |
+| § 10a odst. 2 | je dán vždy, pokud | Rámec pro budoucí povolení záměrů uvedených v příloze č. 1 k tomuto zákonu je dán vždy, pokud koncepce stanoví podmínky pro jejich povolování | Fikce naplnění znaku „rámce" pro podřazení pod obligatorní SEA. |
+| § 16 odst. 2 | se považuje | Za den zveřejnění se považuje den, kdy došlo k vyvěšení informace podle vět první a druhé na úřední desce dotčeného kraje. | Fikce dne zveřejnění určující běh lhůt. |
+| § 23a | se nepovažuje | se nepovažuje za záměr ani jeho změnu podle tohoto zákona | Negativní fikce vyjímající repowering FVE z působnosti zákona. |
+
+Kde sedí, judikatorní ilustrace:
+
+- *NSS* [16 A 5/2025 - 84](judikatura/NSS-16-A-5-2025-84.md) — rozsudek ze dne 23. 7. 2025 (povaha úkonu o platnosti stanoviska dle § 9a odst. 4)
+  > „Úkon, jímž se prodlužuje doba platnosti závazného stanoviska k posouzení vlivů provedení záměru na životní prostředí dle § 9a odst. 4 zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí, ve znění účinném do 31. 12. 2023, je závazným stanoviskem ve smyslu § 149 odst. 1 správního řádu. Jestliže odvolání v navazujícím řízení směřovalo proti jeho obsahu, mělo být prodloužení platnosti přezkoumáno postupem podle § 149 odst. 7 správního řádu"
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Jednotlivé modality nestojí izolovaně; teprve jejich souhra vytváří funkční instituty zákona.
+
+**Vstup do posuzování** kombinuje příkaz, dovolení a fikci. U záměrů kategorie I je vstup příkazem (§ 4 odst. 1 písm. a — „podléhají … vždy"), zatímco oznamovatel disponuje procesní volbou mezi standardním oznámením (povinnost § 6 odst. 1) a zkráceným postupem (dovolení § 6 odst. 3). U koncepcí je paralelou obligatorní SEA (§ 10a odst. 1 písm. a) doplněná fikcí „rámce" (§ 10a odst. 2), která teprve rozhoduje, zda koncepce pod obligatorní režim spadá. Judikatura potvrzuje, že koncepce splňující podmínku rámce podléhá posuzování přímo ze zákona.
+
+**Zjišťovací řízení** propojuje kompetenci a povinnost: úřad je zmocněn řízení vést (§ 10d odst. 2), avšak při negativním závěru je vázán povinností jej odůvodnit (§ 10d odst. 4). Tato dvojice — pravomoc plus přezkoumatelné odůvodnění — je pojistkou proti obcházení SEA.
+
+**Nezávislost posudku** stojí na dvojici zákazů (§ 9 odst. 4 inkompatibilita, § 9 odst. 5 zákaz úprav) doplněné povinností součinnosti a nákladů oznamovatele (§ 9 odst. 6, § 18 odst. 3). Odborná kvalita je pak zajištěna oprávněním vyhrazeným autorizovaným osobám (§ 19 odst. 1), nepřenosností autorizace (zákaz § 19 odst. 8) a obligatorní pravomocí ji odejmout (zmocnění § 19 odst. 9).
+
+**Účast veřejnosti a soudní ochrana** kombinují oprávnění (§ 10c odst. 3, § 14 odst. 2, § 7 odst. 6), příkazy transparence (§ 16 odst. 1) s fikcí dne zveřejnění (§ 16 odst. 2), domněnku aktivní legitimace (§ 7 odst. 9) a příkaz předběžné ochrany (§ 9d odst. 2). **Výstup SEA** je propojen podmiňujícím zákazem (§ 10g odst. 4 — bez stanoviska nelze schválit) a dovolením formovat obsah stanoviska (§ 10g odst. 2); stanovisko SEA přitom judikatura chápe jako odborný podklad schvalování koncepcí.
+
+- *NSS* [3 Ao 1/2007 - 210](judikatura/NSS-3-Ao-1-2007-210.md) — rozsudek ze dne 25. 11. 2009 (naplnění znaku „rámce" a podřazení koncepce pod obligatorní SEA — § 10a)
+  > „ÚP VÚC Břeclavska je koncepcí ve smyslu § 10a odst. 1 písm. a) zákona č. 100/2001 Sb. ve znění zákona č. 93/2004 Sb., neboť splňuje podmínku rámce pro povolení záměrů podle přílohy č. 1 tohoto zákona, a jako takový tedy podléhá posuzování vlivů na životní prostředí ze zákona"
+- *NSS* [1 As 177/2023 - 140](judikatura/NSS-1-As-177-2023-140.md) — rozsudek ze dne 12. 2. 2026 (povaha stanoviska SEA jako podkladu schvalování — § 10g)
+  > „Stanovisko SEA je odborným podkladem pro schvalování koncepcí ve smyslu § 10g zákona č. 100/2001 Sb., o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí)"
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | podléhají … vždy; nařídí; provést; zapracuje nebo uvede důvody; okamžitě informovat | § 4 odst. 1 písm. a); § 10a odst. 1 písm. a); § 10b odst. 4; § 9d odst. 2; § 16 odst. 1; § 17 odst. 1; § 12 odst. 4; § 13 odst. 5 |
+| Zákaz | nepřihlíží; nesmí; nemůže; nepřechází | § 6 odst. 6; § 9 odst. 4; § 9 odst. 5; § 10f odst. 4; § 10g odst. 4; § 19 odst. 8 |
+| Dovolení | může (fakultativní postup); může vyhradit; může prodloužit | § 6 odst. 3; § 10g odst. 2; § 12 odst. 1; § 17 odst. 3; § 23 odst. 5 |
+| Zmocnění (kompetence) | vykonávají; může rozhodnout; provede a ukončí; odejme; určí | § 20; § 4 odst. 2; § 10d odst. 2; § 12 odst. 3; § 19 odst. 9 |
+| Oprávnění | právo … má; každý může/je oprávněn zaslat; je oprávněn požadovat; oprávněny jen | § 7 odst. 6; § 10c odst. 3; § 10e odst. 4; § 14 odst. 2; § 14b odst. 2; § 19 odst. 1 |
+| Povinnost | je povinen (předložit, zajistit, poskytnout, zaplatit, uvést důvody, postoupit) | § 6 odst. 1; § 9 odst. 6; § 10c odst. 1; § 10d odst. 4; § 10h odst. 1; § 11 odst. 3; § 13 odst. 6; § 18 odst. 3 |
+| Domněnka / fikce | se má za to; platí, že; se považuje; je dán vždy, pokud; se nepovažuje | § 7 odst. 9; § 9a odst. 4; § 10a odst. 2; § 16 odst. 2; § 23a |
