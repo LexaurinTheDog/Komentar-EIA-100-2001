@@ -113,6 +113,70 @@ V praxi je § 10a vstupní branou SEA: nejprve je nutné určit, zda dokument v�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c75c1715abfb0868d194 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10a — Předmět posuzování vlivů koncepce na životní prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Předmětem posuzování vlivů koncepce na životní prostředí (dále jen „posuzování koncepce“) podle tohoto zákona jsou
+>
+> - a) koncepce, které stanoví rámec pro budoucí povolení záměrů uvedených v příloze č. 1, zpracovávané v oblasti zemědělství, lesního hospodářství, myslivosti, rybářství, nakládání s povrchovými nebo podzemními vodami, energetiky, průmyslu, dopravy, odpadového hospodářství, telekomunikací, cestovního ruchu, územního plánování, regionálního rozvoje a životního prostředí včetně ochrany přírody, a dále koncepce, u kterých podle stanoviska orgánu ochrany přírody nelze vyloučit významný vliv na předmět ochrany nebo celistvost evropsky významné lokality nebo ptačí oblasti podle zákona [[o ochraně přírody a krajiny|o ochraně přírody a krajiny]]; tyto koncepce podléhají posuzování vždy,
+>
+> - b) koncepce podle písmene a), u nichž je dotčené území tvořeno územním obvodem jedné nebo několika obcí, které stanoví využití území místního významu, pokud se tak stanoví ve zjišťovacím řízení podle [[#§ 10d|§ 10d]],
+>
+> - c) změny koncepcí podle písmen a) a b), pokud se tak stanoví ve zjišťovacím řízení podle [[#§ 10d|§ 10d]]; změny koncepcí formálního charakteru, které na základě vyjádření příslušného úřadu zcela zjevně nemohou mít významný vliv na životní prostředí, zjišťovacímu řízení nepodléhají.
+>
+> (2) Rámec pro budoucí povolení záměrů uvedených v příloze č. 1 k tomuto zákonu je dán vždy, pokud koncepce stanoví podmínky pro jejich povolování, zejména pokud jde o umístění, povahu, velikost, provozní podmínky nebo požadavky na přírodní zdroje.
+>
+> (3) Posuzování vlivů záměru na životní prostředí nenahrazuje posuzování vlivů koncepce na životní prostředí. Údaje získané při posuzování vlivů záměru na životní prostředí, případně při hodnocení důsledků záměru na předmět ochrany a celistvost evropsky významné lokality nebo ptačí oblasti a na stav jejich ochrany lze využít při posuzování vlivů koncepce na životní prostředí.
+>
+> (4) Předmětem posuzování podle tohoto zákona nejsou
+>
+> - a) koncepce zpracovávané pouze pro účely obrany státu,
+>
+> - b) koncepce zpracovávané pro případ mimořádných událostí, při kterých dochází k závažnému a bezprostřednímu ohrožení životního prostředí, zdraví, bezpečnosti nebo majetku osob,
+>
+> - c) finanční a rozpočtové koncepce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c75c1715abfb0868d194 -->
+
 ### § 10b — Způsob posuzování vlivů koncepce na životní prostředí
 
 > **§ 10b**
@@ -196,6 +260,58 @@ Za druhé, je-li koncepce zpracovávána ve **variantách**, musí být posuzov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c39d50eb67f9d358dbf generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10b — Způsob posuzování vlivů koncepce na životní prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Posuzování koncepce zahrnuje zjištění, popis a zhodnocení předpokládaných přímých a nepřímých vlivů provedení i neprovedení koncepce a jejích cílů, a to pro celé období jejího předpokládaného provádění.
+>
+> (2) Při posuzování koncepce se přihlíží k vlivům jiných koncepcí nebo záměrů, které budou uskutečněny před provedením koncepce nebo v průběhu jejího provádění, popřípadě jejichž provedení je zamýšleno.
+>
+> (3) Při posuzování koncepce podle tohoto zákona mohou být využity údaje z jiného posuzování, pokud odpovídají údajům podle tohoto zákona.
+>
+> (4) Při posuzování koncepce se navrhují a posuzují opatření k předcházení nepříznivých vlivů na životní prostředí a veřejné zdraví, k vyloučení, snížení, zmírnění nebo kompenzaci těchto vlivů, popřípadě ke zvýšení příznivých vlivů na životní prostředí a veřejné zdraví provedením koncepce, včetně vyhodnocení předpokládané účinnosti navrhovaných opatření. Je-li koncepce řešena ve variantách, je nutné posuzování podle tohoto zákona provést pro všechny varianty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c39d50eb67f9d358dbf -->
+
 ### § 10c — Oznámení koncepce
 
 > **§ 10c**
@@ -263,6 +379,56 @@ Lhůta 20 dnů od zveřejnění pro písemná vyjádření veřejnosti implement
 **Typicky rozhodné důkazy / podklady:** text oznámení a doklad o splnění náležitostí přílohy č. 7; doklad o datu a způsobu zveřejnění (§ 16); rozdělovník dotčených orgánů, krajů a obcí; doklad o datu odeslání jednotlivých vyjádření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=412fc160d8a6249b1725 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10c — Oznámení koncepce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Ten, kdo zpracovává koncepci nebo předkládá podnět k jejímu zpracování (dále jen „předkladatel“), je povinen předložit oznámení koncepce příslušnému úřadu v elektronické podobě; příslušný úřad může podle okolností požadovat předložení oznámení koncepce i v listinné podobě. Náležitosti oznámení koncepce stanoví příloha č. 7 k tomuto zákonu.
+>
+> (2) Pokud oznámení koncepce splňuje náležitosti podle odstavce 1, zašle příslušný úřad do 10 pracovních dnů ode dne jeho obdržení dotčeným orgánům, dotčeným krajům a případně také dotčeným obcím, které příslušný úřad určí s ohledem na předpokládané místní vlivy koncepce na životní prostředí, informaci o přijetí oznámení koncepce spolu s upozorněním na možnost vyjádřit se k oznámení koncepce. V téže lhůtě zveřejní oznámení podle [[#§ 16|§ 16]].
+>
+> (3) Každý může zaslat své písemné vyjádření k oznámení koncepce příslušnému úřadu ve lhůtě do 20 dnů ode dne jeho zveřejnění. K vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=412fc160d8a6249b1725 -->
 
 ### § 10d — Zjišťovací řízení
 
@@ -361,6 +527,64 @@ Závěr zjišťovacího řízení je distribuován a zveřejněn stejnému okruh
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a625d176250e0c8a7249 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10d — Zjišťovací řízení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Cílem zjišťovacího řízení je upřesnění obsahu a rozsahu vyhodnocení vlivů koncepce na životní prostředí a veřejné zdraví (dále jen „vyhodnocení“). U koncepce uvedené v § 10a odst. 1 písm. b) a c) je cílem zjišťovacího řízení také zjištění, zda provádění koncepce nebo její změna může mít významný vliv na životní prostředí a zda bude posuzována podle tohoto zákona.
+>
+> (2) Příslušný úřad provede zjišťovací řízení na podkladě oznámení, vyjádření k němu obdržených a podle kritérií uvedených v příloze č. 8 k tomuto zákonu a ukončí jej nejpozději do 35 dnů ode dne zveřejnění informace o oznámení koncepce odůvodněným písemným závěrem zjišťovacího řízení.
+>
+> (3) Pokud koncepce podléhá posuzování podle tohoto zákona, příslušný úřad v závěru zjišťovacího řízení stanoví
+>
+> - a) obsah a rozsah vyhodnocení, včetně požadavku na zpracování v úvahu přicházejících variant koncepce,
+>
+> - b) v jakém počtu vyhotovení má být příslušnému úřadu předán návrh koncepce.
+>
+> (4) Nejde-li o koncepci podle odstavce 3, je příslušný úřad povinen uvést v závěru zjišťovacího řízení důvody, pro které není posuzování podle tohoto zákona požadováno.
+>
+> (5) Příslušný úřad zašle závěr zjišťovacího řízení neprodleně předkladateli, dotčeným orgánům a dotčeným krajům a případně také dotčeným obcím, které příslušný úřad určil podle § 10c odst. 2, a zároveň jej zveřejní podle [[#§ 16|§ 16]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10a, § 10c, § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a625d176250e0c8a7249 -->
+
 ### § 10e — Průběh posuzování vlivů koncepce na životní prostředí
 
 > **§ 10e**
@@ -432,6 +656,60 @@ Posuzovatel má naproti tomu aktivní právo požadovat informace od celého okr
 **Typicky rozhodné důkazy / podklady:** doklad o autorizaci posuzovatele (§ 19); žádosti o informace a odpovědi dotčených orgánů; evidence došlých vyjádření a dokladů o jejich předání posuzovateli; srovnání doporučených opatření s finálním návrhem koncepce a odůvodnění případných odchylek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4d9b90cc0835b37ccbb0 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10e — Průběh posuzování vlivů koncepce na životní prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Předkladatel je povinen zajistit osobu oprávněnou ke zpracování vyhodnocení podle [[#§ 19|§ 19]] (dále jen „posuzovatel“) a informovat o tom nejpozději s předáním návrhu koncepce podle § 10f odst. 1 příslušný úřad, který tuto informaci neprodleně zveřejní na internetu.
+>
+> (2) Předkladatel je povinen spolupracovat s posuzovatelem při zpracování vyhodnocení, zejména mu předávat vyjádření došlá v průběhu zpracování návrhu koncepce.
+>
+> (3) Za úplné a objektivní zpracování vyhodnocení je odpovědný posuzovatel. Náležitosti vyhodnocení jsou uvedeny v příloze č. 9 k tomuto zákonu. Vyhodnocení se zpracovává se zohledněním jak současného stavu životního prostředí, tak poznatků a metod posuzování.
+>
+> (4) Posuzovatel je oprávněn požadovat informace nezbytné pro zpracování vyhodnocení u předkladatele, příslušného úřadu, dotčených orgánů a dotčených územních samosprávných celků a ty jsou povinny mu informace v potřebném rozsahu poskytnout. Odmítnout poskytnutí informace je možné pouze za podmínek stanovených zvláštními právními předpisy.4c)
+>
+> (5) Předkladatel spolupracuje při zpracování návrhu koncepce s posuzovatelem s cílem zohlednit v koncepci posuzovatelem doporučená opatření pro předcházení, snížení nebo kompenzaci negativních vlivů koncepce na životní prostředí a veřejné zdraví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19, § 10f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d9b90cc0835b37ccbb0 -->
 
 ### § 10f — Návrh koncepce a veřejné projednání
 
@@ -518,6 +796,66 @@ Veřejnost tímto procesem naplňuje právo na **účast na rozhodování** zaru
 **Typicky rozhodné důkazy / podklady:** návrh koncepce a vyhodnocení (příloha č. 9); vyjádření k oznámení a k návrhu koncepce; odůvodnění rozhodnutí o upuštění; zápis z veřejného projednání a doklad o jeho zveřejnění; doklad o vypořádání vyjádření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=22473ac32960b72e18fb generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10f — Návrh koncepce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Předkladatel je povinen předat příslušnému úřadu návrh koncepce v elektronické podobě; příslušný úřad může podle okolností požadovat předání návrhu koncepce i v listinné podobě. Nedílnou součástí návrhu koncepce je vyhodnocení zpracované posuzovatelem.
+>
+> (2) Pokud vyhodnocení obsahuje náležitosti podle přílohy č. 9 k tomuto zákonu, zašle příslušný úřad do 10 pracovních dnů ode dne, kdy mu byl doručen návrh koncepce, dotčeným orgánům, dotčeným krajům a případně také dotčeným obcím, které příslušný úřad určil podle § 10c odst. 2, informaci o přijetí návrhu koncepce spolu s upozorněním na možnost vyjádřit se k návrhu koncepce. Příslušný úřad zároveň může na základě návrhu koncepce a vyjádření veřejnosti k oznámení stanovit, že od veřejného projednání upouští. V téže lhůtě zveřejní návrh koncepce podle [[#§ 16|§ 16]]. Pokud vyhodnocení neobsahuje náležitosti podle přílohy č. 9 k tomuto zákonu, vrátí jej v téže lhůtě příslušný úřad k doplnění.
+>
+> (3) Veřejné projednání se koná prezenční nebo distanční formou, popřípadě oběma formami současně. Předkladatel je povinen zveřejnit informaci o místě a času konání veřejného projednání návrhu koncepce na své úřední desce, a to nejméně 5 pracovních dnů před jeho konáním. Současně je povinen o místě a času konání tohoto veřejného projednání informovat příslušný úřad. V případě veřejného projednání konaného distanční formou se místem konání rozumí stanovené technické podmínky pro možnost účastnit se veřejného projednání.
+>
+> (4) Veřejné projednání návrhu koncepce nemůže být konáno dříve než po uplynutí 30 dnů ode dne předložení návrhu koncepce příslušnému úřadu. Veřejné projednání zajišťuje předkladatel. Předkladatel je povinen nejpozději do 5 dnů ode dne konání veřejného projednání návrhu koncepce zaslat zápis z tohoto veřejného projednání příslušnému úřadu a současně jej zveřejnit na internetu. Na veřejné projednání návrhu koncepce se nevztahuje [[#§ 17|§ 17]].
+>
+> (5) Každý může zaslat své písemné vyjádření k návrhu koncepce příslušnému úřadu nejpozději do 5 dnů ode dne konání veřejného projednání návrhu koncepce. V téže lhůtě může zaslat předkladatel příslušnému úřadu své písemné vyjádření k vyhodnocení. K vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží.
+>
+> (6) Upustí-li příslušný úřad od veřejného projednání postupem podle odstavce 2, může každý zaslat své písemné vyjádření k návrhu koncepce příslušnému úřadu ve lhůtě do 20 dnů ode dne jeho zveřejnění. K vyjádřením zaslaným po lhůtě příslušný úřad nepřihlíží.
+>
+> (7) Příslušný úřad neprodleně po uplynutí lhůty podle odstavce 5 nebo [[#§ 6|6]] zašle došlá vyjádření předkladateli.
+>
+> (8) Předkladatel ve spolupráci s posuzovatelem zajistí vypořádání všech vyjádření k návrhu koncepce. Upravený návrh koncepce včetně informace o způsobu vypořádání všech vyjádření zašle předkladatel bez zbytečného odkladu příslušnému úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10c, § 16, § 17, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22473ac32960b72e18fb -->
 
 ### § 10g — Stanovisko k návrhu koncepce
 
@@ -625,6 +963,72 @@ SEA stanovisko samo o sobě není opatřením obecné povahy, avšak je-li přij
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=267e591e975f66574247 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10g — Stanovisko k návrhu koncepce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Příslušný úřad vydá na základě upraveného návrhu koncepce, vyjádření podaných k návrhu koncepce a závěrů veřejného projednání stanovisko k posouzení vlivů provádění koncepce na životní prostředí a veřejné zdraví (dále jen „stanovisko ke koncepci“) ve lhůtě do 20 dnů ode dne obdržení upraveného návrhu koncepce včetně informace o způsobu vypořádání vyjádření.
+>
+> (2) Příslušný úřad může ve svém stanovisku vyjádřit nesouhlas s návrhem koncepce z hlediska možných negativních vlivů na životní prostředí a veřejné zdraví, dále může navrhnout jeho doplnění, popřípadě navrhnout kompenzační opatření a opatření ke sledování vlivů provádění koncepce na životní prostředí a veřejné zdraví.
+>
+> (3) Příslušný úřad stanovisko ke koncepci neprodleně po jeho vydání zašle předkladateli, dotčeným orgánům a dotčeným krajům a případně také dotčeným obcím, které příslušný úřad určil podle § 10c odst. 2, a zároveň jej zveřejní podle [[#§ 16|§ 16]].
+>
+> (4) Bez stanoviska ke koncepci nemůže být koncepce schválena. Předkladatel je povinen zohlednit požadavky a podmínky vyplývající ze stanoviska ke koncepci, popřípadě pokud toto stanovisko požadavky a podmínky obsahuje a do koncepce nejsou zahrnuty nebo jsou zahrnuty pouze zčásti, je předkladatel povinen svůj postup odůvodnit.
+>
+> (5) Předkladatel je povinen zveřejnit schválenou koncepci včetně prohlášení, které obsahuje zejména
+>
+> - a) informaci, jak byly ve schválené koncepci zohledněny požadavky a podmínky vyplývající ze stanoviska ke koncepci,
+>
+> - b) informaci, jak bylo ve schválené koncepci zohledněno vyjádření dotčeného státu, pokud byla koncepce předmětem mezistátního posuzování podle [[#§ 14a|§ 14a]],
+>
+> - c) odůvodnění vybrané varianty, pokud byl návrh koncepce zpracován ve variantách,
+>
+> - d) informaci o účasti veřejnosti při zpracování koncepce a v procesu posuzování vlivů koncepce na životní prostředí,
+>
+> - e) informaci o přijatých opatřeních pro zajištění sledování a rozboru vlivů koncepce na životní prostředí a veřejné zdraví podle [[#§ 10h|§ 10h]].
+>
+> (6) O zveřejnění prohlášení podle odstavce 5 je předkladatel povinen do 7 pracovních dnů informovat příslušný úřad, dotčené orgány, dotčené kraje a případně také dotčené obce, které příslušný úřad určil podle § 10c odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10c, § 16, § 14a, § 10h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=267e591e975f66574247 -->
+
 ### § 10h — Sledování a rozbor vlivů koncepce na životní prostředí a veřejné zdraví
 
 > **§ 10h**
@@ -690,6 +1094,54 @@ Dotčené orgány mají subsidiární monitorovací roli: sledují vlivy v rámc
 **Typicky rozhodné důkazy / podklady:** schválená koncepce a SEA stanovisko (zejm. monitorovací podmínky); monitorovací data a jejich rozbor; doklad o zjištění nepředvídaných významných vlivů; podnět dotčeného orgánu ke změně; doklad o přijatých zmírňujících opatřeních a o rozhodnutí o změně koncepce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=baaaa87509d0be45675e generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10h — Sledování a rozbor vlivů koncepce na životní prostředí a veřejné zdraví
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Předkladatel je povinen zajistit sledování a rozbor vlivů schválené koncepce na životní prostředí a veřejné zdraví. Pokud zjistí, že provádění koncepce má nepředvídané významné negativní vlivy na životní prostředí nebo veřejné zdraví, je povinen zajistit přijetí opatření k odvrácení nebo zmírnění takových vlivů, informovat o tom příslušný úřad a dotčené orgány a současně rozhodnout o změně koncepce.
+>
+> (2) Dotčené orgány v rámci své působnosti podle zvláštních právních předpisů2) sledují vlivy schválené koncepce na životní prostředí a veřejné zdraví a jsou oprávněny podat podnět ke změně koncepce, nelze-li v dohodě s předkladatelem nepředvídané významné negativní vlivy podle odstavce 1 odvrátit nebo zmírnit jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=baaaa87509d0be45675e -->
 
 ### § 10i — Zvláštní ustanovení pro posuzování vlivů politiky územního rozvoje a územně plánovací dokumentace na životní prostředí
 
@@ -777,3 +1229,52 @@ Jak bylo uvedeno výše u § 10g, územní plán a zásady územního rozvoje js
 ---
 
 > **Pokračování:** [03-hlava2-preshranicni-posuzovani.md](03-hlava2-preshranicni-posuzovani.md) — Hlava II: Posuzování vlivů na životní prostředí přesahujících hranice České republiky (§§ 11–14b) — mezistátní procedury, Espoo úmluva, přeshraniční konzultace.
+
+<!-- LEGAL-REVISION:BEGIN id=60494d1d2a4d8baf0678 generator=2026-07-17.4 source_sha256=86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539 -->
+#### Revizní doplnění k § 10i — Zvláštní ustanovení pro posuzování vlivů politiky územního rozvoje a územně plánovací dokumentace na životní prostředí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 8. 2025 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2001/100-2001 Zákon o posuzování vlivů na životní prostředí a o změně některých souvisejících zákonů (zákon o posuzování vlivů na životní prostředí).md`; identifikátor verze: `SB-2001-00100_2025-08-01`; SHA-256: `86373b2169982f2a35b88eb5a30b0aaea2dccf45ee4266362f759510758c6539`.
+
+##### Znění ustanovení
+
+> (1) Při posuzování vlivů politiky územního rozvoje, územního rozvojového plánu, zásad územního rozvoje, územního plánu a územního opatření o podmínkách a zmírňujících opatřeních podle zákona o urychlení využívání obnovitelných zdrojů energie na životní prostředí se postupuje podle zvláštního právního předpisu4b). Ustanovení [[#§ 20|§ 20]] a § 21 písm. k) tím nejsou dotčena. Ustanovení [[#§ 2|§ 2]], [[#§ 3|3]], [[#§ 10a|10a]], [[#§ 10b|10b]] a [[#§ 10h|10h]] se použijí obdobně a s tím, že zjišťovací řízení a veřejné projednání se postupem podle tohoto zákona neprovádí. Ustanovení [[#§ 10g|§ 10g]] se použije přiměřeně.
+>
+> (2) Ministerstvo nebo orgán kraje v přenesené působnosti (dále jen „orgán kraje“) při pořizování politiky územního rozvoje, územního rozvojového plánu, zásad územního rozvoje, územního plánu a územního opatření o podmínkách a zmírňujících opatřeních podle zákona o urychlení využívání obnovitelných zdrojů energie stanoví podrobnější požadavky na obsah a rozsah vyhodnocení vlivů na životní prostředí včetně návrhu zpracování možných variant řešení. Tyto požadavky zpracovatel vyhodnocení vlivů na životní prostředí ve vyhodnocení zohlední nebo uvede důvody, pro které tak neučinil. Pokud vyhodnocení vlivů na životní prostředí neobsahuje náležitosti podle zvláštního právního předpisu4d), je Ministerstvo nebo orgán kraje oprávněn požadovat jeho dopracování. Při pořizování územního plánu stanoví orgán kraje na základě kritérií uvedených v příloze č. 8 k tomuto zákonu případný požadavek na zpracování vyhodnocení vlivů na životní prostředí.
+>
+> (3) Zpracovatelem vyhodnocení vlivů na životní prostředí může být pouze osoba k tomu oprávněná podle [[#§ 19|§ 19]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 21, § 2, § 3, § 10a, § 10b, § 10h, § 10g, § 19
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60494d1d2a4d8baf0678 -->
